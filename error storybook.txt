@@ -1,0 +1,164 @@
+MacBook-Pro-van-Menno-2:ui-react mennobuggenhout$ yarn run storybook
+yarn run v1.22.10
+$ start-storybook -p 6006 -s public
+info @storybook/react v6.3.12
+info 
+info => Loading presets
+info => Serving static files from ./public at /
+info => Using prebuilt manager
+Pre-bundling dependencies:
+  airbnb-js-shims
+  lodash/mapValues
+  lodash/pick
+  lodash/isFunction
+  lodash/isString
+  (...and 65 more)
+(this will be run only when your dependencies or config have changed)
+╭────────────────────────────────────────────────────╮
+│                                                    │
+│   Storybook 6.3.12 started                         │
+│   2.85 s for preview                               │
+│                                                    │
+│    Local:            http://localhost:6006/        │
+│    On your network:  http://192.168.0.248:6006/    │
+│                                                    │
+╰────────────────────────────────────────────────────╯
+11:36:36 AM [vite] new dependencies found: @material-ui/core, updating...
+11:36:36 AM [vite] Failed to load source map for /node_modules/.vite/chunk-VR6PEOYT.js?v=e67f454e.
+11:36:36 AM [vite] Failed to load source map for /node_modules/.vite/react.js?v=e67f454e.
+11:36:37 AM [vite] Failed to load source map for /node_modules/.vite/lodash_mapValues.js?v=e67f454e.
+11:36:37 AM [vite] Failed to load source map for /node_modules/.vite/ts-dedent.js?v=e67f454e.
+11:36:37 AM [vite] Failed to load source map for /node_modules/.vite/util-deprecate.js?v=e67f454e.
+Sourcemap for "/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/@base2/pretty-print-object/dist/index.js" points to missing source files
+11:36:45 AM [vite] ✨ dependencies updated, reloading page...
+11:36:46 AM [vite] new dependencies found: @material-ui/core/Button, @material-ui/core/CardActionArea, @material-ui/core/CardActions, @material-ui/core/CardContent, @material-ui/core/CardMedia, @material-ui/core/styles, @material-ui/core/Typography, updating...
+11:36:47 AM [vite] Failed to load source map for /node_modules/.vite/chunk-TBBLEHGB.js?v=e67f454e.
+11:36:47 AM [vite] Failed to load source map for /node_modules/.vite/chunk-U3TMEWQO.js?v=e67f454e.
+11:36:47 AM [vite] Failed to load source map for /node_modules/.vite/chunk-SPCU2LQG.js?v=e67f454e.
+11:36:47 AM [vite] Internal server error: Failed to resolve import "./chunk-VMA4PYSN.js" from "node_modules/.vite/chunk-SPCU2LQG.js?v=e67f454e". Does the file exist?
+  Plugin: vite:import-analysis
+  File: /Users/mennobuggenhout/Documents/Lemon/dashboard/packages/ui-react/node_modules/.vite/chunk-SPCU2LQG.js?v=e67f454e
+  3  |    require_has_symbols,
+  4  |    require_shams
+  5  |  } from "./chunk-VMA4PYSN.js";
+     |          ^
+  6  |  import {
+  7  |    __commonJS
+      at formatError (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:42189:46)
+      at TransformContext.error (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:42185:19)
+      at normalizeUrl (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:67284:26)
+      at async TransformContext.transform (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:67424:57)
+      at async Object.transform (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:42396:30)
+      at async doTransform (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:56801:29)
+11:36:47 AM [vite] Failed to load source map for /node_modules/.vite/chunk-W623Z6ZY.js?v=e67f454e.
+11:36:47 AM [vite] Internal server error: Failed to resolve import "./chunk-U3TMEWQO.js" from "node_modules/.vite/chunk-W623Z6ZY.js?v=e67f454e". Does the file exist?
+  Plugin: vite:import-analysis
+  File: /Users/mennobuggenhout/Documents/Lemon/dashboard/packages/ui-react/node_modules/.vite/chunk-W623Z6ZY.js?v=e67f454e
+  2  |    __commonJS,
+  3  |    __require
+  4  |  } from "./chunk-U3TMEWQO.js";
+     |          ^
+  5  |  
+  6  |  // ../../node_modules/memoizerific/memoizerific.js
+      at formatError (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:42189:46)
+      at TransformContext.error (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:42185:19)
+      at normalizeUrl (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:67284:26)
+      at async TransformContext.transform (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:67424:57)
+      at async Object.transform (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:42396:30)
+      at async doTransform (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:56801:29)
+11:36:47 AM [vite] Failed to load source map for /node_modules/.vite/chunk-2DGHIY4B.js?v=e67f454e.
+11:36:47 AM [vite] Internal server error: Failed to resolve import "./chunk-TBBLEHGB.js" from "node_modules/.vite/chunk-2DGHIY4B.js?v=e67f454e". Does the file exist?
+  Plugin: vite:import-analysis
+  File: /Users/mennobuggenhout/Documents/Lemon/dashboard/packages/ui-react/node_modules/.vite/chunk-2DGHIY4B.js?v=e67f454e
+  32 |    require_uid,
+  33 |    require_well_known_symbol
+  34 |  } from "./chunk-TBBLEHGB.js";
+     |          ^
+  35 |  import {
+  36 |    require_window
+      at formatError (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:42189:46)
+      at TransformContext.error (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:42185:19)
+      at normalizeUrl (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:67284:26)
+      at async TransformContext.transform (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:67424:57)
+      at async Object.transform (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:42396:30)
+      at async doTransform (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:56801:29)
+11:36:47 AM [vite] Failed to load source map for /node_modules/.vite/chunk-VMA4PYSN.js?v=e67f454e.
+11:36:47 AM [vite] Internal server error: Failed to resolve import "./chunk-U3TMEWQO.js" from "node_modules/.vite/chunk-VMA4PYSN.js?v=e67f454e". Does the file exist?
+  Plugin: vite:import-analysis
+  File: /Users/mennobuggenhout/Documents/Lemon/dashboard/packages/ui-react/node_modules/.vite/chunk-VMA4PYSN.js?v=e67f454e
+  1  |  import {
+  2  |    __commonJS
+  3  |  } from "./chunk-U3TMEWQO.js";
+     |          ^
+  4  |  
+  5  |  // ../../node_modules/has-symbols/shams.js
+      at formatError (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:42189:46)
+      at TransformContext.error (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:42185:19)
+      at normalizeUrl (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:67284:26)
+      at async TransformContext.transform (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:67424:57)
+      at async Object.transform (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:42396:30)
+      at async doTransform (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:56801:29)
+11:36:47 AM [vite] Failed to load source map for /node_modules/.vite/chunk-CRR5DJSD.js?v=e67f454e.
+11:36:47 AM [vite] Internal server error: Failed to resolve import "./chunk-YDBXIMXS.js" from "node_modules/.vite/chunk-CRR5DJSD.js?v=e67f454e". Does the file exist?
+  Plugin: vite:import-analysis
+  File: /Users/mennobuggenhout/Documents/Lemon/dashboard/packages/ui-react/node_modules/.vite/chunk-CRR5DJSD.js?v=e67f454e
+  1  |  import {
+  2  |    require_baseForOwn
+  3  |  } from "./chunk-YDBXIMXS.js";
+     |          ^
+  4  |  import {
+  5  |    require_baseIteratee
+      at formatError (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:42189:46)
+      at TransformContext.error (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:42185:19)
+      at normalizeUrl (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:67284:26)
+      at async TransformContext.transform (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:67424:57)
+      at async Object.transform (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:42396:30)
+      at async doTransform (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:56801:29)
+11:36:47 AM [vite] Failed to load source map for /node_modules/.vite/chunk-QVBP4FCV.js?v=e67f454e.
+11:36:47 AM [vite] Internal server error: Failed to resolve import "./chunk-U3TMEWQO.js" from "node_modules/.vite/chunk-QVBP4FCV.js?v=e67f454e". Does the file exist?
+  Plugin: vite:import-analysis
+  File: /Users/mennobuggenhout/Documents/Lemon/dashboard/packages/ui-react/node_modules/.vite/chunk-QVBP4FCV.js?v=e67f454e
+  1  |  import {
+  2  |    __commonJS
+  3  |  } from "./chunk-U3TMEWQO.js";
+     |          ^
+  4  |  
+  5  |  // ../../node_modules/lodash/_freeGlobal.js
+      at formatError (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:42189:46)
+      at TransformContext.error (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:42185:19)
+      at normalizeUrl (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:67284:26)
+      at async TransformContext.transform (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:67424:57)
+      at async Object.transform (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:42396:30)
+      at async doTransform (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:56801:29)
+11:36:47 AM [vite] Failed to load source map for /node_modules/.vite/react.js?v=6c75beb9.
+11:36:47 AM [vite] Failed to load source map for /node_modules/.vite/chunk-22JP6D2G.js?v=e67f454e.
+11:36:47 AM [vite] Internal server error: Failed to resolve import "./chunk-TBBLEHGB.js" from "node_modules/.vite/chunk-22JP6D2G.js?v=e67f454e". Does the file exist?
+  Plugin: vite:import-analysis
+  File: /Users/mennobuggenhout/Documents/Lemon/dashboard/packages/ui-react/node_modules/.vite/chunk-22JP6D2G.js?v=e67f454e
+  4  |    require_redefine,
+  5  |    require_regexp_flags
+  6  |  } from "./chunk-TBBLEHGB.js";
+     |          ^
+  7  |  import {
+  8  |    __esm
+      at formatError (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:42189:46)
+      at TransformContext.error (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:42185:19)
+      at normalizeUrl (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:67284:26)
+      at async TransformContext.transform (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:67424:57)
+      at async Object.transform (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:42396:30)
+      at async doTransform (/Users/mennobuggenhout/Documents/Lemon/dashboard/node_modules/vite/dist/node/chunks/dep-e0fe87f8.js:56801:29)
+11:36:47 AM [vite] Failed to load source map for /node_modules/.vite/ts-dedent.js?v=6c75beb9.
+11:36:47 AM [vite] Failed to load source map for /node_modules/.vite/util-deprecate.js?v=6c75beb9.
+11:36:47 AM [vite] Failed to load source map for /node_modules/.vite/@material-ui_core.js?v=6c75beb9.
+11:36:47 AM [vite] Failed to load source map for /node_modules/.vite/chunk-XYC6KKNG.js?v=e67f454e.
+11:36:47 AM [vite] Failed to load source map for /node_modules/.vite/chunk-NQS5NBLA.js?v=e67f454e.
+11:36:47 AM [vite] Failed to load source map for /node_modules/.vite/chunk-MLVTEBD7.js?v=e67f454e.
+11:36:47 AM [vite] Failed to load source map for /node_modules/.vite/chunk-UC7J634E.js?v=e67f454e.
+11:36:47 AM [vite] Failed to load source map for /node_modules/.vite/chunk-OTAXNJWE.js?v=e67f454e.
+11:36:50 AM [vite] ✨ dependencies updated, reloading page...
+^[[1;2D
+
+
+
+
+

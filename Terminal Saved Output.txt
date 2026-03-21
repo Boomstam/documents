@@ -1,0 +1,190 @@
+MacBook-Pro-van-Menno-2:ui-react mennobuggenhout$ yarn storybook
+yarn run v1.22.17
+$ start-storybook -p 6006 -s public
+info @storybook/react v6.4.0-rc.6
+info 
+(node:45806) DeprecationWarning: --static-dir CLI flag is deprecated, see:
+
+https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#deprecated-static-dir-flag
+(Use `node --trace-deprecation ...` to show where the warning was created)
+info => Loading presets
+info => Serving static files from ./public at /
+Pre-bundling dependencies:
+  @base2/pretty-print-object
+  @emotion/core
+  @emotion/is-prop-valid
+  @emotion/styled
+  @mdx-js/react
+  (...and 73 more)
+(this will be run only when your dependencies or config have changed)
+info => Using prebuilt manager
+╭────────────────────────────────────────────────────╮
+│                                                    │
+│   Storybook 6.4.0-rc.6 for React started           │
+│   2.2 s for preview                                │
+│                                                    │
+│    Local:            http://localhost:6006/        │
+│    On your network:  http://192.168.0.248:6006/    │
+│                                                    │
+│   A new version (6.4.9) is available!              │
+│                                                    │
+│   Upgrade now: npx sb@latest upgrade               │
+│                                                    │
+│   Read full changelog: https://git.io/fhFYe        │
+│                                                    │
+╰────────────────────────────────────────────────────╯
+7:42:56 PM [vite] new dependencies found: @storybook/react, updating...
+7:42:56 PM [vite] Failed to load source map for /node_modules/.vite/@storybook_client-api.js?v=7bf07f04.
+7:42:56 PM [vite] Failed to load source map for /node_modules/.vite/@storybook_client-logger.js?v=7bf07f04.
+Sourcemap for "/Users/mennobuggenhout/Documents/Lemon/manus/node_modules/@base2/pretty-print-object/dist/index.js" points to missing source files
+7:44:11 PM [vite] ✨ dependencies updated, reloading page...
+7:44:13 PM [vite] new dependencies found: @material-ui/core, updating...
+7:44:14 PM [vite] Failed to load source map for /node_modules/.vite/chunk-S4Z3AATQ.js?v=1c179e40.
+7:44:14 PM [vite] Failed to load source map for /node_modules/.vite/util-deprecate.js?v=1c179e40.
+7:44:14 PM [vite] Failed to load source map for /node_modules/.vite/chunk-OJG5YP4P.js?v=1c179e40.
+7:44:14 PM [vite] Failed to load source map for /node_modules/.vite/chunk-SMFAROBE.js?v=1c179e40.
+7:44:14 PM [vite] Failed to load source map for /node_modules/.vite/chunk-LNE2EVYO.js?v=1c179e40.
+7:44:14 PM [vite] Failed to load source map for /node_modules/.vite/chunk-KG22QBTS.js?v=1c179e40.
+7:44:14 PM [vite] Failed to load source map for /node_modules/.vite/chunk-HAZFM3RB.js?v=1c179e40.
+7:44:14 PM [vite] Failed to load source map for /node_modules/.vite/chunk-YTCHDPYB.js?v=1c179e40.
+7:44:14 PM [vite] Failed to load source map for /node_modules/.vite/chunk-YRT4NF6J.js?v=1c179e40.
+7:44:14 PM [vite] Failed to load source map for /node_modules/.vite/chunk-VTGJH4GE.js?v=1c179e40.
+7:44:14 PM [vite] Failed to load source map for /node_modules/.vite/chunk-ZTM2NDBR.js?v=1c179e40.
+7:44:14 PM [vite] Failed to load source map for /node_modules/.vite/chunk-OB2EADX2.js?v=1c179e40.
+7:44:14 PM [vite] Failed to load source map for /node_modules/.vite/chunk-HJZEFTFE.js?v=1c179e40.
+7:44:14 PM [vite] Failed to load source map for /node_modules/.vite/chunk-6HJZLKDU.js?v=1c179e40.
+7:44:14 PM [vite] Failed to load source map for /node_modules/.vite/chunk-X43BLQBZ.js?v=1c179e40.
+7:44:14 PM [vite] Failed to load source map for /node_modules/.vite/chunk-5CV5JWO3.js?v=1c179e40.
+7:44:14 PM [vite] Failed to load source map for /node_modules/.vite/chunk-ZSOYIWNY.js?v=1c179e40.
+7:44:14 PM [vite] Failed to load source map for /node_modules/.vite/chunk-F2JUSD47.js?v=1c179e40.
+7:44:14 PM [vite] Failed to load source map for /node_modules/.vite/chunk-YMO2MRS6.js?v=1c179e40.
+7:44:14 PM [vite] Failed to load source map for /node_modules/.vite/chunk-LXVTLLWO.js?v=1c179e40.
+7:44:14 PM [vite] Failed to load source map for /node_modules/.vite/uuid-browser_v4.js?v=1c179e40.
+7:45:23 PM [vite] ✨ dependencies updated, reloading page...
+7:45:24 PM [vite] new dependencies found: faker, updating...
+7:45:24 PM [vite] Failed to load source map for /node_modules/.vite/react.js?v=90dc4c79.
+7:45:24 PM [vite] Failed to load source map for /node_modules/.vite/@material-ui_core.js?v=90dc4c79.
+7:45:24 PM [vite] Failed to load source map for /node_modules/.vite/@storybook_addons.js?v=90dc4c79.
+7:45:25 PM [vite] Failed to load source map for /node_modules/.vite/global.js?v=90dc4c79.
+7:45:25 PM [vite] Failed to load source map for /node_modules/.vite/@storybook_client-logger.js?v=90dc4c79.
+7:45:25 PM [vite] Failed to load source map for /node_modules/.vite/@storybook_csf.js?v=90dc4c79.
+7:45:25 PM [vite] Failed to load source map for /node_modules/.vite/ts-dedent.js?v=90dc4c79.
+7:45:25 PM [vite] Failed to load source map for /node_modules/.vite/util-deprecate.js?v=90dc4c79.
+7:45:25 PM [vite] Failed to load source map for /node_modules/.vite/qs.js?v=90dc4c79.
+7:45:25 PM [vite] Failed to load source map for /node_modules/.vite/chunk-DPFII24L.js?v=90dc4c79.
+7:45:25 PM [vite] Failed to load source map for /node_modules/.vite/chunk-JST3G223.js?v=90dc4c79.
+7:45:25 PM [vite] Failed to load source map for /node_modules/.vite/chunk-DPSRAA2G.js?v=90dc4c79.
+7:45:30 PM [vite] ✨ dependencies updated, reloading page...
+7:45:33 PM [vite] new dependencies found: @material-ui/icons/Check, updating...
+7:45:33 PM [vite] Failed to load source map for /node_modules/.vite/react-dom.js?v=01c270ee.
+7:45:33 PM [vite] Failed to load source map for /node_modules/.vite/global.js?v=01c270ee.
+7:45:33 PM [vite] Failed to load source map for /node_modules/.vite/ts-dedent.js?v=01c270ee.
+7:45:33 PM [vite] Failed to load source map for /node_modules/.vite/util-deprecate.js?v=01c270ee.
+7:45:33 PM [vite] Failed to load source map for /node_modules/.vite/@storybook_addons.js?v=01c270ee.
+7:45:33 PM [vite] Failed to load source map for /node_modules/.vite/chunk-YPMF6T5X.js?v=01c270ee.
+7:45:33 PM [vite] Failed to load source map for /node_modules/.vite/chunk-FEVU2RJ4.js?v=01c270ee.
+7:45:33 PM [vite] Failed to load source map for /node_modules/.vite/chunk-HSRPVK76.js?v=01c270ee.
+7:45:33 PM [vite] Failed to load source map for /node_modules/.vite/chunk-LHBDPGYE.js?v=01c270ee.
+7:45:33 PM [vite] Failed to load source map for /node_modules/.vite/chunk-U7WE6EON.js?v=01c270ee.
+7:45:33 PM [vite] Failed to load source map for /node_modules/.vite/chunk-MGA4NACX.js?v=01c270ee.
+7:45:33 PM [vite] Failed to load source map for /node_modules/.vite/chunk-UCUC6YXZ.js?v=01c270ee.
+7:45:33 PM [vite] Failed to load source map for /node_modules/.vite/chunk-MAE4IB2Z.js?v=01c270ee.
+7:45:40 PM [vite] Failed to load source map for /node_modules/.vite/faker.js?v=01c270ee.
+7:46:57 PM [vite] ✨ dependencies updated, reloading page...
+7:46:59 PM [vite] new dependencies found: @material-ui/icons, @material-ui/icons/AccountCircle, @material-ui/icons/Add, @material-ui/icons/ChevronLeft, @material-ui/icons/ChevronRight, @material-ui/icons/Clear, @material-ui/icons/Comment, @material-ui/icons/Edit, @material-ui/icons/FiberManualRecord, @material-ui/icons/Person, @material-ui/icons/PhotoCamera, @material-ui/icons/Search, @material-ui/icons/ThumbDown, @material-ui/icons/ThumbUp, @material-ui/icons/Visibility, updating...
+7:46:59 PM [vite] Failed to load source map for /node_modules/.vite/chunk-KG22QBTS.js?v=01c270ee.
+7:46:59 PM [vite] Failed to load source map for /node_modules/.vite/chunk-VTGJH4GE.js?v=01c270ee.
+7:46:59 PM [vite] Failed to load source map for /node_modules/.vite/global.js?v=e5eb1b77.
+7:46:59 PM [vite] Failed to load source map for /node_modules/.vite/chunk-YTCHDPYB.js?v=01c270ee.
+7:46:59 PM [vite] Failed to load source map for /node_modules/.vite/@storybook_react.js?v=e5eb1b77.
+7:46:59 PM [vite] Failed to load source map for /node_modules/.vite/@storybook_client-api.js?v=e5eb1b77.
+7:46:59 PM [vite] Failed to load source map for /node_modules/.vite/@storybook_client-logger.js?v=e5eb1b77.
+7:47:00 PM [vite] Failed to load source map for /node_modules/.vite/chunk-MGA4NACX.js?v=e5eb1b77.
+7:47:00 PM [vite] Failed to load source map for /node_modules/.vite/chunk-WMNIGGFA.js?v=e5eb1b77.
+7:47:00 PM [vite] Failed to load source map for /node_modules/.vite/chunk-3JSTTTCR.js?v=e5eb1b77.
+7:47:00 PM [vite] Failed to load source map for /node_modules/.vite/chunk-LHBDPGYE.js?v=e5eb1b77.
+7:47:00 PM [vite] Failed to load source map for /node_modules/.vite/chunk-FEVU2RJ4.js?v=e5eb1b77.
+7:47:00 PM [vite] Failed to load source map for /node_modules/.vite/chunk-ELNXCFTA.js?v=e5eb1b77.
+7:47:00 PM [vite] Failed to load source map for /node_modules/.vite/chunk-B24XQJMF.js?v=e5eb1b77.
+7:47:00 PM [vite] Failed to load source map for /node_modules/.vite/chunk-D2QEYMZC.js?v=e5eb1b77.
+7:47:07 PM [vite] Failed to load source map for /node_modules/.vite/@material-ui_core.js?v=e5eb1b77.
+7:47:07 PM [vite] Failed to load source map for /node_modules/.vite/chunk-OIFK3N6K.js?v=e5eb1b77.
+7:47:07 PM [vite] Failed to load source map for /node_modules/.vite/chunk-S4Z3AATQ.js?v=e5eb1b77.
+7:48:03 PM [vite] ✨ dependencies updated, reloading page...
+7:48:05 PM [vite] new dependencies found: @material-ui/core/colors, @material-ui/core/styles, updating...
+7:48:06 PM [vite] Failed to load source map for /node_modules/.vite/faker.js?v=a8ea954e.
+7:48:06 PM [vite] Failed to load source map for /node_modules/.vite/@storybook_csf.js?v=a8ea954e.
+7:48:06 PM [vite] Failed to load source map for /node_modules/.vite/qs.js?v=a8ea954e.
+7:48:06 PM [vite] Failed to load source map for /node_modules/.vite/@material-ui_icons_Check.js?v=a8ea954e.
+7:48:06 PM [vite] Failed to load source map for /node_modules/.vite/doctrine.js?v=a8ea954e.
+7:48:06 PM [vite] Failed to load source map for /node_modules/.vite/uuid-browser_v4.js?v=a8ea954e.
+7:48:06 PM [vite] Failed to load source map for /node_modules/.vite/memoizerific.js?v=a8ea954e.
+7:48:06 PM [vite] Failed to load source map for /node_modules/.vite/lodash_mapValues.js?v=a8ea954e.
+7:48:06 PM [vite] Failed to load source map for /node_modules/.vite/synchronous-promise.js?v=a8ea954e.
+7:48:06 PM [vite] Failed to load source map for /node_modules/.vite/lodash_pick.js?v=a8ea954e.
+7:48:06 PM [vite] Failed to load source map for /node_modules/.vite/lodash_pickBy.js?v=a8ea954e.
+7:48:06 PM [vite] Failed to load source map for /node_modules/.vite/lodash_isPlainObject.js?v=a8ea954e.
+7:48:06 PM [vite] Failed to load source map for /node_modules/.vite/fast-deep-equal.js?v=a8ea954e.
+7:48:06 PM [vite] Failed to load source map for /node_modules/.vite/lodash_startCase.js?v=a8ea954e.
+7:48:06 PM [vite] Failed to load source map for /node_modules/.vite/slash.js?v=a8ea954e.
+7:48:06 PM [vite] Failed to load source map for /node_modules/.vite/stable.js?v=a8ea954e.
+7:48:06 PM [vite] Failed to load source map for /node_modules/.vite/escodegen.js?v=a8ea954e.
+7:48:06 PM [vite] Failed to load source map for /node_modules/.vite/html-tags.js?v=a8ea954e.
+7:49:12 PM [vite] ✨ dependencies updated, reloading page...
+7:49:16 PM [vite] new dependencies found: @material-ui/icons/node_modules/@material-ui/core, updating...
+7:49:17 PM [vite] Failed to load source map for /node_modules/.vite/chunk-OV22DYPZ.js?v=4d68e226.
+7:49:17 PM [vite] Failed to load source map for /node_modules/.vite/chunk-OA6JWARB.js?v=4d68e226.
+7:49:17 PM [vite] Failed to load source map for /node_modules/.vite/chunk-CXA4AWZV.js?v=4d68e226.
+7:49:17 PM [vite] Failed to load source map for /node_modules/.vite/chunk-TFL7LET3.js?v=4d68e226.
+7:49:17 PM [vite] Failed to load source map for /node_modules/.vite/@material-ui_icons.js?v=4d68e226.
+7:49:17 PM [vite] Failed to load source map for /node_modules/.vite/global.js?v=4d68e226.
+7:49:17 PM [vite] Failed to load source map for /node_modules/.vite/react-dom.js?v=4d68e226.
+7:49:17 PM [vite] Failed to load source map for /node_modules/.vite/ts-dedent.js?v=4d68e226.
+7:49:17 PM [vite] Failed to load source map for /node_modules/.vite/util-deprecate.js?v=4d68e226.
+7:49:17 PM [vite] Failed to load source map for /node_modules/.vite/@storybook_addons.js?v=4d68e226.
+7:49:45 PM [vite] hmr update /src/components/AttitudeDetailComponent/AttitudeDetailComponent.tsx
+7:50:25 PM [vite] hmr update /src/components/AttitudeDetailComponent/AttitudeDetailComponent.tsx (x2)
+7:50:45 PM [vite] hmr update /src/components/AttitudeDetailComponent/AttitudeDetailComponent.tsx (x3)
+7:50:46 PM [vite] hmr update /src/components/AttitudeDetailComponent/AttitudeDetailComponent.tsx (x4)
+7:50:48 PM [vite] ✨ dependencies updated, reloading page...
+7:50:56 PM [vite] hmr update /src/components/AttitudeDetailComponent/AttitudeDetailComponent.tsx
+7:50:57 PM [vite] new dependencies found: victory, updating...
+7:50:57 PM [vite] Failed to load source map for /node_modules/.vite/memoizerific.js?v=80a8343e.
+7:50:57 PM [vite] Failed to load source map for /node_modules/.vite/lodash_mapValues.js?v=80a8343e.
+7:50:57 PM [vite] Failed to load source map for /node_modules/.vite/lodash_pick.js?v=80a8343e.
+7:50:57 PM [vite] Failed to load source map for /node_modules/.vite/synchronous-promise.js?v=80a8343e.
+7:50:57 PM [vite] Failed to load source map for /node_modules/.vite/lodash_isPlainObject.js?v=80a8343e.
+7:50:57 PM [vite] Failed to load source map for /node_modules/.vite/lodash_pickBy.js?v=80a8343e.
+7:50:57 PM [vite] Failed to load source map for /node_modules/.vite/fast-deep-equal.js?v=80a8343e.
+7:50:58 PM [vite] Failed to load source map for /node_modules/.vite/lodash_startCase.js?v=80a8343e.
+7:50:58 PM [vite] Failed to load source map for /node_modules/.vite/slash.js?v=80a8343e.
+7:50:58 PM [vite] Failed to load source map for /node_modules/.vite/stable.js?v=80a8343e.
+7:50:58 PM [vite] Failed to load source map for /node_modules/.vite/doctrine.js?v=80a8343e.
+7:50:58 PM [vite] Failed to load source map for /node_modules/.vite/html-tags.js?v=80a8343e.
+7:50:58 PM [vite] Failed to load source map for /node_modules/.vite/escodegen.js?v=80a8343e.
+7:50:58 PM [vite] Failed to load source map for /node_modules/.vite/uuid-browser_v4.js?v=80a8343e.
+7:51:24 PM [vite] hmr update /src/components/AttitudeDetailComponent/AttitudeDetailComponent.tsx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
