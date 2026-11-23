@@ -1,0 +1,25 @@
+<definition type="element" hotspot_x="31" version="0.100.0" height="30" hotspot_y="20" link_type="slave" width="50">
+    <uuid uuid="{ac9c39b1-543c-481f-b910-c28747c1da90}"/>
+    <names>
+        <name lang="fr">Interrupteur bipolaire à lampe de signalisation</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations>EN 60617: 11-14-06</informations>
+    <description>
+        <dynamic_text keep_visual_rotation="false" text_from="ElementInfo" Valignment="AlignTop" uuid="{180d6856-20dd-4699-8c02-2dc010c8ac79}" frame="false" Halignment="AlignLeft" y="-2.5" text_width="-1" x="5" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" z="1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon y3="-14" x2="9" y2="-16" antialias="true" x1="2" style="line-style:normal;line-weight:normal;filling:none;color:black" x3="12" closed="false" y1="-5"/>
+        <circle antialias="true" diameter="10" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-5" x="-5"/>
+        <circle antialias="false" diameter="10" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-5" x="-25"/>
+        <line x2="-5" y2="0" length1="1.5" antialias="false" x1="-15" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="0"/>
+        <line x2="-23" y2="3" length1="1.5" antialias="false" x1="-17" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-3"/>
+        <line x2="-17" y2="4" length1="1.5" antialias="false" x1="-23" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-4"/>
+        <line x2="10" y2="-10" length1="1.5" antialias="false" x1="7" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-12"/>
+    </description>
+</definition>

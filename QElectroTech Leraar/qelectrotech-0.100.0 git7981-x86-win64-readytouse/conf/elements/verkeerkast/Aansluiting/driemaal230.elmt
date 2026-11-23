@@ -1,0 +1,45 @@
+<definition height="60" version="0.100.0" hotspot_x="25" width="70" type="element" hotspot_y="29" link_type="simple">
+    <uuid uuid="{5e53ced3-bd9e-40c9-ada5-f74e6579f29a}"/>
+    <names>
+        <name lang="fr">Aansluiting Drie Maal 230V</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect height="40" width="20" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false" rx="0" ry="0" x="-20" y="-20"/>
+        <rect height="40" width="20" style="line-style:normal;line-weight:normal;filling:gray;color:black" antialias="false" rx="0" ry="0" x="0" y="-20"/>
+        <rect height="40" width="20" style="line-style:normal;line-weight:normal;filling:HTMLBrownPeru;color:black" antialias="false" rx="0" ry="0" x="20" y="-20"/>
+        <line length1="1.5" y2="-3" x1="23" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" end2="none" length2="1.5" antialias="false" x2="37" end1="none" y1="-3"/>
+        <line length1="1.5" y2="-3" x1="-17" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" end2="none" length2="1.5" antialias="false" x2="-3" end1="none" y1="-3"/>
+        <line length1="1.5" y2="-3" x1="3" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" end2="none" length2="1.5" antialias="false" x2="17" end1="none" y1="-3"/>
+        <line length1="1.5" y2="-6" x1="23" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" end2="none" length2="1.5" antialias="false" x2="37" end1="none" y1="-6"/>
+        <line length1="1.5" y2="-6" x1="-17" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" end2="none" length2="1.5" antialias="false" x2="-3" end1="none" y1="-6"/>
+        <line length1="1.5" y2="-6" x1="3" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" end2="none" length2="1.5" antialias="false" x2="17" end1="none" y1="-6"/>
+        <line length1="1.5" y2="-9" x1="23" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" end2="none" length2="1.5" antialias="false" x2="37" end1="none" y1="-9"/>
+        <line length1="1.5" y2="-9" x1="-17" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" end2="none" length2="1.5" antialias="false" x2="-3" end1="none" y1="-9"/>
+        <line length1="1.5" y2="-9" x1="3" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" end2="none" length2="1.5" antialias="false" x2="17" end1="none" y1="-9"/>
+        <line length1="1.5" y2="-12" x1="23" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" end2="none" length2="1.5" antialias="false" x2="37" end1="none" y1="-12"/>
+        <line length1="1.5" y2="-12" x1="-17" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" end2="none" length2="1.5" antialias="false" x2="-3" end1="none" y1="-12"/>
+        <line length1="1.5" y2="-12" x1="3" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" end2="none" length2="1.5" antialias="false" x2="17" end1="none" y1="-12"/>
+        <line length1="1.5" y2="-15" x1="23" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" end2="none" length2="1.5" antialias="false" x2="37" end1="none" y1="-15"/>
+        <line length1="1.5" y2="-15" x1="-17" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" end2="none" length2="1.5" antialias="false" x2="-3" end1="none" y1="-15"/>
+        <line length1="1.5" y2="-15" x1="3" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" end2="none" length2="1.5" antialias="false" x2="17" end1="none" y1="-15"/>
+        <rect height="2" width="12" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" rx="0" ry="0" x="-16" y="-22"/>
+        <rect height="2" width="12" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" rx="0" ry="0" x="4" y="-22"/>
+        <rect height="2" width="12" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" rx="0" ry="0" x="24" y="-22"/>
+        <rect height="2" width="12" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" rx="0" ry="0" x="-16" y="20"/>
+        <rect height="2" width="12" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" rx="0" ry="0" x="4" y="20"/>
+        <rect height="2" width="12" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" rx="0" ry="0" x="24" y="20"/>
+        <circle diameter="10" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false" x="5" y="-5"/>
+        <circle diameter="10" style="line-style:normal;line-weight:normal;filling:gray;color:black" antialias="false" x="-15" y="-5"/>
+        <circle diameter="10" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false" x="25" y="-5"/>
+        <line length1="1.5" y2="0" x1="20" style="line-style:normal;line-weight:hight;filling:none;color:black" end2="none" length2="1.5" antialias="false" x2="40" end1="none" y1="0"/>
+        <line length1="1.5" y2="0" x1="0" style="line-style:normal;line-weight:hight;filling:none;color:black" end2="none" length2="1.5" antialias="false" x2="20" end1="none" y1="0"/>
+        <terminal name="" orientation="n" type="Generic" uuid="{fa99e9da-35df-4792-84f3-fa99aaa55951}" x="10" y="-22"/>
+        <terminal name="" orientation="s" type="Generic" uuid="{23a7dd02-1eb4-4cdf-b047-016628b4870e}" x="10" y="22"/>
+        <terminal name="" orientation="s" type="Generic" uuid="{e0a481bb-471c-4518-8d85-523b3ad2d02b}" x="-10" y="22"/>
+        <terminal name="" orientation="n" type="Generic" uuid="{53cb0b9c-2143-4fd9-a4f4-263f3711ade1}" x="-10" y="-22"/>
+        <terminal name="" orientation="n" type="Generic" uuid="{8a1dd7c2-2eeb-4f5d-b1c3-409db7f87164}" x="30" y="-22"/>
+        <terminal name="" orientation="s" type="Generic" uuid="{40e440c1-7a63-47df-b322-b39d5b436418}" x="30" y="22"/>
+    </description>
+</definition>

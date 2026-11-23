@@ -1,0 +1,24 @@
+<definition hotspot_y="22" version="0.100.0" type="element" link_type="simple" width="30" height="40" hotspot_x="15">
+    <uuid uuid="{1116fb05-a0d1-43ec-8d2f-e2c06dc50e7c}"/>
+    <names>
+        <name lang="fr">lampe schema niko</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <arc start="180" width="10" height="20" style="line-style:normal;line-weight:normal;filling:none;color:black" angle="90" antialias="true" x="-10" y="-20"/>
+        <arc start="270" width="10" height="20" style="line-style:normal;line-weight:normal;filling:none;color:black" angle="90" antialias="true" x="0" y="-20"/>
+        <rect rx="0" width="10" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="-5" ry="0" y="0"/>
+        <line x1="-10" x2="10" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-10" length2="1.5" antialias="false" end2="none" length1="1.5" end1="none" y2="-10"/>
+        <arc start="90" width="20" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" angle="90" antialias="true" x="-10" y="-13"/>
+        <arc start="0" width="20" height="6" style="line-style:normal;line-weight:normal;filling:none;color:black" angle="90" antialias="true" x="-10" y="-13"/>
+        <line x1="-8" x2="-9" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-14" length2="1.5" antialias="false" end2="none" length1="1.5" end1="none" y2="-16"/>
+        <line x1="0" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-15" length2="1.5" antialias="false" end2="none" length1="1.5" end1="none" y2="-17"/>
+        <line x1="8" x2="9" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-14" length2="1.5" antialias="false" end2="none" length1="1.5" end1="none" y2="-16"/>
+        <line x1="-4" x2="5" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="9" length2="1.5" antialias="false" end2="none" length1="1.5" end1="none" y2="6"/>
+        <line x1="-4" x2="4" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="6" length2="1.5" antialias="false" end2="none" length1="1.5" end1="none" y2="3"/>
+        <line x1="-5" x2="3" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="3" length2="1.5" antialias="false" end2="none" length1="1.5" end1="none" y2="0"/>
+        <terminal name="" type="Generic" x="5" uuid="{2465b472-2cdf-4abb-92be-1183005b20be}" y="11" orientation="s"/>
+        <terminal name="" type="Generic" x="-5" uuid="{2d914dc1-4bc0-45cf-a8e4-52ffb3a4d943}" y="11" orientation="s"/>
+    </description>
+</definition>

@@ -1,0 +1,32 @@
+<definition hotspot_x="15" height="30" width="30" type="element" hotspot_y="15" version="0.100.0" link_type="master">
+    <uuid uuid="{f4f2654a-92db-4051-99e5-b7060c92b0cc}"/>
+    <names>
+        <name lang="fr">Compteur kWatt</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text z="1" y="-38" font="Sans Serif,9,-1,5,50,0,0,0,0,0" uuid="{515e9684-0611-46cf-9b6f-5f7aa33ac361}" text_from="ElementInfo" text_width="-1" x="-10" frame="false" rotation="0" Valignment="AlignTop" keep_visual_rotation="false" Halignment="AlignLeft">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect ry="0" antialias="false" y="-10" height="20" style="line-style:normal;line-weight:normal;filling:none;color:black" width="20" x="-10" rx="0"/>
+        <line y2="-4" end1="none" length1="1.5" y1="-4" x2="9" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x1="-9" end2="none"/>
+        <text y="5" font="Sans Serif,6,-1,5,50,0,0,0,0,0" x="-7" rotation="0" color="#000000" text="kWh"/>
+    </description>
+</definition>

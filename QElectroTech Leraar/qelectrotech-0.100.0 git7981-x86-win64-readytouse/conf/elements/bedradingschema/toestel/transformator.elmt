@@ -1,0 +1,22 @@
+<definition width="110" hotspot_y="30" link_type="simple" hotspot_x="54" height="60" type="element" version="0.100.0">
+    <uuid uuid="{d703e37a-d6a0-4ffb-af07-c8c9aaf41dfd}"/>
+    <names>
+        <name lang="en">Transformateur</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle diameter="50" x="-45" antialias="false" y="-25" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle diameter="50" x="-5" antialias="false" y="-25" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x2="-50" y2="-10" antialias="false" end1="none" end2="none" x1="-43" y1="-10" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x2="-50" y2="10" antialias="false" end1="none" end2="none" x1="-43" y1="10" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x2="50" y2="-10" antialias="false" end1="none" end2="none" x1="43" y1="-10" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x2="50" y2="10" antialias="false" end1="none" end2="none" x1="43" y1="10" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text x="-42" color="#000000" y="3" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text="230v"/>
+        <text x="11" color="#000000" y="3" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text="12-24v"/>
+        <terminal name="" x="50" orientation="e" y="10" uuid="{cd61c31f-fa13-4e1b-a83a-c6c9662d4e95}" type="Generic"/>
+        <terminal name="" x="50" orientation="e" y="-10" uuid="{7173eada-4c50-455f-8eb0-4959d731e48a}" type="Generic"/>
+        <terminal name="" x="-49" orientation="w" y="-10" uuid="{cb3b9820-5c4e-4da2-ac62-2de9f284c991}" type="Generic"/>
+        <terminal name="" x="-50" orientation="w" y="10" uuid="{beb71a5e-43ce-4577-bfd6-1af6cc9255d0}" type="Generic"/>
+    </description>
+</definition>

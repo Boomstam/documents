@@ -1,0 +1,35 @@
+<definition width="130" version="0.100.0" type="element" height="130" hotspot_x="65" link_type="simple" hotspot_y="64">
+    <uuid uuid="{981f393d-b118-45c9-a735-0ae377701382}"/>
+    <names>
+        <name lang="en">druknop</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">Niko</elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <line length2="1.5" end1="none" y1="-60" y2="60" end2="none" x2="-60" length1="1.5" style="line-style:normal;line-weight:hight;filling:gray;color:black" x1="-60" antialias="false"/>
+        <line length2="1.5" end1="none" y1="-60" y2="60" end2="none" x2="60" length1="1.5" style="line-style:normal;line-weight:hight;filling:none;color:black" x1="60" antialias="false"/>
+        <line length2="1.5" end1="none" y1="60" y2="60" end2="none" x2="60" length1="1.5" style="line-style:normal;line-weight:hight;filling:none;color:black" x1="-60" antialias="false"/>
+        <line length2="1.5" end1="none" y1="-60" y2="-60" end2="none" x2="60" length1="1.5" style="line-style:normal;line-weight:hight;filling:none;color:black" x1="-60" antialias="false"/>
+        <line length2="1.5" end1="none" y1="0" y2="0" end2="none" x2="30" length1="1.5" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="-30" antialias="false"/>
+        <rect width="120" rx="0" height="120" y="-60" x="-60" style="line-style:normal;line-weight:normal;filling:lightgray;color:gray" ry="0" antialias="false"/>
+        <circle diameter="100" y="-50" x="-50" style="line-style:normal;line-weight:normal;filling:gray;color:gray" antialias="false"/>
+        <circle diameter="90" y="-45" x="-45" style="line-style:normal;line-weight:normal;filling:HTMLWhiteWhiteSmoke;color:black" antialias="false"/>
+        <line length2="1.5" end1="none" y1="0" y2="0" end2="none" x2="24" length1="1.5" style="line-style:normal;line-weight:thin;filling:none;color:lightgray" x1="-24" antialias="false"/>
+        <terminal uuid="{4cb2a772-04ab-4ff4-8ec3-c93f99420748}" type="Generic" y="60" x="35" name="" orientation="s"/>
+        <terminal uuid="{f95b0fdf-e2c2-47c9-b1bc-6eed7e0d3387}" type="Generic" y="-60" x="35" name="" orientation="n"/>
+        <terminal uuid="{6cd5f1d9-ab0d-4e04-b7b6-20924efa6a6a}" type="Generic" y="-60" x="-35" name="" orientation="n"/>
+        <terminal uuid="{d81513bc-ac4a-4edb-8a72-b5df1d488cf3}" type="Generic" y="60" x="-35" name="" orientation="s"/>
+    </description>
+</definition>

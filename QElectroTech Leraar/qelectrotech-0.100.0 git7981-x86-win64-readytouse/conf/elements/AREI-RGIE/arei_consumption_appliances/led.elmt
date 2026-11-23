@@ -1,0 +1,22 @@
+<definition hotspot_x="19" hotspot_y="31" link_type="simple" version="0.100.0" type="element" height="60" width="40">
+    <uuid uuid="{a528f29a-fce7-4d03-a532-945f0ae758f2}"/>
+    <names>
+        <name lang="en">led</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <polygon x2="15" antialias="false" x1="-15" y2="0" y3="20" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-20" x3="-15"/>
+        <line end2="none" x2="15" antialias="false" end1="none" x1="15" y2="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" y1="20"/>
+        <line end2="none" x2="-5" antialias="false" end1="none" x1="-10" y2="-25" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" y1="-20"/>
+        <line end2="none" x2="-4" antialias="false" end1="none" x1="0" y2="-16" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" y1="-20"/>
+        <line end2="none" x2="-7" antialias="false" end1="none" x1="-5" y2="-25" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" y1="-25"/>
+        <line end2="none" x2="-5" antialias="false" end1="none" x1="-5" y2="-23" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" y1="-25"/>
+        <line end2="none" x2="-2" antialias="false" end1="none" x1="0" y2="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" y1="-20"/>
+        <line end2="none" x2="0" antialias="false" end1="none" x1="0" y2="-18" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" y1="-20"/>
+        <terminal orientation="n" y="-20" uuid="{97220e56-a091-4c91-866f-e3ae0d431158}" name="" type="Generic" x="0"/>
+        <terminal orientation="e" y="0" uuid="{c43bd18f-4440-4136-a948-5ddcadb2bdd5}" name="" type="Generic" x="15"/>
+        <terminal orientation="s" y="20" uuid="{e57363c3-9386-4760-a586-ad7548378e23}" name="" type="Generic" x="0"/>
+        <terminal orientation="w" y="0" uuid="{46fbe754-5a6d-439c-9cd3-51459214cb42}" name="" type="Generic" x="-15"/>
+    </description>
+</definition>

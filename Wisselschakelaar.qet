@@ -1,0 +1,877 @@
+<project title="Wisselschakelaar" uuid="{f99a0c24-f5d0-4adf-a689-d140df65930a}" version="0.200.1">
+    <properties>
+        <property name="saveddate" show="1">2026/10/14</property>
+        <property name="saveddate-eu" show="1">14-10-2026</property>
+        <property name="saveddate-us" show="1">2026-10-14</property>
+        <property name="savedfilename" show="1">Wisselschakelaar</property>
+        <property name="savedfilepath" show="1">/Users/mennobuggenhout/Documents/Wisselschakelaar.qet</property>
+        <property name="savedtime" show="1">20:04</property>
+    </properties>
+    <usage enabled="true" time_spent="896"/>
+    <symbol_texts upright="true"/>
+    <newdiagrams>
+        <border cols="17" colsize="60" displaycols="true" displayrows="true" rows="8" rowsize="80"/>
+        <inset author="" auto_page_num="" date="null" displayAt="bottom" filename="" folio="%id/%total" indexrev="" locmach="" plant="" title="" version=""/>
+        <conductors bicolor="false" bus="" cable="" color2="#000000" condsize="1" conductor_color="" conductor_section="" dash-size="1" displaytext="1" formula="" function="" horizontal-alignment="AlignBottom" horizrotatetext="0" num="_" numsize="7" onetextperfolio="0" tension_protocol="" text_color="#000000" type="multi" vertical-alignment="AlignRight" vertirotatetext="270"/>
+        <report label="%f-%l%c"/>
+        <xrefs>
+            <xref delayprefix="" displayhas="cross" master_label="%f-%l%c" offset="0" powerprefix="" showallconfiguredslaves="false" showpowerctc="true" showterminalname="true" slave_label="(%f-%l%c)" slave_offset="0" snapto="label" stackoverlapping="true" switchprefix="" type="cable" xrefpos="AlignBottom"/>
+            <xref delayprefix="" displayhas="cross" master_label="%f-%l%c" offset="0" powerprefix="" showallconfiguredslaves="false" showpowerctc="true" showterminalname="true" slave_label="(%f-%l%c)" slave_offset="0" snapto="label" stackoverlapping="true" switchprefix="" type="coil" xrefpos="AlignBottom"/>
+            <xref delayprefix="" displayhas="cross" master_label="%f-%l%c" offset="0" powerprefix="" showallconfiguredslaves="false" showpowerctc="true" showterminalname="true" slave_label="(%f-%l%c)" slave_offset="0" snapto="label" stackoverlapping="true" switchprefix="" type="commutator" xrefpos="AlignBottom"/>
+            <xref delayprefix="" displayhas="cross" master_label="%f-%l%c" offset="0" powerprefix="" showallconfiguredslaves="false" showpowerctc="true" showterminalname="true" slave_label="(%f-%l%c)" slave_offset="0" snapto="label" stackoverlapping="true" switchprefix="" type="plc" xrefpos="AlignBottom"/>
+            <xref delayprefix="" displayhas="cross" master_label="%f-%l%c" offset="0" powerprefix="" showallconfiguredslaves="false" showpowerctc="true" showterminalname="true" slave_label="(%f-%l%c)" slave_offset="0" snapto="label" stackoverlapping="true" switchprefix="" type="protection" xrefpos="AlignBottom"/>
+        </xrefs>
+        <conductors_autonums auto_break_conductors="false" current_autonum="" freeze_new_conductors="false"/>
+        <folio_autonums/>
+        <element_autonums current_autonum="" current_autonum_id="{2a0fb393-d370-42c1-b910-0a9b3caf5567}" freeze_new_elements="false"/>
+        <cable_autonums ask_numbering_rule="false" axis_priority="x" current_autonum=""/>
+        <guides/>
+    </newdiagrams>
+    <diagram author="" auto_page_num="" cols="17" colsize="60" date="null" displayAt="bottom" displaycols="true" displayrows="true" filename="" folio="%id/%total" freezeNewConductor="false" freezeNewElement="false" height="660" indexrev="" locmach="" order="1" plant="" rows="8" rowsize="80" title="" uuid="{2a7b3b8e-37c7-4300-8f6a-61caa2bc370f}" version="0.200.1-dev">
+        <defaultconductor bicolor="false" bus="" cable="" color2="#000000" condsize="1" conductor_color="" conductor_section="" dash-size="1" displaytext="1" formula="" function="" horizontal-alignment="AlignBottom" horizrotatetext="0" num="_" numsize="7" onetextperfolio="0" tension_protocol="" text_color="#000000" type="multi" vertical-alignment="AlignRight" vertirotatetext="270"/>
+        <elements>
+            <element freezeLabel="false" is_movable="1" orientation="3" prefix="F" type="embed://import/10_electric/11_singlepole/200_fuses_protective_gears/10_fuses/fusible.elmt" uuid="{34752229-ed53-46f0-8703-5e141c266d52}" x="370" y="240" z="10">
+                <terminals>
+                    <terminal id="0" orientation="0" x="0" y="-17"/>
+                    <terminal id="1" orientation="2" x="0" y="17"/>
+                </terminals>
+                <inputs/>
+                <dynamic_texts>
+                    <dynamic_elmt_text Halignment="AlignLeft" Valignment="AlignTop" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" frame="false" keep_visual_rotation="false" rotation="0" rotation_point_center="false" text_from="ElementInfo" text_width="-1" uuid="{6ad9976e-d883-4569-bfb1-0ff54b2864d6}" x="5" y="-9.5">
+                        <text></text>
+                        <info_name>label</info_name>
+                    </dynamic_elmt_text>
+                </dynamic_texts>
+                <texts_groups/>
+            </element>
+            <element freezeLabel="false" is_movable="1" orientation="0" prefix="S" type="embed://import/10_electric/10_allpole/380_signaling_operating/21_selector_switches/012_switch_dpst.elmt" uuid="{d7709098-842a-49c2-807d-0e18fc669bc8}" x="500" y="350" z="10">
+                <terminals>
+                    <terminal id="2" orientation="0" x="-10" y="-26"/>
+                    <terminal id="3" orientation="0" x="10" y="-26"/>
+                    <terminal id="4" orientation="2" x="-10" y="6"/>
+                    <terminal id="5" orientation="2" x="10" y="6"/>
+                </terminals>
+                <inputs/>
+                <dynamic_texts>
+                    <dynamic_elmt_text Halignment="AlignLeft" Valignment="AlignTop" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" frame="false" keep_visual_rotation="true" rotation="0" rotation_point_center="false" text_from="ElementInfo" text_width="-1" uuid="{ef86b789-626e-44a6-b2b1-7b4bc79e3610}" x="16" y="-18">
+                        <text></text>
+                        <info_name>label</info_name>
+                    </dynamic_elmt_text>
+                </dynamic_texts>
+                <texts_groups/>
+            </element>
+            <element freezeLabel="false" is_movable="1" orientation="0" prefix="" type="embed://import/10_electric/91_en_60617/en_60617_08/en_60617_08_10/en_60617_08_10_01.elmt" uuid="{4296dd94-f6ed-4f6d-9050-9d3c41c67bf3}" x="600" y="160" z="10">
+                <terminals/>
+                <inputs/>
+                <dynamic_texts>
+                    <dynamic_elmt_text Halignment="AlignLeft" Valignment="AlignTop" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" frame="false" keep_visual_rotation="false" rotation="0" rotation_point_center="false" text_from="ElementInfo" text_width="-1" uuid="{fe73e08f-5a18-48a9-a702-e8581ae07316}" x="5" y="12.5">
+                        <text></text>
+                        <info_name>label</info_name>
+                    </dynamic_elmt_text>
+                </dynamic_texts>
+                <texts_groups/>
+            </element>
+            <element freezeLabel="false" is_movable="1" orientation="0" prefix="" type="embed://import/10_electric/91_en_60617/en_60617_08/en_60617_08_10/en_60617_08_10_01.elmt" uuid="{552f09d1-bf33-482f-a70f-f5506b4ed4c6}" x="600" y="160" z="10">
+                <terminals/>
+                <inputs/>
+                <dynamic_texts>
+                    <dynamic_elmt_text Halignment="AlignLeft" Valignment="AlignTop" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" frame="false" keep_visual_rotation="false" rotation="0" rotation_point_center="false" text_from="ElementInfo" text_width="-1" uuid="{62db5948-aa9e-4059-958b-c8669490e874}" x="5" y="12.5">
+                        <text></text>
+                        <info_name>label</info_name>
+                    </dynamic_elmt_text>
+                </dynamic_texts>
+                <texts_groups/>
+            </element>
+            <element freezeLabel="false" is_movable="1" orientation="0" prefix="" type="embed://import/10_electric/91_en_60617/en_60617_11/en_60617_11_15/en_60617_11_15_03.elmt" uuid="{cb795b29-1235-4fc0-88fa-b19d250c2951}" x="660" y="100" z="10">
+                <terminals/>
+                <inputs/>
+                <dynamic_texts>
+                    <dynamic_elmt_text Halignment="AlignLeft" Valignment="AlignTop" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" frame="false" keep_visual_rotation="false" rotation="0" rotation_point_center="false" text_from="ElementInfo" text_width="-1" uuid="{58d372e5-b8a0-42dd-8a50-c61d9e9a8898}" x="5" y="12.5">
+                        <text></text>
+                        <info_name>label</info_name>
+                    </dynamic_elmt_text>
+                </dynamic_texts>
+                <texts_groups/>
+            </element>
+            <element freezeLabel="false" is_movable="1" orientation="0" prefix="" type="embed://import/10_electric/91_en_60617/en_60617_11/en_60617_11_15/en_60617_11_15_03.elmt" uuid="{a20e25c2-1137-409d-90cf-8d64b1fb1faa}" x="680" y="160" z="10">
+                <terminals/>
+                <inputs/>
+                <dynamic_texts>
+                    <dynamic_elmt_text Halignment="AlignLeft" Valignment="AlignTop" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" frame="false" keep_visual_rotation="false" rotation="0" rotation_point_center="false" text_from="ElementInfo" text_width="-1" uuid="{60d48483-8284-413b-8913-a8abc7a1defd}" x="5" y="12.5">
+                        <text></text>
+                        <info_name>label</info_name>
+                    </dynamic_elmt_text>
+                </dynamic_texts>
+                <texts_groups/>
+            </element>
+        </elements>
+        <conductors>
+            <conductor bicolor="false" bus="" cable="" color2="#000000" condsize="1" conductor_color="" conductor_section="" dash-size="1" displaytext="1" element1="{34752229-ed53-46f0-8703-5e141c266d52}" element1_label="" element1_name="Fuse" element2="{d7709098-842a-49c2-807d-0e18fc669bc8}" element2_label="" element2_name="Switch, DPST, n.o." formula="" freezeLabel="false" function="" horizontal-alignment="AlignBottom" horizrotatetext="0" num="" numsize="7" onetextperfolio="0" tension_protocol="" terminal1="{655cd47e-bd82-45ac-bd14-0341377404af}" terminal2="{53465032-346d-4056-9a81-87c47bb07dda}" terminalname1="" terminalname2="" text_color="#000000" type="multi" uuid="{6bb1eaf6-9876-4561-b0ca-7c8824313a6d}" vertical-alignment="AlignRight" vertirotatetext="270" x="0" y="0">
+                <sequentialNumbers/>
+            </conductor>
+        </conductors>
+        <inputs>
+            <input font="Liberation Sans,9,-1,0,50,0,0,0,0,0,Regular" rotation="0" text="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;>&#xa;&lt;html>&lt;head>&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; />&lt;meta charset=&quot;utf-8&quot; />&lt;style type=&quot;text/css&quot;>&#xa;p, li { white-space: pre-wrap; }&#xa;hr { height: 1px; border-width: 0; }&#xa;li.unchecked::marker { content: &quot;\2610&quot;; }&#xa;li.checked::marker { content: &quot;\2612&quot;; }&#xa;&lt;/style>&lt;/head>&lt;body style=&quot; font-family:'Liberation Sans'; font-size:9pt; font-weight:400; font-style:normal;&quot;>&#xa;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;>&lt;span style=&quot; color:#aa0000;&quot;>B1&lt;/span>&lt;/p>&lt;/body>&lt;/html>" uuid="{41db6e74-30b5-478e-b9f6-0db756acd00c}" x="540" y="320"/>
+        </inputs>
+    </diagram>
+    <diagram author="" auto_page_num="" cols="17" colsize="60" date="null" displayAt="bottom" displaycols="true" displayrows="true" filename="" folio="%id/%total" freezeNewConductor="false" freezeNewElement="false" height="660" indexrev="" locmach="" order="2" plant="" rows="8" rowsize="80" title="" uuid="{fd789d9f-82c3-4a13-887b-c791834a5484}" version="0.200.1-dev">
+        <defaultconductor bicolor="false" bus="" cable="" color2="#000000" condsize="1" conductor_color="" conductor_section="" dash-size="1" displaytext="1" formula="" function="" horizontal-alignment="AlignBottom" horizrotatetext="0" num="_" numsize="7" onetextperfolio="0" tension_protocol="" text_color="#000000" type="multi" vertical-alignment="AlignRight" vertirotatetext="270"/>
+    </diagram>
+    <collection>
+        <category name="import">
+            <names>
+                <name lang="ca">Elements importats</name>
+                <name lang="cs">Zavedené prvky</name>
+                <name lang="da">Importerede elementer</name>
+                <name lang="de">Importierte Elemente</name>
+                <name lang="el">Εισηγμένα στοιχεία</name>
+                <name lang="en">Imported elements</name>
+                <name lang="es">Elementos importados</name>
+                <name lang="fr">Éléments importés</name>
+                <name lang="hr">Uvezeni elementi</name>
+                <name lang="it">Elementi importati</name>
+                <name lang="ja">インバートされた要素</name>
+                <name lang="ko">전기 심볼 요소</name>
+                <name lang="ko_KR">전기 심볼 요소</name>
+                <name lang="nl">Elementen geïmporteerd</name>
+                <name lang="nl_BE">Elementen geïmporteerd</name>
+                <name lang="pl">Elementy importowane</name>
+                <name lang="pt">Elementos importados</name>
+                <name lang="pt_BR">Elementos importados</name>
+                <name lang="ro">Elemente importate</name>
+                <name lang="ru">Импортированные элементы</name>
+                <name lang="sl">Uvoženi elementi</name>
+                <name lang="sv">Importerade element</name>
+                <name lang="tr">İthal öğeler</name>
+                <name lang="uk">Імпортовані елементи</name>
+                <name lang="zh">导入元件</name>
+            </names>
+            <category name="10_electric">
+                <names>
+                    <name lang="ar">كهربائي</name>
+                    <name lang="ca">Elèctric</name>
+                    <name lang="cs">Elektrotechnika</name>
+                    <name lang="da">Elektrisk</name>
+                    <name lang="de">Elektrik</name>
+                    <name lang="el">Ηλεκτρικά</name>
+                    <name lang="en">Electric</name>
+                    <name lang="es">Eléctrica</name>
+                    <name lang="fi">Sähkö</name>
+                    <name lang="fr">Electrique</name>
+                    <name lang="hr">Električno</name>
+                    <name lang="hu">Elektromos</name>
+                    <name lang="it">Elettrica</name>
+                    <name lang="ja">電気</name>
+                    <name lang="ko">전기</name>
+                    <name lang="mn">Цахилгаан</name>
+                    <name lang="nb">Elektrisk</name>
+                    <name lang="nl">Elektrotechniek</name>
+                    <name lang="nl_BE">Elektrisch</name>
+                    <name lang="pl">Elektrotechnika</name>
+                    <name lang="pt">Elétrico</name>
+                    <name lang="pt_BR">Elétrica</name>
+                    <name lang="ro">Electric</name>
+                    <name lang="ru">Электротехника</name>
+                    <name lang="sk">Elektrické</name>
+                    <name lang="sl">Elektrika</name>
+                    <name lang="sr">Електрика</name>
+                    <name lang="sv">El</name>
+                    <name lang="tr">Elektrik</name>
+                    <name lang="uk">Електрика</name>
+                    <name lang="zh">10_电气</name>
+                    <name lang="zn">电气工程</name>
+                </names>
+                <category name="91_en_60617">
+                    <names>
+                        <name lang="ar">IEC 60617</name>
+                        <name lang="ca">IEC 60617</name>
+                        <name lang="cs">EN 60617</name>
+                        <name lang="da">DS/IEC 60617</name>
+                        <name lang="de">DIN EN 60617</name>
+                        <name lang="el">IEC 60617</name>
+                        <name lang="en">IEC 60617</name>
+                        <name lang="es">IEC 60617</name>
+                        <name lang="fi">IEC 60617</name>
+                        <name lang="fr">EN 60617</name>
+                        <name lang="hr">IEC 60617</name>
+                        <name lang="hu">IEC 60617</name>
+                        <name lang="it">IEC 60617</name>
+                        <name lang="ja">電気用図記号 (JIS C 0617 / IEC 60617)</name>
+                        <name lang="ko">IEC 60617</name>
+                        <name lang="mn">IEC 60617</name>
+                        <name lang="nb">IEC 60617</name>
+                        <name lang="nl">IEC 60617</name>
+                        <name lang="nl_BE">IEC 60617</name>
+                        <name lang="pl">IEC 60617</name>
+                        <name lang="pt">IEC 60617</name>
+                        <name lang="pt_BR">IEC 60617</name>
+                        <name lang="ro">IEC 60617</name>
+                        <name lang="ru">IEC 60617</name>
+                        <name lang="sk">IEC 60617</name>
+                        <name lang="sl">IEC 60617</name>
+                        <name lang="sr">IEC 60617</name>
+                        <name lang="sv">IEC 60617</name>
+                        <name lang="tr">IEC 60617</name>
+                        <name lang="uk">IEC 60617</name>
+                        <name lang="zh">91_EN_60617</name>
+                    </names>
+                    <category name="en_60617_08">
+                        <names>
+                            <name lang="ar">08- أجهزة القياس والمصابيح وأجهزة الإشارة</name>
+                            <name lang="ca">08- Instruments de mesura, llums i aparells de senyalització</name>
+                            <name lang="cs">08- Měřicí přístroje, zdroje světla a signalizační zařízení</name>
+                            <name lang="da">08- Måleinstrumenter, lamper og signaludstyr</name>
+                            <name lang="de">08- Meß-, Melde- und Signaleinrichtungen</name>
+                            <name lang="el">08- Όργανα μέτρησης, λαμπτήρες και διατάξεις σήμανσης</name>
+                            <name lang="en">08- Measuring instruments, lamps and signalling devices</name>
+                            <name lang="es">08- Dispositivos de medición, lámparas y dispositivos de señalización</name>
+                            <name lang="fi">08- Mittalaitteet, lamput ja merkinantolaitteet</name>
+                            <name lang="fr">08- Appareils de mesure, lampes et dispositifs de siglalisation</name>
+                            <name lang="hr">08- Mjerni instrumenti, svjetiljke i signalni uređaji</name>
+                            <name lang="hu">08- Mérőműszerek, lámpák és jelzőeszközök</name>
+                            <name lang="it">08- Strumenti di misura, lampade e dispositivi di segnalazione</name>
+                            <name lang="ja">08- 計器，ランプ及び信号装置</name>
+                            <name lang="ko">08- 측정 기기, 램프 및 신호 장치</name>
+                            <name lang="mn">08- Хэмжих хэрэгсэл, чийдэн ба дохиоллын төхөөрөмж</name>
+                            <name lang="nb">08- Måleinstrumenter, lamper og signalenheter</name>
+                            <name lang="nl">08- Meetinstrumenten, lampen en signaaltoestellen</name>
+                            <name lang="nl_BE">08- Meetinstrumenten, lampen en signaaltoestellen</name>
+                            <name lang="pl">08- Przyrządy pomiarowe, lampy i urządzenia sygnalizacyjne</name>
+                            <name lang="pt">08- Instrumentos de medição, lâmpadas e dispositivos de sinalização</name>
+                            <name lang="pt_BR">08- Instrumentos de medição, lâmpadas e dispositivos de sinalização</name>
+                            <name lang="ro">08- Instrumente de măsură, lămpi și dispozitive de semnalizare</name>
+                            <name lang="ru">08- Измерительные приборы, лампы и сигнальные устройства</name>
+                            <name lang="sk">08- Meracie prístroje, svietidlá a signalizačné zariadenia</name>
+                            <name lang="sl">08- Merilni instrumenti, svetilke in signalne naprave</name>
+                            <name lang="sr">08- Мерни инструменти, лампе и сигнални уређаји</name>
+                            <name lang="sv">08- Mätinstrument, lampor och signaldon</name>
+                            <name lang="tr">08- Ölçüm cihazları, lambalar ve sinyalizasyon cihazları</name>
+                            <name lang="uk">08- Вимірювальні прилади, лампи та сигнальні пристрої</name>
+                            <name lang="zh">EN 60617 第08部分</name>
+                        </names>
+                        <category name="en_60617_08_10">
+                            <names>
+                                <name lang="ar">10- المصابيح وأجهزة الإشارة</name>
+                                <name lang="ca">10- Llums i dispositius de senyalització</name>
+                                <name lang="cs">10- Zdroje světla a signalizační zařízení</name>
+                                <name lang="da">10- Lamper og signaludstyr</name>
+                                <name lang="de">10- Leuchtmelder und Signaleinrichtungen</name>
+                                <name lang="el">10- Λαμπτήρες και διατάξεις σήμανσης</name>
+                                <name lang="en">10- Lamps and signalling devices</name>
+                                <name lang="es">10- Lámparas y dispositivos de señalización</name>
+                                <name lang="fi">10- Lamput ja merkinantolaitteet</name>
+                                <name lang="fr">10- Lampes et dispositifs de signalisation</name>
+                                <name lang="hr">10- Svjetiljke i signalni uređaji</name>
+                                <name lang="hu">10- Lámpák és jelzőeszközök</name>
+                                <name lang="it">10- Lampade e dispositivi di segnalazione</name>
+                                <name lang="ja">10- ランプ及び信号報知装置</name>
+                                <name lang="ko">10- 램프 및 신호 장치</name>
+                                <name lang="mn">10- Дэнлүү ба дохиоллын төхөөрөмж</name>
+                                <name lang="nb">10- Lamper og signalenheter</name>
+                                <name lang="nl">10- Lampen en signaaltoestellen</name>
+                                <name lang="nl_BE">10- Lampen en signaalinrichtingen</name>
+                                <name lang="pl">10- Lampy i urządzenia sygnalizacyjne</name>
+                                <name lang="pt">10- Lâmpadas e dispositivos de sinalização</name>
+                                <name lang="pt_BR">10- Lâmpadas e dispositivos de sinalização</name>
+                                <name lang="ro">10- Lămpi și dispozitive de semnalizare</name>
+                                <name lang="ru">10- Лампы и сигнальные устройства</name>
+                                <name lang="sk">10- Lampy a signalizačné zariadenia</name>
+                                <name lang="sl">10- Svetilke in signalne naprave</name>
+                                <name lang="sr">10- Лампе и сигнални уређаји</name>
+                                <name lang="sv">10- Lampor och signalanordningar</name>
+                                <name lang="tr">10- Lambalar ve sinyalizasyon cihazları</name>
+                                <name lang="uk">10- Лампи та сигнальні пристрої</name>
+                                <name lang="zh">电信设备</name>
+                            </names>
+                            <element name="en_60617_08_10_01.elmt">
+                                <definition height="30" hotspot_x="15" hotspot_y="25" link_type="simple" type="element" version="0.100.0" width="30">
+                                    <uuid uuid="{f21693d5-58a5-7d55-9421-3fee0564bf30}"/>
+                                    <names>
+                                        <name lang="ar">مصباح، رمز عام</name>
+                                        <name lang="ca">Làmpada, símbol general</name>
+                                        <name lang="cs">Zdroj světla
+    Signální zdroj světla</name>
+                                        <name lang="da">Lampe, generelt symbol</name>
+                                        <name lang="de">Lampe. Leuchtmelder, allgemein</name>
+                                        <name lang="el">Λάμπα, γενικό σύμβολο</name>
+                                        <name lang="en">Lamp, general symbol</name>
+                                        <name lang="es">Lámpara, símbolo general</name>
+                                        <name lang="fi">Lamppu, yleissymboli</name>
+                                        <name lang="fr">Lampe de signalisation, symbole général</name>
+                                        <name lang="hr">Svjetiljka, opći simbol</name>
+                                        <name lang="hu">Lámpa, általános szimbólum</name>
+                                        <name lang="it">Lampada, segno generale</name>
+                                        <name lang="ja">ランプ，一般図記号</name>
+                                        <name lang="ko">램프, 일반 기호</name>
+                                        <name lang="mn">Дэнлүү, ерөнхий тэмдэг</name>
+                                        <name lang="nb">Lampe, generelt symbol</name>
+                                        <name lang="nl">Lamp, algemeen symbool</name>
+                                        <name lang="nl_BE">Lamp, algemeen symbool</name>
+                                        <name lang="pl">Żarówka, symbol ogólny</name>
+                                        <name lang="pt">Lâmpada, símbolo geral</name>
+                                        <name lang="pt_BR">Lâmpada, simbolo geral</name>
+                                        <name lang="ro">Lampă, simbol general</name>
+                                        <name lang="ru">Лампа, общее обозначение</name>
+                                        <name lang="sk">Svietidlo, všeobecná značka</name>
+                                        <name lang="sl">Svetilka, splošni simbol</name>
+                                        <name lang="sr">Светиљка, општи симбол</name>
+                                        <name lang="sv">Lampa, allmän symbol</name>
+                                        <name lang="tr">Lamba, genel sembol</name>
+                                        <name lang="uk">Лампа, загальне позначення</name>
+                                        <name lang="zh">普通端子</name>
+                                    </names>
+                                    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+                                    <description>
+                                        <dynamic_text Halignment="AlignLeft" Valignment="AlignTop" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" frame="false" keep_visual_rotation="false" rotation="0" text_from="ElementInfo" text_width="-1" uuid="{e68e6613-4f95-4f11-ac1c-8776f915dc6d}" x="5" y="12.5" z="1">
+                                            <text/>
+                                            <info_name>label</info_name>
+                                        </dynamic_text>
+                                        <ellipse antialias="false" height="20" style="line-style:normal;line-weight:normal;filling:none;color:black" width="20" x="-10" y="-20"/>
+                                        <line antialias="false" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-7" x2="7" y1="-3" y2="-17"/>
+                                        <line antialias="false" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-7" x2="7" y1="-17" y2="-3"/>
+                                    </description>
+                                </definition>
+                            </element>
+                        </category>
+                    </category>
+                    <category name="en_60617_11">
+                        <names>
+                            <name lang="ar">11- مخططات التركيب الهندسية والطبوغرافية</name>
+                            <name lang="ca">11- Plànols i esquemes d'instal·lació arquitectònica i topogràfica</name>
+                            <name lang="cs">11- Stavební a topografické instalační výkresy a schémata</name>
+                            <name lang="da">11- Bygningsmæssige og topografiske installationstegninger og -skemaer</name>
+                            <name lang="de">11- Gebäudebezogene und topographische Installationspläne und Schaltpläne</name>
+                            <name lang="el">11- Αρχιτεκτονικά και τοπογραφικά σχέδια εγκατάστασης και διαγράμματα</name>
+                            <name lang="en">11- Architectural and topographical installation plans and diagrams</name>
+                            <name lang="es">11- Dibujos y planos arquitectónicos y topográficos</name>
+                            <name lang="fi">11- Arkkitehtoniset ja topografiset asennussuunnitelmat ja kaaviot</name>
+                            <name lang="fr">11- Schémas et plans d'installation, architecturaux et topographiques</name>
+                            <name lang="hr">11- Arhitektonski i topografski planovi instalacija i dijagrami</name>
+                            <name lang="hu">11- Építészeti és topográfiai telepítési tervek és diagramok</name>
+                            <name lang="it">11- Piani e schemi di installazione architettonici e topografici</name>
+                            <name lang="ja">11- 建築設備及び地図上の設備を示す設置平面図及び線図</name>
+                            <name lang="ko">11- 건축 및 지형 설치 계획 및 다이어그램</name>
+                            <name lang="mn">11- Архитектур ба топографийн суурилуулалтын төлөвлөгөө ба диаграм</name>
+                            <name lang="nb">11- Arkitektoniske og topografiske installasjonsplaner og diagrammer</name>
+                            <name lang="nl">11- Architectuur- en topografische installatieplannen en schema's</name>
+                            <name lang="nl_BE">11- Architectuur- en topografische installatieplannen en schema's</name>
+                            <name lang="pl">11- Plany i schematy instalacji architektonicznych i topograficznych</name>
+                            <name lang="pt">11- Planos e diagramas de instalação arquitetónica e topográfica</name>
+                            <name lang="pt_BR">11- Plantas e diagramas de instalação arquitetônicos e Superiorográficos</name>
+                            <name lang="ro">11- Planuri și scheme de instalații arhitecturale și topografice</name>
+                            <name lang="ru">11- Архитектурные и топографические планы и схемы установок</name>
+                            <name lang="sk">11- Architektonické a topografické inštalačné plány a schémy</name>
+                            <name lang="sl">11- Arhitekturni in topografski načrti instalacij ter diagrami</name>
+                            <name lang="sr">11- Архитектонски и топографски планови инсталација и дијаграми</name>
+                            <name lang="sv">11- Arkitektoniska och topografiska installationsplaner och diagram</name>
+                            <name lang="tr">11- Mimari ve topografik tesisat planları ve şemaları</name>
+                            <name lang="uk">11- Архітектурні та топографічні плани встановлення та схеми</name>
+                            <name lang="zh">EN 60617 第11部分</name>
+                        </names>
+                        <category name="en_60617_11_15">
+                            <names>
+                                <name lang="ar">15- الإضاءة والمصابيح</name>
+                                <name lang="ca">15- Il·luminació, llums</name>
+                                <name lang="cs">15- Světelné vývody a jejich zařízení</name>
+                                <name lang="da">15- Belysning, lamper</name>
+                                <name lang="de">15- Auslässe und Installationen für Leuchten</name>
+                                <name lang="el">15- Φωτισμός, λαμπτήρες</name>
+                                <name lang="en">15- Lighting, lamps</name>
+                                <name lang="es">15- Alumbrado, lámparas</name>
+                                <name lang="fi">15- Valaistus, lamput</name>
+                                <name lang="fr">15- Installations d'éclairage, lampes</name>
+                                <name lang="hr">15- Rasvjeta, svjetiljke</name>
+                                <name lang="hu">15- Világítás, lámpák</name>
+                                <name lang="it">15- Illuminazione, lampade</name>
+                                <name lang="ja">15- 照明用コンセント及び器具</name>
+                                <name lang="ko">15- 조명, 램프</name>
+                                <name lang="mn">15- Гэрэлтүүлэг, дэнлүү</name>
+                                <name lang="nb">15- Belysning, lamper</name>
+                                <name lang="nl">15- Verlichting, lampen</name>
+                                <name lang="nl_BE">15- Verlichting, lampen</name>
+                                <name lang="pl">15- Oświetlenie, lampy</name>
+                                <name lang="pt">15- Iluminação, lâmpadas</name>
+                                <name lang="pt_BR">15- Iluminação, lâmpadas</name>
+                                <name lang="ro">15- Iluminat, lămpi</name>
+                                <name lang="ru">15- Освещение, лампы</name>
+                                <name lang="sk">15- Osvetlenie, svietidlá</name>
+                                <name lang="sl">15- Razsvetljava, svetilke</name>
+                                <name lang="sr">15- Расвета, лампе</name>
+                                <name lang="sv">15- Belysning, lampor</name>
+                                <name lang="tr">15- Aydınlatma, lambalar</name>
+                                <name lang="uk">15- Освітлення, лампи</name>
+                                <name lang="zh">插头和插座连接</name>
+                            </names>
+                            <element name="en_60617_11_15_03.elmt">
+                                <definition height="30" hotspot_x="25" hotspot_y="25" link_type="simple" type="element" version="0.100.0" width="30">
+                                    <uuid uuid="{46a7ed6f-92ea-26e8-0c8e-3296b52622cd}"/>
+                                    <names>
+                                        <name lang="ar">مصباح، رمز عام</name>
+                                        <name lang="ca">Làmpada, símbol general</name>
+                                        <name lang="cs">Světelný zdroj</name>
+                                        <name lang="da">Lampe, generelt symbol</name>
+                                        <name lang="de">Leuchte, allgemein</name>
+                                        <name lang="el">Λάμπα, γενικό σύμβολο</name>
+                                        <name lang="en">Lamp, general symbol</name>
+                                        <name lang="es">Lámpara, símbolo general</name>
+                                        <name lang="fi">Lamppu, yleissymboli</name>
+                                        <name lang="fr">Lampe, symbole général</name>
+                                        <name lang="hr">Svjetiljka, opći simbol</name>
+                                        <name lang="hu">Lámpa, általános szimbólum</name>
+                                        <name lang="it">Lampada, segno generale</name>
+                                        <name lang="ja">ランプ，一般図記号</name>
+                                        <name lang="ko">램프, 일반 기호</name>
+                                        <name lang="mn">Дэнлүү, ерөнхий тэмдэг</name>
+                                        <name lang="nb">Lampe, generelt symbol</name>
+                                        <name lang="nl">Lamp, algemeen symbool</name>
+                                        <name lang="nl_BE">Lamp, algemeen symbool</name>
+                                        <name lang="pl">Żarówka, symbol ogólny</name>
+                                        <name lang="pt">Lâmpada, símbolo geral</name>
+                                        <name lang="pt_BR">Lâmpada, simbolo geral</name>
+                                        <name lang="ro">Lampă, simbol general</name>
+                                        <name lang="ru">Лампа, общее обозначение</name>
+                                        <name lang="sk">Svietidlo, všeobecná značka</name>
+                                        <name lang="sl">Svetilka, splošni simbol</name>
+                                        <name lang="sr">Светиљка, општи симбол</name>
+                                        <name lang="sv">Lampa, allmän symbol</name>
+                                        <name lang="tr">Lamba, genel sembol</name>
+                                        <name lang="uk">Лампа, загальне позначення</name>
+                                        <name lang="zh">接线端子03</name>
+                                    </names>
+                                    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+                                    <description>
+                                        <dynamic_text Halignment="AlignLeft" Valignment="AlignTop" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" frame="false" keep_visual_rotation="false" rotation="0" text_from="ElementInfo" text_width="-1" uuid="{d4471fca-0261-44c4-a1c8-f448afcf6bbd}" x="5" y="12.5" z="1">
+                                            <text/>
+                                            <info_name>label</info_name>
+                                        </dynamic_text>
+                                        <ellipse antialias="false" height="20" style="line-style:normal;line-weight:normal;filling:none;color:black" width="20" x="-20" y="-20"/>
+                                        <line antialias="false" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-16" x2="-4" y1="-17" y2="-3"/>
+                                        <line antialias="false" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-4" x2="-17" y1="-17" y2="-3"/>
+                                    </description>
+                                </definition>
+                            </element>
+                        </category>
+                    </category>
+                </category>
+                <category name="10_allpole">
+                    <names>
+                        <name lang="ar">متعدد الأقطاب</name>
+                        <name lang="ca">Multifilar</name>
+                        <name lang="cs">Vícežilový</name>
+                        <name lang="da">Flere ledere</name>
+                        <name lang="de">Allpolig</name>
+                        <name lang="el">Πολυγραμμικό</name>
+                        <name lang="en">All-pole</name>
+                        <name lang="es">Multifilar</name>
+                        <name lang="fi">Yleisnapa</name>
+                        <name lang="fr">Multifilaire</name>
+                        <name lang="hr">Univerzalni</name>
+                        <name lang="hu">Többvonalas szimbólumok</name>
+                        <name lang="it">Multifilare</name>
+                        <name lang="ja">複線</name>
+                        <name lang="ko">다-극</name>
+                        <name lang="mn">Бүх туйл</name>
+                        <name lang="nb">Alle poler</name>
+                        <name lang="nl">Veel polig</name>
+                        <name lang="nl_BE">All-pole</name>
+                        <name lang="pl">Schematy wieloliniowe</name>
+                        <name lang="pt">Multipolar</name>
+                        <name lang="pt_BR">Multifilar</name>
+                        <name lang="ro">Bipolar</name>
+                        <name lang="ru">Многополюсные</name>
+                        <name lang="sk">Všepólové</name>
+                        <name lang="sl">Vsi poli</name>
+                        <name lang="sr">Свe-полни</name>
+                        <name lang="sv">Allpolig</name>
+                        <name lang="tr">Çok kutuplu</name>
+                        <name lang="uk">Багатополюсні</name>
+                        <name lang="zh">10_全极</name>
+                    </names>
+                    <category name="120_cables_wiring">
+                        <names>
+                            <name lang="ar">كابلات وتوصيلات</name>
+                            <name lang="ca">Cables i cablejat</name>
+                            <name lang="cs">Kabely a vodiče</name>
+                            <name lang="da">Kabler og ledninger</name>
+                            <name lang="de">Kabel und Verdrahtung</name>
+                            <name lang="el">Καλώδια και καλωδίωση</name>
+                            <name lang="en">Cables and wiring</name>
+                            <name lang="es">Cables y alambres</name>
+                            <name lang="fi">Kaapelit ja johdotus</name>
+                            <name lang="fr">Câbles et filerie</name>
+                            <name lang="hr">Kabeli i ožičenje</name>
+                            <name lang="hu">Kábelek és vezetékek</name>
+                            <name lang="it">Cavi e collegamenti</name>
+                            <name lang="ja">ケーブルと配線</name>
+                            <name lang="ko">케이블 및 배선</name>
+                            <name lang="mn">Кабель ба утас</name>
+                            <name lang="nb">Kabler og ledninger</name>
+                            <name lang="nl">Kabels en draden</name>
+                            <name lang="nl_BE">Kabels en bedrading</name>
+                            <name lang="pl">Przewody i kable</name>
+                            <name lang="pt">Cabos e cablagem</name>
+                            <name lang="pt_BR">Cabos e fiação</name>
+                            <name lang="ro">Cabluri și cablare</name>
+                            <name lang="ru">Кабели и провода</name>
+                            <name lang="sk">Káble a vedenie</name>
+                            <name lang="sl">Kabli in ožičenje</name>
+                            <name lang="sr">Каблови и ожичење</name>
+                            <name lang="sv">Kablar och ledningsdragning</name>
+                            <name lang="tr">Kablolar ve kablolama</name>
+                            <name lang="uk">Кабелі та проводка</name>
+                            <name lang="zh">电缆与布线</name>
+                        </names>
+                        <element name="cable_3wires.elmt">
+                            <definition height="30" hotspot_x="65" hotspot_y="15" link_type="simple" type="element" version="0.100.0" width="120">
+                                <uuid uuid="{b763b93f-e94f-feff-6fc1-b86591e4e35f}"/>
+                                <names>
+                                    <name lang="ar">كابل 3 أسلاك</name>
+                                    <name lang="ca">Cable 3 fils</name>
+                                    <name lang="cs">Kabel 3x</name>
+                                    <name lang="da">Kabel 3 ledere</name>
+                                    <name lang="de">Kabel 3x</name>
+                                    <name lang="el">Καλώδιο 3 αγωγών</name>
+                                    <name lang="en">Cable 3 wires</name>
+                                    <name lang="es">Cable 3 alambres</name>
+                                    <name lang="fi">Kaapeli 3 johdinta</name>
+                                    <name lang="fr">Cable 3 brins</name>
+                                    <name lang="hr">Kabel 3 žica</name>
+                                    <name lang="hu">Kábel 3 + PE</name>
+                                    <name lang="it">Cavo a 3 conduttori</name>
+                                    <name lang="ja">ケーブル 3 本</name>
+                                    <name lang="ko">케이블 3심</name>
+                                    <name lang="mn">Кабель 3 утас</name>
+                                    <name lang="nb">Kabel 3 ledere</name>
+                                    <name lang="nl">Kabel 3 draden</name>
+                                    <name lang="nl_BE">Kabel 3 draden</name>
+                                    <name lang="pl">Oznaczenie przewodu trójżyłowego</name>
+                                    <name lang="pt">Cabo 3 fios</name>
+                                    <name lang="pt_BR">Cabo 3 condutores</name>
+                                    <name lang="ro">Cablu 3 fire</name>
+                                    <name lang="ru">Кабель 3 жилы</name>
+                                    <name lang="sk">Kábel 3 vodičov</name>
+                                    <name lang="sl">Kabel 3 žic</name>
+                                    <name lang="sr">Кабл 3 жица</name>
+                                    <name lang="sv">Kabel 3 trådar</name>
+                                    <name lang="tr">Kablo 3 tel</name>
+                                    <name lang="uk">Кабель 3 жил</name>
+                                    <name lang="zh">3线电缆</name>
+                                </names>
+                                <informations>edited with "QET_ElementScaler"</informations>
+                                <description>
+                                    <line antialias="false" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-10" x2="50" y1="0" y2="0"/>
+                                    <dynamic_text Halignment="AlignLeft" Valignment="AlignTop" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" frame="false" keep_visual_rotation="false" rotation="0" text_from="ElementInfo" text_width="-1" uuid="{a637fe79-eb0f-4aac-81b2-4e082b32921c}" x="-36" y="-16.5" z="2">
+                                        <text/>
+                                        <info_name>label</info_name>
+                                    </dynamic_text>
+                                    <dynamic_text Halignment="AlignLeft" Valignment="AlignTop" font="Liberation Sans,5,-1,5,50,0,0,0,0,0,Regular" frame="false" keep_visual_rotation="false" rotation="0" text_from="UserText" text_width="-1" uuid="{54317926-38f6-4053-9d65-7489694f4fba}" x="-56" y="-5" z="3">
+                                        <text>ÖLFLEX 100</text>
+                                    </dynamic_text>
+                                    <terminal name="" orientation="n" type="Generic" uuid="{ce9335a1-ca5a-47e4-a6f4-85860516a26f}" x="0" y="-5"/>
+                                    <terminal name="" orientation="n" type="Generic" uuid="{7352e401-cb6d-411b-86b4-ae8d520d3c0d}" x="20" y="-5"/>
+                                    <terminal name="" orientation="n" type="Generic" uuid="{0fb622f3-e4f7-4c43-8599-558faf5390d2}" x="40" y="-5"/>
+                                    <terminal name="" orientation="s" type="Generic" uuid="{c3722eaf-995b-4053-9092-46003b709944}" x="0" y="5"/>
+                                    <terminal name="" orientation="s" type="Generic" uuid="{fe71c10c-5809-4e1b-974b-a8b7f68611b7}" x="20" y="5"/>
+                                    <terminal name="" orientation="s" type="Generic" uuid="{256768b6-c5fd-4f5e-876d-165cbffc6746}" x="40" y="5"/>
+                                </description>
+                            </definition>
+                        </element>
+                    </category>
+                    <category name="380_signaling_operating">
+                        <names>
+                            <name lang="ar">الإشارات والتشغيل</name>
+                            <name lang="ca">Senyalització i commandament</name>
+                            <name lang="cs">Značení a příkazy</name>
+                            <name lang="da">Signalering og betjening</name>
+                            <name lang="de">Melde- und Bedieneinrichtungen</name>
+                            <name lang="el">Σήμανση και χειρισμός</name>
+                            <name lang="en">Signaling and operating</name>
+                            <name lang="es">Señalización y comando</name>
+                            <name lang="fi">Merkinnät ja käyttö</name>
+                            <name lang="fr">Signalétique et commande</name>
+                            <name lang="hr">Signalizacija i upravljanje</name>
+                            <name lang="hu">Jelzés és kezelés</name>
+                            <name lang="it">Segnalazione e comando</name>
+                            <name lang="ja">信号と操作</name>
+                            <name lang="ko">신호 및 작동</name>
+                            <name lang="mn">Дохиолол ба удирдлага</name>
+                            <name lang="nb">Signalering og betjening</name>
+                            <name lang="nl">Signalering en bediening</name>
+                            <name lang="nl_BE">Signalering en bediening</name>
+                            <name lang="pl">Obwody sterownicze</name>
+                            <name lang="pt">Sinalização e comando</name>
+                            <name lang="pt_BR">Sinalização e Comando</name>
+                            <name lang="ro">Semnalizare și operare</name>
+                            <name lang="ru">Сигнализация и управление</name>
+                            <name lang="sk">Signalizácia a ovládanie</name>
+                            <name lang="sl">Signalizacija in upravljanje</name>
+                            <name lang="sr">Сигнализација и управљање</name>
+                            <name lang="sv">Signalering och manövrering</name>
+                            <name lang="tr">Sinyalizasyon ve kumanda</name>
+                            <name lang="uk">Сигналізація та керування</name>
+                            <name lang="zh">信号与操作</name>
+                        </names>
+                        <category name="21_selector_switches">
+                            <names>
+                                <name lang="ar">مفاتيح اختيار</name>
+                                <name lang="ca">Interruptors selectors</name>
+                                <name lang="cs">Přepínače, voliče</name>
+                                <name lang="da">Vælgerkontakter</name>
+                                <name lang="de">Wahlschalter</name>
+                                <name lang="el">Διακόπτες επιλογής</name>
+                                <name lang="en">Selector switches</name>
+                                <name lang="es">Interruptor selector</name>
+                                <name lang="fi">Valintakytkimet</name>
+                                <name lang="fr">Commutateurs sélecteurs</name>
+                                <name lang="hr">Preklopke</name>
+                                <name lang="hu">Választókapcsolók</name>
+                                <name lang="it">Selettori</name>
+                                <name lang="ja">セレクタスイッチ</name>
+                                <name lang="ko">셀렉터 스위치</name>
+                                <name lang="mn">Сонгогч унтраалга</name>
+                                <name lang="nb">Venderbrytere</name>
+                                <name lang="nl">schakelaar keuze</name>
+                                <name lang="nl_BE">Keuzeschakelaars</name>
+                                <name lang="pl">Przełączniki</name>
+                                <name lang="pt">Interruptores rotativos</name>
+                                <name lang="pt_BR">Chaves seletouas</name>
+                                <name lang="ro">Întrerupătoare rotative</name>
+                                <name lang="ru">Переключатели</name>
+                                <name lang="sk">Prepínače</name>
+                                <name lang="sl">Izbirna stikala</name>
+                                <name lang="sr">Прекидачи са избором</name>
+                                <name lang="sv">Vridbrytare</name>
+                                <name lang="tr">Seçici şalterler</name>
+                                <name lang="uk">Перемикачі вибору</name>
+                                <name lang="zh">21_选择开关</name>
+                            </names>
+                            <element name="012_switch_dpst.elmt">
+                                <definition height="60" hotspot_x="21" hotspot_y="40" link_type="simple" type="element" version="0.80" width="40">
+                                    <uuid uuid="{36d209f9-6f50-822d-9f90-84e43ddead3d}"/>
+                                    <names>
+                                        <name lang="ar">مفتاح، DPST، مفتوح</name>
+                                        <name lang="ca">Commutador, DPST, n.o.</name>
+                                        <name lang="cs">Dvoupólový spínač</name>
+                                        <name lang="da">Afbryder, DPST, n.o.</name>
+                                        <name lang="de">Schalter, DPST, Schließer</name>
+                                        <name lang="el">Διακόπτης, DPST, n.o.</name>
+                                        <name lang="en">Switch, DPST, n.o.</name>
+                                        <name lang="es">Conmutador bipolar NA</name>
+                                        <name lang="fi">Kytkin, DPST, n.o.</name>
+                                        <name lang="fr">Commutateur bipolaire n.o.</name>
+                                        <name lang="hr">Sklopka, DPST, n.o.</name>
+                                        <name lang="hu">Kapcsoló, DPST, n.o.</name>
+                                        <name lang="it">Interruttore, DPST, n.o.</name>
+                                        <name lang="ja">スイッチ、DPST、ノーマルオープン</name>
+                                        <name lang="ko">스위치, DPST, n.o.</name>
+                                        <name lang="mn">Унтраалга, DPST, н.т.</name>
+                                        <name lang="nb">Bryter, DPST, n.o.</name>
+                                        <name lang="nl">Schakelaar, DPST, n.o.</name>
+                                        <name lang="nl_BE">Schakelaar, DPST, n.o.</name>
+                                        <name lang="pl">Zestyki zwierne o przełączaniu niezawodnym</name>
+                                        <name lang="pt">Interruptor, DPST, n.o.</name>
+                                        <name lang="pt_BR">Interruptor, DPST, n.o.</name>
+                                        <name lang="ro">Comutator bipolar n,d.</name>
+                                        <name lang="ru">Выключатель, DPST, НО</name>
+                                        <name lang="sk">Spínač, DPST, n.o.</name>
+                                        <name lang="sl">Stikalo, DPST, n.o.</name>
+                                        <name lang="sr">Прекидач, ДПСТ, НО</name>
+                                        <name lang="sv">Brytare, DPST, n.o.</name>
+                                        <name lang="tr">Şalter, DPST, n.a.</name>
+                                        <name lang="uk">Перемикач, DPST, n.o.</name>
+                                        <name lang="zh">012_双刀单掷开关</name>
+                                    </names>
+                                    <informations>edited with "QET_ElementScaler"</informations>
+                                    <description>
+                                        <ellipse antialias="true" height="3.5" style="line-style:normal;line-weight:normal;filling:none;color:black" width="3.5" x="8.25" y="-21.75"/>
+                                        <ellipse antialias="true" height="3.5" style="line-style:normal;line-weight:normal;filling:none;color:black" width="3.5" x="8.25" y="-1.75"/>
+                                        <ellipse antialias="true" height="3.5" style="line-style:normal;line-weight:normal;filling:none;color:black" width="3.5" x="-11.75" y="-1.75"/>
+                                        <ellipse antialias="true" height="3.5" style="line-style:normal;line-weight:normal;filling:none;color:black" width="3.5" x="-11.75" y="-21.75"/>
+                                        <line antialias="false" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-10" x2="-10" y1="-30" y2="-22"/>
+                                        <line antialias="false" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="10" x2="10" y1="-30" y2="-22"/>
+                                        <line antialias="false" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:dotted;line-weight:normal;filling:none;color:black" x1="-18" x2="13" y1="-10" y2="-10"/>
+                                        <dynamic_text Halignment="AlignLeft" Valignment="AlignTop" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" frame="false" rotation="0" text_from="ElementInfo" text_width="-1" uuid="{131bf174-6f11-49a5-8e31-1366974c78b9}" x="16" y="-18" z="9">
+                                            <text/>
+                                            <info_name>label</info_name>
+                                        </dynamic_text>
+                                        <line antialias="false" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-10" x2="-10" y1="10" y2="2"/>
+                                        <line antialias="false" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="10" x2="10" y1="10" y2="2"/>
+                                        <line antialias="false" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-10.6" x2="-15" y1="-1.7" y2="-20"/>
+                                        <line antialias="false" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="9.4" x2="5" y1="-1.7" y2="-20"/>
+                                        <terminal name="" orientation="s" type="Generic" uuid="{62d6aa78-c93e-4ce0-9108-17cc95085452}" x="10" y="10"/>
+                                        <terminal name="" orientation="s" type="Generic" uuid="{52bf346a-cfa7-498c-85fd-4400fd338bc3}" x="-10" y="10"/>
+                                        <terminal name="" orientation="n" type="Generic" uuid="{53465032-346d-4056-9a81-87c47bb07dda}" x="-10" y="-30"/>
+                                        <terminal name="" orientation="n" type="Generic" uuid="{b2675506-49be-4c22-8d32-aa9be7a200d4}" x="10" y="-30"/>
+                                    </description>
+                                </definition>
+                            </element>
+                        </category>
+                    </category>
+                </category>
+                <category name="11_singlepole">
+                    <names>
+                        <name lang="ar">أحادي القطب</name>
+                        <name lang="ca">Unifilar</name>
+                        <name lang="cs">Jednopólové</name>
+                        <name lang="da">Enkel leder</name>
+                        <name lang="de">Einpolig</name>
+                        <name lang="el">Μονογραμμικό</name>
+                        <name lang="en">Single pole</name>
+                        <name lang="es">Polo simple</name>
+                        <name lang="fi">Yksinapa</name>
+                        <name lang="fr">Unifilaire</name>
+                        <name lang="hr">Jednopolni</name>
+                        <name lang="hu">Egyvonalas</name>
+                        <name lang="it">Unifilare</name>
+                        <name lang="ja">単線</name>
+                        <name lang="ko">단-극</name>
+                        <name lang="mn">Нэг туйл</name>
+                        <name lang="nb">Enpolt</name>
+                        <name lang="nl">Enkel pool</name>
+                        <name lang="nl_BE">Enkelpolig</name>
+                        <name lang="pl">Schematy jednoliniowe</name>
+                        <name lang="pt">Unipolar</name>
+                        <name lang="pt_BR">Unifilar</name>
+                        <name lang="ro">Unipolar</name>
+                        <name lang="ru">Однополюсные</name>
+                        <name lang="sk">Jednopólové</name>
+                        <name lang="sl">Enopolno</name>
+                        <name lang="sr">Једнополни</name>
+                        <name lang="sv">Enpolig</name>
+                        <name lang="tr">Tek kutuplu</name>
+                        <name lang="uk">Однополюсні</name>
+                        <name lang="zh">11_单极</name>
+                    </names>
+                    <category name="200_fuses_protective_gears">
+                        <names>
+                            <name lang="ar">مصهرات وأجهزة حماية</name>
+                            <name lang="ca">Fusibles i dispositius de protecció</name>
+                            <name lang="cs">Pojistky a ochrany</name>
+                            <name lang="da">Sikringer og beskyttelsesudstyr</name>
+                            <name lang="de">Sicherungen und Schutzeinrichtungen</name>
+                            <name lang="el">Ασφάλειες και διατάξεις προστασίας</name>
+                            <name lang="en">Fuses and protective gears</name>
+                            <name lang="es">Fusibles y protecciones</name>
+                            <name lang="fi">Sulakkeet ja suojalaitteet</name>
+                            <name lang="fr">Fusibles et protections</name>
+                            <name lang="hr">Osigurači i zaštitni uređaji</name>
+                            <name lang="hu">Biztosítékok és védelmi eszközök</name>
+                            <name lang="it">Fusibili e protezioni</name>
+                            <name lang="ja">ヒューズと保護装置</name>
+                            <name lang="ko">퓨즈 및 보호 장치</name>
+                            <name lang="mn">Хайлмал таслуур ба хамгаалалтын төхөөрөмж</name>
+                            <name lang="nb">Sikringer og verneutstyr</name>
+                            <name lang="nl">Zekeringen en beveiligingen</name>
+                            <name lang="nl_BE">Zekeringen en beveiligingen</name>
+                            <name lang="pl">Łączniki i zabezpieczenia</name>
+                            <name lang="pt">Fusíveis e dispositivos de proteção</name>
+                            <name lang="pt_BR">Fusiveis e dispositivos de proteção</name>
+                            <name lang="ro">Fuzibile și dispozitive de protecție</name>
+                            <name lang="ru">Предохранители и элементы защиты</name>
+                            <name lang="sk">Poistky a ochranné zariadenia</name>
+                            <name lang="sl">Varovalke in zaščitne naprave</name>
+                            <name lang="sr">Осигурачи и заштитни уређаји</name>
+                            <name lang="sv">Säkringar och skyddsanordningar</name>
+                            <name lang="tr">Sigortalar ve koruma cihazları</name>
+                            <name lang="uk">Запобіжники та пристрої захисту</name>
+                            <name lang="zh">熔断器与保护器件</name>
+                        </names>
+                        <category name="10_fuses">
+                            <names>
+                                <name lang="ar">حوامل-مصهرات</name>
+                                <name lang="ca">Fusibles</name>
+                                <name lang="cs">Pojistky</name>
+                                <name lang="da">Sikringer</name>
+                                <name lang="de">Schmelzsicherungen</name>
+                                <name lang="el">Ασφάλειες</name>
+                                <name lang="en">Fuses</name>
+                                <name lang="es">Portafusibles</name>
+                                <name lang="fi">Sulakkeet</name>
+                                <name lang="fr">Fusibles</name>
+                                <name lang="hr">Osigurači</name>
+                                <name lang="hu">Olvadóbetétek</name>
+                                <name lang="it">Portafusibili</name>
+                                <name lang="ja">ヒューズ</name>
+                                <name lang="ko">퓨즈</name>
+                                <name lang="mn">Хайлмал таслуур</name>
+                                <name lang="nb">Sikringer</name>
+                                <name lang="nl">Zekeringscheiders</name>
+                                <name lang="nl_BE">Zekeringen</name>
+                                <name lang="pl">Odłączniki bezpiecznikowe</name>
+                                <name lang="pt">Porta fusíveis</name>
+                                <name lang="pt_BR">Porta-fusíveis</name>
+                                <name lang="ro">Fuzibile</name>
+                                <name lang="ru">Выключатели-предохранители</name>
+                                <name lang="sk">Poistky</name>
+                                <name lang="sl">Varovalke</name>
+                                <name lang="sr">Осигурачи</name>
+                                <name lang="sv">Säkringar</name>
+                                <name lang="tr">Sigortalar</name>
+                                <name lang="uk">Запобіжники</name>
+                                <name lang="zh">10_熔断器</name>
+                            </names>
+                            <element name="fusible.elmt">
+                                <definition height="60" hotspot_x="10" hotspot_y="30" link_type="master" type="element" version="0.100.0" width="20">
+                                    <uuid uuid="{58785ce5-2ada-572a-f4de-9487747d32c7}"/>
+                                    <names>
+                                        <name lang="ar">مصهر</name>
+                                        <name lang="ca">Fusible</name>
+                                        <name lang="cs">Pojistka</name>
+                                        <name lang="da">Sikring</name>
+                                        <name lang="de">Sicherung</name>
+                                        <name lang="el">Ασφάλεια</name>
+                                        <name lang="en">Fuse</name>
+                                        <name lang="es">Fusible</name>
+                                        <name lang="fi">Varoke</name>
+                                        <name lang="fr">Fusible</name>
+                                        <name lang="hr">Osigurač</name>
+                                        <name lang="hu">Olvadóbiztosító</name>
+                                        <name lang="it">Fusibile</name>
+                                        <name lang="ja">ヒューズ</name>
+                                        <name lang="ko">퓨즈</name>
+                                        <name lang="mn">Хайлмаг</name>
+                                        <name lang="nb">Sikring</name>
+                                        <name lang="nl">Zekering</name>
+                                        <name lang="nl_BE">Zekering</name>
+                                        <name lang="pl">Bezpiecznik topikowy</name>
+                                        <name lang="pt">Fusível</name>
+                                        <name lang="pt_BR">Fusível</name>
+                                        <name lang="ro">Fuzibil</name>
+                                        <name lang="ru">Предохранитель</name>
+                                        <name lang="sk">Poistka</name>
+                                        <name lang="sl">Varovalka</name>
+                                        <name lang="sr">Осигурач</name>
+                                        <name lang="sv">Säkring</name>
+                                        <name lang="tr">Sigorta</name>
+                                        <name lang="uk">Запобіжник</name>
+                                        <name lang="zh">熔断器</name>
+                                    </names>
+                                    <kindInformations>
+                                        <kindInformation name="type">protection</kindInformation>
+                                    </kindInformations>
+                                    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+                                    <description>
+                                        <line antialias="false" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="0" x2="0" y1="-20" y2="20"/>
+                                        <line antialias="false" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="2" x2="2" y1="10" y2="-10"/>
+                                        <line antialias="false" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-2" x2="2" y1="10" y2="10"/>
+                                        <dynamic_text Halignment="AlignLeft" Valignment="AlignTop" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" frame="false" keep_visual_rotation="false" rotation="0" text_from="ElementInfo" text_width="-1" uuid="{4c4874b6-a55f-4c98-a39d-9626f03d330d}" x="5" y="-9.5" z="4">
+                                            <text/>
+                                            <info_name>label</info_name>
+                                        </dynamic_text>
+                                        <line antialias="false" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="2" x2="-2" y1="-10" y2="-10"/>
+                                        <line antialias="false" end1="none" end2="none" length1="1.5" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-2" x2="-2" y1="-10" y2="10"/>
+                                        <terminal name="" orientation="n" type="Generic" uuid="{108e9800-cbc2-4a46-af6f-f0e74436e319}" x="0" y="-21"/>
+                                        <terminal name="" orientation="s" type="Generic" uuid="{655cd47e-bd82-45ac-bd14-0341377404af}" x="0" y="21"/>
+                                    </description>
+                                </definition>
+                            </element>
+                        </category>
+                    </category>
+                </category>
+            </category>
+        </category>
+    </collection>
+</project>

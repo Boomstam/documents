@@ -1,0 +1,22 @@
+<definition hotspot_x="54" hotspot_y="34" link_type="simple" version="0.100.0" type="element" height="70" width="110">
+    <uuid uuid="{30873398-e85d-42e1-9459-f9560d016fc3}"/>
+    <names>
+        <name lang="en">vsa of evsa</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect y="-30" ry="0" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-50" height="60" rx="0" width="100"/>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" y="-5" keep_visual_rotation="false" uuid="{9af2ec8a-24b2-495c-86f0-39019cf2a5b2}" text_from="UserText" rotation="0" z="2" Valignment="AlignTop" frame="false" text_width="-1" x="-10" Halignment="AlignLeft">
+            <text>VSA</text>
+        </dynamic_text>
+        <terminal orientation="s" y="30" uuid="{b4539f19-1473-40b3-b191-a097c2e3b7b9}" name="" type="Generic" x="30"/>
+        <terminal orientation="e" y="20" uuid="{abb48a72-1247-4323-878b-5d573376b00a}" name="" type="Generic" x="50"/>
+        <terminal orientation="w" y="15" uuid="{484e8602-5cae-4e2d-8192-71e7cedf1a02}" name="" type="Generic" x="-50"/>
+        <terminal orientation="n" y="-30" uuid="{a3fa0e5d-f2cb-4e9e-9f47-82a5c858a5e2}" name="" type="Generic" x="30"/>
+        <terminal orientation="n" y="-30" uuid="{044c1436-03af-402d-a8a0-c646469922ec}" name="" type="Generic" x="-30"/>
+        <terminal orientation="w" y="-15" uuid="{9d3e16df-f257-42a6-8f0f-4137436543f3}" name="" type="Generic" x="-50"/>
+        <terminal orientation="s" y="30" uuid="{ff503408-fd4c-4723-8844-2f728f375ba2}" name="" type="Generic" x="-30"/>
+        <terminal orientation="e" y="-15" uuid="{4522fe9a-9636-4b22-80df-e6935e18fe3d}" name="" type="Generic" x="50"/>
+    </description>
+</definition>

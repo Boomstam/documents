@@ -1,0 +1,43 @@
+<definition hotspot_x="10" version="0.100.0" link_type="master" type="element" height="50" width="20" hotspot_y="24">
+    <uuid uuid="{5842a1cf-d853-4fbc-b909-89007af6bd1d}"/>
+    <names>
+        <name lang="fr">Disjoncteur</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">protection</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text text_width="-1" keep_visual_rotation="false" x="7" z="1" font="Sans Serif,7,-1,5,50,0,0,0,0,0" uuid="{399a037a-a6c8-4688-947d-e5d897396a80}" Valignment="AlignTop" y="1" rotation="0" frame="false" Halignment="AlignLeft" text_from="ElementInfo">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon y4="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true" x3="-5" closed="false" y3="-10" x4="-5" x5="-5" y1="20" y5="-10" x2="0" y2="10" x1="0"/>
+        <line end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" length1="1.5" end2="none" y1="-20" x2="0" y2="-10" x1="0"/>
+        <text x="2" font="Sans Serif,4,-1,5,50,0,0,0,0,0" text="1" y="-14" rotation="0" color="#000000"/>
+        <text x="3" font="Sans Serif,4,-1,5,50,0,0,0,0,0" text="2" y="18" rotation="0" color="#000000"/>
+        <polygon y4="-7" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false" x3="-7" y3="-6" x4="-4" x5="-5" y1="-10" y5="-10" x2="-8" y2="-9" x1="-5"/>
+        <dynamic_text text_width="-1" keep_visual_rotation="false" x="4" z="8" font="Sans Serif,6,-1,5,50,0,0,0,0,0" uuid="{ba62e697-53ec-40d9-8623-6581ff192f9e}" Valignment="AlignTop" y="-11" rotation="0" frame="false" Halignment="AlignLeft" text_from="UserText">
+            <text>C40A</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" keep_visual_rotation="false" x="4" z="9" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" uuid="{cfaaa316-c0c3-460d-af6e-dd4ed16c7ee4}" Valignment="AlignTop" y="-3" rotation="0" frame="false" Halignment="AlignLeft" text_from="UserText">
+            <text>4P 3K</text>
+        </dynamic_text>
+        <terminal x="0" uuid="{a39d146d-88f0-4456-aa94-cc51129c579d}" name="" type="Generic" y="20" orientation="s"/>
+        <terminal x="0" uuid="{353477e6-f13e-4c50-b58e-d60477936cb0}" name="" type="Generic" y="-20" orientation="n"/>
+    </description>
+</definition>

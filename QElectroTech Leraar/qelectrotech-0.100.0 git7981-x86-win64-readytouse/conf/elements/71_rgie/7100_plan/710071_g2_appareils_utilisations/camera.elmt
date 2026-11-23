@@ -1,0 +1,12 @@
+<definition type="element" hotspot_x="12" version="0.100.0" height="20" hotspot_y="10" link_type="simple" width="30">
+    <uuid uuid="{73c36aa4-d1d2-4533-8d9b-1e7dbf128159}"/>
+    <names>
+        <name lang="en">camera</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <polygon y3="5" x2="-10" y2="5" antialias="false" y4="-5" x1="-10" x4="14" style="line-style:normal;line-weight:normal;filling:none;color:black" x3="10" y1="-5"/>
+        <polygon y3="3" x2="15" y2="-2" antialias="false" y4="3" x1="13" x4="11" style="line-style:normal;line-weight:normal;filling:none;color:black" x3="15" y1="-2"/>
+    </description>
+</definition>

@@ -1,0 +1,49 @@
+<definition hotspot_y="23" type="element" height="50" width="50" version="0.100.0" link_type="simple" hotspot_x="24">
+    <uuid uuid="{8efa3b2d-087e-46de-b6f8-005bb82b8761}"/>
+    <names>
+        <name lang="nl">Aftakdoos</name>
+        <name lang="fr">Boite de dérivation</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="label" show="1">aftakdos</elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+    </elementInformations>
+    <informations>[NL]
+Dit gratis element werd ontworpen door ShadowHunter en werd gedownload van www.shadowhunter.co.uk , www.shadowhunter.be of www.arei-rgie.be. Dit element wordt aangeboden zoals het is en zonder enige garantie. ShadowHunter kan niet aansprakelijk worden gesteld voor rechtstreekse of onrechtstreekse schade die ontstaat uit het gebruik van dit element. Het gebruik, wijzigingen en de integratie van dit element in schema’s is toegestaan zonder enige voorwaarden, ongeacht het uiteindelijke doel of vergunningstype van het schema. Bij herdistributie van dit element mag deze licentie-informatie niet worden verwijderd. Contact: info@shadowhunter.co.uk 
+
+[FR]
+Cet élément gratuit a été conçu par ShadowHunter et téléchargé depuis www.shadowhunter.co.uk , www.shadowhunter.be of www.arei-rgie.be. Cet élément est fournie telle quelle et sans la moindre garantie. Shadowhunter ne peut pas être tenue responsable de dommages directs ou indirects résultant de l'utilisation de cet élément. L'utilisation, la modification et l'intégration de cet élément dans des schémas électriques est autorisée sans condition, quelle que soit la licence finale des schémas. Lors de la redistribution de cet élément, ces informations de licence ne peuvent jamais être supprimées.
+Contact: info@shadowhunter.co.uk
+
+[EN]
+This free element was designed by ShadowHunter and downloaded from www.shadowhunter.co.uk,  www.shadowhunter.be or www.arei-rgie.be. This element is provided as is and comes without any warranty. Shadowhunter be cannot be held liable for direct or indirect damages resulting from the use of this element. The usage, the modification and the integration of this element into diagrams is allowed without any condition, whatever the final license or purpose of the diagrams is. This license information may not be removed upon redistribution. Contact: info@shadowhunter.co.uk</informations>
+    <description>
+        <circle antialias="false" y="-19" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-20" diameter="40"/>
+        <dynamic_text rotation="0" frame="false" z="3" keep_visual_rotation="false" y="12.5" Valignment="AlignTop" font="Sans Serif,9,-1,5,50,0,0,0,0,0" x="-10" Halignment="AlignLeft" text_from="ElementInfo" uuid="{9d808ac6-95c7-48ea-b50b-7470298fb6d6}" text_width="-1">
+            <text>aftakdos</text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <circle antialias="false" y="-3" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-3" diameter="6"/>
+        <ellipse antialias="false" height="6" y="-3" style="line-style:normal;line-weight:normal;filling:none;color:black" width="4" x="-2"/>
+        <circle antialias="false" y="-2" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-2" diameter="4"/>
+        <ellipse antialias="false" height="4" y="-2" style="line-style:normal;line-weight:normal;filling:none;color:black" width="2" x="-1"/>
+        <circle antialias="false" y="-1" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-1" diameter="2"/>
+        <ellipse antialias="false" height="0" y="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="2" x="-1"/>
+        <circle antialias="false" y="-4" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-4" diameter="8"/>
+        <ellipse antialias="false" height="8" y="-4" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6" x="-3"/>
+        <circle antialias="false" y="-5" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-5" diameter="10"/>
+        <terminal name="" orientation="e" type="Generic" y="0" x="20" uuid="{1b2812fc-5461-4629-b727-01608ada7a2d}"/>
+        <terminal name="" orientation="s" type="Generic" y="21" x="0" uuid="{23d5b343-8227-4d73-abb3-dd160f51e133}"/>
+        <terminal name="" orientation="w" type="Generic" y="0" x="-20" uuid="{65b948cd-76a7-4a21-9a9e-e2090f18000a}"/>
+        <terminal name="" orientation="n" type="Generic" y="-19" x="0" uuid="{b42b4838-ff16-4138-a894-3e715bf37300}"/>
+    </description>
+</definition>

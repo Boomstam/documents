@@ -1,0 +1,39 @@
+<definition hotspot_x="55" version="0.100.0" height="120" link_type="simple" type="element" width="120" hotspot_y="70">
+    <uuid uuid="{487198ba-c344-4296-80a2-922ed3d334d3}"/>
+    <names>
+        <name lang="en">Kruisschakelaar</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" rotation="0" y="40" text="4" x="40"/>
+        <line x1="-30" y1="-60" antialias="false" y2="-10" end2="none" x2="-30" end1="none" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" rotation="0" y="-50" text="3" x="0"/>
+        <line x1="-10.0781" y1="30.55" antialias="false" y2="40.55" end2="none" x2="-10.0781" end1="none" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="-25" y1="-11" antialias="false" y2="30" end2="none" x2="-10" end1="none" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" rotation="0" y="-50" text="1" x="-40"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" rotation="0" y="40" text="2" x="-20"/>
+        <line x1="-15" y1="-10" antialias="false" y2="-10" end2="none" x2="-30" end1="none" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="-50.0781" y1="2.05" antialias="false" y2="22.05" end2="none" x2="-50.0781" end1="none" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="10" y1="-10" antialias="false" y2="-60" end2="none" x2="10" end1="none" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="50" y1="40" antialias="false" y2="30" end2="none" x2="50" end1="none" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="50" y1="30" antialias="false" y2="-12" end2="none" x2="35" end1="none" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="30" y1="-10" antialias="false" y2="-10" end2="none" x2="50" end1="none" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="30" y1="-30" antialias="false" y2="-10" end2="none" x2="30" end1="none" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="11" y1="-30" antialias="false" y2="-30" end2="none" x2="30" end1="none" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="-30" y1="-40" antialias="false" y2="-40" end2="none" x2="60" end1="none" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="60" y1="-40" antialias="false" y2="-30" end2="none" x2="60" end1="none" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle antialias="false" diameter="4" y="-32" x="8" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="40" y1="10" antialias="false" y2="10" end2="none" x2="30" end1="none" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="20" y1="10" antialias="false" y2="10" end2="none" x2="5" end1="none" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="-5" y1="10" antialias="false" y2="10" end2="none" x2="-20" end1="none" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="-25" y1="10" antialias="false" y2="10" end2="none" x2="-30" end1="none" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="-30" y1="10" antialias="false" y2="15" end2="none" x2="-35" end1="none" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="-35" y1="15" antialias="false" y2="10" end2="none" x2="-40" end1="none" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x1="-40" y1="10" antialias="false" y2="10" end2="none" x2="-50" end1="none" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal uuid="{aca65e28-3f22-488c-9caf-b91fbcad6c68}" orientation="s" name="" type="Generic" y="40" x="50"/>
+        <terminal uuid="{b9d60b99-42cb-43c8-8a61-3f04ad9060df}" orientation="n" name="" type="Generic" y="-60" x="-30"/>
+        <terminal uuid="{05ac063b-8b54-4efa-932c-7c7ae258a9b9}" orientation="s" name="" type="Generic" y="41" x="-10"/>
+        <terminal uuid="{d4b79d57-17bf-441b-b87f-42b56fd5889b}" orientation="n" name="" type="Generic" y="-60" x="10"/>
+    </description>
+</definition>

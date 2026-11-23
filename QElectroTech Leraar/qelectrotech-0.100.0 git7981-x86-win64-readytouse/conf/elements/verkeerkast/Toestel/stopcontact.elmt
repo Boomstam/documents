@@ -1,0 +1,36 @@
+<definition link_type="simple" hotspot_x="65" hotspot_y="67" width="130" height="150" type="element" version="0.100.0">
+    <uuid uuid="{19a4922f-0e54-4e96-8f8d-5fc94563639d}"/>
+    <names>
+        <name lang="en">Stopcontactdoos</name>
+    </names>
+    <elementInformations>
+        <elementInformation show="1" name="manufacturer">Niko</elementInformation>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="description"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <circle style="line-style:normal;line-weight:normal;filling:HTMLGrayGainsboro;color:black" antialias="false" x="-50" y="-50" diameter="100"/>
+        <circle style="line-style:normal;line-weight:hight;filling:none;color:black" antialias="false" x="24" y="-6" diameter="12"/>
+        <circle style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false" x="-6" y="-35" diameter="12"/>
+        <line end2="none" style="line-style:normal;line-weight:hight;filling:none;color:black" x1="-60" end1="none" length1="1.5" antialias="false" x2="-60" length2="1.5" y2="60" y1="-60"/>
+        <line end2="none" style="line-style:normal;line-weight:hight;filling:none;color:black" x1="60" end1="none" length1="1.5" antialias="false" x2="60" length2="1.5" y2="60" y1="-60"/>
+        <line end2="none" style="line-style:normal;line-weight:hight;filling:none;color:black" x1="-60" end1="none" length1="1.5" antialias="false" x2="60" length2="1.5" y2="60" y1="60"/>
+        <line end2="none" style="line-style:normal;line-weight:hight;filling:none;color:black" x1="-60" end1="none" length1="1.5" antialias="false" x2="60" length2="1.5" y2="-60" y1="-60"/>
+        <circle style="line-style:normal;line-weight:hight;filling:none;color:black" antialias="false" x="-36" y="-6" diameter="12"/>
+        <circle style="line-style:normal;line-weight:hight;filling:none;color:black" antialias="false" x="-55" y="-55" diameter="110"/>
+        <text color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" x="-15" y="75" text="3g 2.5"/>
+        <terminal name="" orientation="s" uuid="{4cb2a772-04ab-4ff4-8ec3-c93f99420748}" x="35" type="Generic" y="60"/>
+        <terminal name="" orientation="n" uuid="{6cd5f1d9-ab0d-4e04-b7b6-20924efa6a6a}" x="-35" type="Generic" y="-60"/>
+        <terminal name="" orientation="s" uuid="{d81513bc-ac4a-4edb-8a72-b5df1d488cf3}" x="-35" type="Generic" y="60"/>
+        <terminal name="" orientation="n" uuid="{f95b0fdf-e2c2-47c9-b1bc-6eed7e0d3387}" x="35" type="Generic" y="-60"/>
+    </description>
+</definition>

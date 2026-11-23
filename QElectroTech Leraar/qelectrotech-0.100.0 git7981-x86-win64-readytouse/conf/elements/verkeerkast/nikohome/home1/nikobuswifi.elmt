@@ -1,0 +1,38 @@
+<definition link_type="simple" height="230" type="element" width="130" version="0.100.0" hotspot_y="135" hotspot_x="125">
+    <uuid uuid="{7f19e5b6-5786-48c9-91ae-22e83738d41d}"/>
+    <names>
+        <name lang="fr">Niko Bus wifi</name>
+        <name lang="en">Niko Bus wifi</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle style="line-style:normal;line-weight:normal;filling:HTMLYellowLightGoldenrodYellow;color:white" diameter="4" y="-60" x="-51" antialias="false"/>
+        <rect height="100" rx="0" style="line-style:dotted;line-weight:normal;filling:gray;color:white" width="120" y="-70" x="-120" ry="0" antialias="false"/>
+        <line length1="1.5" y2="-130" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="2.84217e-14" end1="none" x1="-48" y1="-130" end2="none" antialias="false" length2="1.5"/>
+        <line length1="1.5" y2="90" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="2.84217e-14" end1="none" x1="-72" y1="90" end2="none" antialias="false" length2="1.5"/>
+        <line length1="1.5" y2="90" style="line-style:normal;line-weight:hight;filling:none;color:black" x2="2.84217e-14" end1="none" x1="2.84217e-14" y1="-130" end2="none" antialias="false" length2="1.5"/>
+        <rect height="40" rx="0" style="line-style:dotted;line-weight:normal;filling:black;color:black" width="120" y="-10" x="-120" ry="0" antialias="false"/>
+        <line length1="1.5" y2="-10" style="line-style:normal;line-weight:normal;filling:none;color:green" x2="-2" end1="none" x1="-117" y1="-10" end2="none" antialias="false" length2="1.5"/>
+        <text color="#ffffff" rotation="0" text="NIKO" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="20" x="-55"/>
+        <line length1="1.5" y2="30" style="line-style:normal;line-weight:normal;filling:none;color:white" x2="-0.8" end1="none" x1="-0.8" y1="-68" end2="none" antialias="false" length2="1.5"/>
+        <line length1="1.5" y2="-130" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-60" end1="none" x1="-120" y1="-130" end2="none" antialias="false" length2="1.5"/>
+        <line length1="1.5" y2="-130" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-24" end1="none" x1="-72" y1="-130" end2="none" antialias="false" length2="1.5"/>
+        <line length1="1.5" y2="90" style="line-style:normal;line-weight:hight;filling:none;color:black" x2="-120" end1="none" x1="-120" y1="-130" end2="none" antialias="false" length2="1.5"/>
+        <line length1="1.5" y2="90" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-60" end1="none" x1="-120" y1="90" end2="none" antialias="false" length2="1.5"/>
+        <line length1="1.5" y2="30" style="line-style:normal;line-weight:normal;filling:none;color:white" x2="-118" end1="none" x1="-118" y1="-68" end2="none" antialias="false" length2="1.5"/>
+        <text color="#c1c1c1" rotation="0" text="550-00610" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="29" x="-55"/>
+        <circle style="line-style:normal;line-weight:normal;filling:HTMLYellowLightGoldenrodYellow;color:white" diameter="4" y="-32" x="-96" antialias="false"/>
+        <text color="#ebebeb" rotation="0" text="STATUS" font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="-60" x="-85"/>
+        <circle style="line-style:normal;line-weight:normal;filling:HTMLYellowLightGoldenrodYellow;color:white" diameter="4" y="-64" x="-96" antialias="false"/>
+        <circle style="line-style:normal;line-weight:normal;filling:HTMLYellowLightGoldenrodYellow;color:white" diameter="4" y="-56" x="-96" antialias="false"/>
+        <circle style="line-style:normal;line-weight:normal;filling:black;color:gray" diameter="16" y="-17" x="-45" antialias="false"/>
+        <circle style="line-style:normal;line-weight:normal;filling:HTMLRedRed;color:orange" diameter="8" y="-13" x="-41" antialias="false"/>
+        <arc angle="90" height="4" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" width="4" y="-57" x="-81" start="180" antialias="true"/>
+        <arc angle="90" height="8" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" width="8" y="-59" x="-83" start="180" antialias="true"/>
+        <arc angle="90" height="12" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" width="12" y="-61" x="-85" start="180" antialias="true"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:lightgray" diameter="2" y="-57" x="-79" antialias="false"/>
+        <text color="#00f900" rotation="0" text="ANTENNA" font="Sans Serif,5,-1,5,50,0,0,0,0,0" y="10" x="-50"/>
+        <polygon x3="-81" y4="3" y2="-24" style="line-style:normal;line-weight:hight;filling:black;color:lightgray" x4="-107" x2="-81" y3="3" x1="-107" y1="-24" antialias="false"/>
+    </description>
+</definition>

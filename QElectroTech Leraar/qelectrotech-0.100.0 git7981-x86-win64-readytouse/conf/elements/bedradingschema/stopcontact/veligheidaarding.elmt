@@ -1,0 +1,29 @@
+<definition link_type="simple" width="60" version="0.100.0" type="element" height="100" hotspot_x="28" hotspot_y="49">
+    <uuid uuid="{f8259830-065d-4ec3-8d9e-ce173a797615}"/>
+    <names>
+        <name lang="en">Stopcontact aarding veligheid</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <arc antialias="true" x="0" width="20" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-10" height="20" angle="90" start="90"/>
+        <line antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" x1="-20" y1="-30" x2="15" y2="-30"/>
+        <line antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" x1="-20" y1="30" x2="15" y2="30"/>
+        <arc antialias="true" x="0" width="20" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-10" height="20" angle="94.25" start="178.625"/>
+        <line antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" x1="-20" y1="0" x2="0" y2="0"/>
+        <arc antialias="true" x="15" width="20" style="line-style:normal;line-weight:normal;filling:none;color:black" y="20" height="20" angle="90" start="90"/>
+        <arc antialias="true" x="15" width="20" style="line-style:normal;line-weight:normal;filling:none;color:black" y="20" height="20" angle="94.25" start="178.625"/>
+        <arc antialias="true" x="15" width="20" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-40" height="20" angle="90" start="90"/>
+        <line antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" x1="14" y1="24" x2="14" y2="36"/>
+        <arc antialias="true" x="15" width="20" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-40" height="20" angle="94.25" start="178.625"/>
+        <line antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" x1="25" y1="20" x2="25" y2="17"/>
+        <line antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" x1="26" y1="40" x2="26" y2="44"/>
+        <line antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" x1="14" y1="-36" x2="14" y2="-24"/>
+        <line antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" x1="25" y1="-40" x2="25" y2="-43"/>
+        <line antialias="false" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" x1="26" y1="-20" x2="26" y2="-16"/>
+        <line antialias="false" end1="none" end2="none" style="line-style:dashed;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5" x1="0" y1="-30" x2="0" y2="30"/>
+        <terminal uuid="{a3e65301-9fc0-478f-a2cc-2907d4aaebb4}" name="" x="-20" orientation="w" y="-30" type="Generic"/>
+        <terminal uuid="{1b63a351-4616-474b-a1a6-4d562512c6c4}" name="" x="-20" orientation="w" y="0" type="Generic"/>
+        <terminal uuid="{0a3a1749-12d1-471c-b220-bc75835b1b86}" name="" x="-20" orientation="w" y="30" type="Generic"/>
+    </description>
+</definition>

@@ -1,0 +1,18 @@
+<definition type="element" hotspot_x="13" version="0.100.0" height="20" hotspot_y="10" link_type="simple" width="30">
+    <uuid uuid="{cf86c83b-f54f-460b-aea9-e26c4f5b38d3}"/>
+    <names>
+        <name lang="en">intercom</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect ry="0" antialias="false" rx="0" height="12.2055" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-6" x="-9" width="18"/>
+        <polygon y3="1.73515" x2="4" y2="-1.52969" x5="9" antialias="false" y4="6" x1="4" x4="9" style="line-style:normal;line-weight:normal;filling:none;color:black" x3="4" y5="-6" y1="-2"/>
+        <polygon y3="1.73515" x2="2" y2="-1.52969" antialias="false" y4="1.73515" x1="4" x4="4" style="line-style:normal;line-weight:normal;filling:none;color:black" x3="2" y1="-1.52969"/>
+        <line x2="12" y2="0" length1="1.5" antialias="false" x1="6" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="0"/>
+        <line x2="12" y2="-1" length1="1.5" antialias="false" x1="13" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="0"/>
+        <line x2="12" y2="1" length1="1.5" antialias="false" x1="13" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="0"/>
+        <line x2="7" y2="-1" length1="1.5" antialias="false" x1="6" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="0"/>
+        <line x2="7" y2="1" length1="1.5" antialias="false" x1="6" end1="none" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="0"/>
+    </description>
+</definition>

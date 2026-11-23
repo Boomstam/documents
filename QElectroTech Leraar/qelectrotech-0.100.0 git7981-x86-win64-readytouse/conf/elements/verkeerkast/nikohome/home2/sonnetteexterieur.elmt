@@ -1,0 +1,28 @@
+<definition width="110" type="element" height="170" link_type="simple" hotspot_y="104" hotspot_x="55" version="0.100.0">
+    <uuid uuid="{47945118-9626-40e4-9a31-ca0b56c6867e}"/>
+    <names>
+        <name lang="fr">Sonnette exterieur</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect width="100" height="160" rx="0" ry="0" antialias="false" x="-50" y="-100" style="line-style:normal;line-weight:normal;filling:black;color:black"/>
+        <circle diameter="40" antialias="false" x="-20" y="-85" style="line-style:normal;line-weight:normal;filling:gray;color:black"/>
+        <circle diameter="30" antialias="false" x="-15" y="-80" style="line-style:normal;line-weight:normal;filling:lightgray;color:lightgray"/>
+        <circle diameter="20" antialias="false" x="-10" y="-75" style="line-style:normal;line-weight:hight;filling:gray;color:black"/>
+        <rect width="65" height="30" rx="0" ry="0" antialias="false" x="-50" y="30" style="line-style:normal;line-weight:normal;filling:black;color:gray"/>
+        <rect width="35" height="30" rx="0" ry="0" antialias="false" x="15" y="30" style="line-style:normal;line-weight:normal;filling:black;color:gray"/>
+        <text rotation="0" text="Mrs Niko" color="#ffffff" x="-37" y="49" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <arc width="8" height="8" angle="90" antialias="true" x="30" y="37" style="line-style:normal;line-weight:normal;filling:none;color:white" start="90"/>
+        <arc width="8" height="8" angle="90" antialias="true" x="30" y="37" style="line-style:normal;line-weight:normal;filling:none;color:white" start="0"/>
+        <arc width="8" height="16" angle="90" antialias="true" x="38" y="33" style="line-style:normal;line-weight:normal;filling:none;color:white" start="180"/>
+        <arc width="16" height="4" angle="75.6875" antialias="true" x="26" y="47" style="line-style:normal;line-weight:normal;filling:none;color:white" start="284.188"/>
+        <arc width="16" height="4" angle="68.6875" antialias="true" x="26" y="47" style="line-style:normal;line-weight:normal;filling:none;color:white" start="180"/>
+        <arc width="8" height="16" angle="90" antialias="true" x="22" y="33" style="line-style:normal;line-weight:normal;filling:none;color:white" start="270"/>
+        <arc width="4" height="4" angle="90" antialias="true" x="32" y="49" style="line-style:normal;line-weight:normal;filling:none;color:white" start="180"/>
+        <arc width="4" height="4" angle="90" antialias="true" x="32" y="49" style="line-style:normal;line-weight:normal;filling:none;color:white" start="270"/>
+        <text rotation="0" text="Niko" color="#ffffff" x="-50" y="30" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <terminal uuid="{f2e4bfe4-cb3b-4d89-8d04-1abb768f04d8}" type="Generic" orientation="s" x="-20" y="60" name=""/>
+        <terminal uuid="{a50efc38-8b63-4c80-9e10-cc621181b53d}" type="Generic" orientation="s" x="0" y="60" name=""/>
+    </description>
+</definition>

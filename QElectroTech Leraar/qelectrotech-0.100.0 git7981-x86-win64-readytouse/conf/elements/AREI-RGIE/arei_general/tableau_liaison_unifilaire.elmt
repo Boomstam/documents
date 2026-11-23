@@ -1,0 +1,14 @@
+<definition hotspot_x="5" version="0.100.0" link_type="simple" type="element" height="60" width="170" hotspot_y="4">
+    <uuid uuid="{e8ca69cc-d55b-4aac-b0b4-3691fa68e798}"/>
+    <names>
+        <name lang="fr">tableau unifilaire</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line end1="none" style="line-style:normal;line-weight:eleve;filling:none;color:black" length2="1.5" antialias="false" length1="1.5" end2="none" y1="0" x2="160" y2="0" x1="0"/>
+        <line end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" length1="1.5" end2="none" y1="0" x2="40" y2="50" x1="40"/>
+        <terminal x="40" uuid="{d43d2906-5e01-4784-913d-6911931f0fd0}" name="" type="Generic" y="0" orientation="n"/>
+        <terminal x="40" uuid="{959f05db-e588-4e7a-942b-27b344e71b27}" name="" type="Generic" y="50" orientation="s"/>
+    </description>
+</definition>

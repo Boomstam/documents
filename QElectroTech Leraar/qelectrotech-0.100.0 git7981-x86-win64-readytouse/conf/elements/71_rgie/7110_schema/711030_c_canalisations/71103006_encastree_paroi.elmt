@@ -1,0 +1,33 @@
+<definition hotspot_x="34" version="0.100.0" link_type="simple" type="element" height="20" width="70" hotspot_y="12">
+    <uuid uuid="{ecd50e5e-d5a5-4761-8330-47564357ddc1}"/>
+    <names>
+        <name lang="fr">Encastrée dans une paroi</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" length1="1.5" end2="none" y1="0" x2="30" y2="0" x1="-30"/>
+        <dynamic_text text_width="-1" keep_visual_rotation="true" x="-8" z="2" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" uuid="{48daac6f-023d-4975-9c7b-e3f9e2c18eb5}" Valignment="AlignTop" y="-37" rotation="0" frame="false" Halignment="AlignLeft" text_from="ElementInfo">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" length1="1.5" end2="none" y1="-7" x2="-17" y2="-7" x1="-25"/>
+        <line end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" length1="1.5" end2="none" y1="-7" x2="-25" y2="-3" x1="-25"/>
+        <line end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" length1="1.5" end2="none" y1="-7" x2="-17" y2="-3" x1="-17"/>
+        <line end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" length1="1.5" end2="none" y1="-7" x2="-21" y2="-3" x1="-21"/>
+        <line end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" length1="1.5" end2="none" y1="-7" x2="17" y2="-7" x1="25"/>
+        <line end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" length1="1.5" end2="none" y1="-7" x2="25" y2="-3" x1="25"/>
+        <line end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" length1="1.5" end2="none" y1="-7" x2="21" y2="-3" x1="21"/>
+        <line end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" length1="1.5" end2="none" y1="-7" x2="17" y2="-3" x1="17"/>
+        <dynamic_text text_width="-1" keep_visual_rotation="false" x="-30" z="11" font="Sans Serif,7,-1,5,0,0,0,0,0,0,normal" uuid="{f3a7bd8d-074b-4021-a216-8895561a0bd2}" Valignment="AlignTop" y="0" rotation="0" frame="false" Halignment="AlignLeft" text_from="ElementInfo">
+            <text></text>
+            <info_name>auxiliary1</info_name>
+        </dynamic_text>
+        <dynamic_text text_width="-1" keep_visual_rotation="false" x="5" z="12" font="Sans Serif,7,-1,5,0,0,0,0,0,0,normal" uuid="{b6d85262-1ffe-4fd0-88f8-aa11948395d4}" Valignment="AlignTop" y="0" rotation="0" frame="false" Halignment="AlignLeft" text_from="ElementInfo">
+            <text></text>
+            <info_name>auxiliary2</info_name>
+        </dynamic_text>
+        <terminal x="-30" uuid="{064e59a9-5b2b-4c72-82e8-65f17a98370e}" name="" type="Generic" y="0" orientation="w"/>
+        <terminal x="30" uuid="{6c633c15-8e7e-4a69-aa99-168c745d58f3}" name="" type="Generic" y="0" orientation="e"/>
+    </description>
+</definition>

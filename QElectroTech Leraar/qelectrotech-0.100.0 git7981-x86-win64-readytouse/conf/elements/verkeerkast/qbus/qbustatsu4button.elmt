@@ -1,0 +1,32 @@
+<definition link_type="simple" width="130" hotspot_y="64" type="element" height="130" hotspot_x="65" version="0.100.0">
+    <uuid uuid="{ef815458-96f5-4202-b157-316624a37de1}"/>
+    <names>
+        <name lang="en">Tastu 4 button</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">Niko</elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <rect ry="0" x="-60" y="-60" style="line-style:normal;line-weight:normal;filling:HTMLWhiteWhiteSmoke;color:HTMLGrayGainsboro" width="120" height="120" antialias="false" rx="0"/>
+        <rect ry="0" x="-57" y="-57" style="line-style:normal;line-weight:eleve;filling:none;color:HTMLWhiteGhostWhite" width="114" height="114" antialias="false" rx="0"/>
+        <circle diameter="20" x="15" y="-35" style="line-style:normal;line-weight:normal;filling:none;color:green" antialias="false"/>
+        <circle diameter="20" x="15" y="16" style="line-style:normal;line-weight:normal;filling:none;color:green" antialias="false"/>
+        <circle diameter="20" x="-35" y="16" style="line-style:normal;line-weight:normal;filling:none;color:green" antialias="false"/>
+        <circle diameter="20" x="-35" y="-35" style="line-style:normal;line-weight:normal;filling:none;color:green" antialias="false"/>
+        <terminal x="-35" y="60" name="" orientation="s" uuid="{d81513bc-ac4a-4edb-8a72-b5df1d488cf3}" type="Generic"/>
+        <terminal x="35" y="-60" name="" orientation="n" uuid="{f95b0fdf-e2c2-47c9-b1bc-6eed7e0d3387}" type="Generic"/>
+        <terminal x="-35" y="-60" name="" orientation="n" uuid="{6cd5f1d9-ab0d-4e04-b7b6-20924efa6a6a}" type="Generic"/>
+        <terminal x="35" y="60" name="" orientation="s" uuid="{4cb2a772-04ab-4ff4-8ec3-c93f99420748}" type="Generic"/>
+    </description>
+</definition>

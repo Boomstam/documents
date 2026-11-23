@@ -1,0 +1,121 @@
+19:26:11.348 Info: Start-up 
+19:26:11.676 Info: Elements collection reload 
+19:26:12.100 Info: debugging enabled: false 
+19:26:12.101 Info: Qt library version: 5.15.11 
+19:26:12.101 Info: Qt library location default prefix: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5" 
+19:26:12.101 Info: Qt library location documentation: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/doc" 
+19:26:12.101 Info: Qt library location headers: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/include" 
+19:26:12.101 Info: Qt library location libraries: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/lib" 
+19:26:12.103 Info: Qt library location executables: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/bin" 
+19:26:12.103 Info: Qt library location Qt binaries: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/bin" 
+19:26:12.103 Info: Qt library location Qt plugins: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/plugins" 
+19:26:12.104 Info: Qt library location installed QML extensions: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/imports" 
+19:26:12.104 Info: Qt library location installed QML extensions: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/qml" 
+19:26:12.104 Info: Qt library location dependent Qt data: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5" 
+19:26:12.104 Info: Qt library location independent Qt data: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5" 
+19:26:12.104 Info: Qt library location translation: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/translations" 
+19:26:12.105 Info: Qt library location examples: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/examples" 
+19:26:12.105 Info: Qt library location Qt testcases: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/tests" 
+19:26:12.105 Info: "QElectroTech V 0.100.0-dev" 
+19:26:12.105 Info: "Compilatie: GCC 11.4.0" 
+19:26:12.105 Info: "Built with Qt 5.15.11 - x86_64 - Date : Nov  7 2023 : 08:14:43" 
+19:26:12.106 Info: "Run with Qt 5.15.11 using 8 thread(s)" 
+19:26:12.106 Info: "CPU : NAME                                      \r\r\nINTEL(R) CORE(TM) I5-8250U CPU @ 1.60GHZ  \r\r\n\r\r\n" 
+19:26:12.106 Info: "RAM Total : 8 GB" 
+19:26:12.106 Info: "RAM Available : 3 GB" 
+19:26:12.106 Info: "GPU : VideoProcessor                \r\r\nIntel(R) UHD Graphics Family  \r\r\n\r\r\n" 
+19:26:12.106 Info: "GPU RAM : RAM Total : AdapterRAM  \r\r\n1073741824  \r\r\n\r\r\n B" 
+19:26:12.107 Info: "OS : winnt  - x86_64 - Version : Windows 10 Version 2009 - Kernel : 10.0.19045" 
+19:26:12.107 Info: *** Qt screens *** 
+19:26:12.107 Info: "( 1 : 1920 x 1080 )" 
+19:26:12.108 Info: DISK : C:/   
+19:26:12.108 Info: FileSystemType: "NTFS" 
+19:26:12.108 Info: SizeTotal: 167 GB 
+19:26:12.108 Info: AvailableSize: 62 GB 
+19:26:12.108 Info: DISK : D:/   
+19:26:12.109 Info: FileSystemType: "NTFS" 
+19:26:12.109 Info: SizeTotal: 88 GB 
+19:26:12.109 Info: AvailableSize: 82 GB 
+19:26:12.110 Info: DISK USED: C:/   
+19:26:12.110 Info: FileSystemType: "NTFS" 
+19:26:12.111 Info: SizeTotal: 167 GB 
+19:26:12.111 Info: AvailableSize: 62 GB 
+19:26:15.587 Info: Elements collection finished to be loaded in 3.91 seconds 
+19:26:38.689 Debug: Export XML de 0 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+19:26:38.689 Debug: is QRegularExpression ok? (../sources/titleblocktemplate.cpp:437, void TitleBlockTemplate::parseColumns(const QString&))
+19:26:38.799 Warning: QObject::connect: No such signal BorderTitleBlock::diagramTitleChanged(const QString &) (:0, )
+19:26:38.877 Warning: QObject::connect: No such slot BorderTitleBlock::slot_setAutoPageNum(QString) (:0, )
+19:26:38.877 Warning: QObject::connect:  (sender name:   'AutoNumberingDockWidget') (:0, )
+19:26:39.768 Info: Elements collection finished to be loaded 
+19:26:39.831 Warning: QObject::disconnect: No such slot BorderTitleBlock::slot_setAutoPageNum(QString) (:0, )
+19:26:39.831 Warning: QObject::disconnect:  (sender name:   'AutoNumberingDockWidget') (:0, )
+19:26:39.831 Warning: QObject::connect: No such slot BorderTitleBlock::slot_setAutoPageNum(QString) (:0, )
+19:26:39.831 Warning: QObject::connect:  (sender name:   'AutoNumberingDockWidget') (:0, )
+19:27:02.109 Warning: QGraphicsView::dragLeaveEvent: drag leave received before drag enter (:0, )
+19:27:05.015 Debug: projectDataBase::addElement insert element info error :  QSqlError("19", "Kon rij niet ophalen", "UNIQUE constraint failed: element_info.element_uuid") (../sources/dataBase/projectdatabase.cpp:136, void projectDataBase::addElement(Element*))
+19:27:12.871 Debug: projectDataBase::addElement insert element info error :  QSqlError("19", "Kon rij niet ophalen", "UNIQUE constraint failed: element_info.element_uuid") (../sources/dataBase/projectdatabase.cpp:136, void projectDataBase::addElement(Element*))
+19:28:02.817 Warning: QGraphicsView::dragLeaveEvent: drag leave received before drag enter (:0, )
+19:28:05.240 Debug: projectDataBase::addElement insert element info error :  QSqlError("19", "Kon rij niet ophalen", "UNIQUE constraint failed: element_info.element_uuid") (../sources/dataBase/projectdatabase.cpp:136, void projectDataBase::addElement(Element*))
+19:28:07.178 Debug: projectDataBase::addElement insert element info error :  QSqlError("19", "Kon rij niet ophalen", "UNIQUE constraint failed: element_info.element_uuid") (../sources/dataBase/projectdatabase.cpp:136, void projectDataBase::addElement(Element*))
+19:28:38.708 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+19:28:38.708 Debug: "exporting diagram \"\"" [ Diagram(0x2127b1db010) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+19:30:38.716 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+19:30:38.716 Debug: "exporting diagram \"\"" [ Diagram(0x2127b1db010) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+19:32:38.740 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+19:32:38.740 Debug: "exporting diagram \"\"" [ Diagram(0x2127b1db010) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+19:34:38.745 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+19:34:38.745 Debug: "exporting diagram \"\"" [ Diagram(0x2127b1db010) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+19:35:45.284 Warning: setGeometry: Unable to set geometry 1365x736+296+161 (frame: 1383x783+287+123) on QWidgetWindow/"DiagramPropertiesDialogClassWindow" on "\\.\DISPLAY1". Resulting geometry: 1365x772+296+161 (frame: 1383x819+287+123) margins: 9, 38, 9, 9 minimum size: 1092x578 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=1383,770 maxtrack=0,0) (:0, )
+19:36:38.769 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+19:36:38.769 Debug: "exporting diagram \"\"" [ Diagram(0x2127b1db010) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+19:36:42.598 Debug: projectDataBase::addElement insert element info error :  QSqlError("19", "Kon rij niet ophalen", "UNIQUE constraint failed: element_info.element_uuid") (../sources/dataBase/projectdatabase.cpp:136, void projectDataBase::addElement(Element*))
+19:36:43.778 Debug: projectDataBase::addElement insert element info error :  QSqlError("19", "Kon rij niet ophalen", "UNIQUE constraint failed: element_info.element_uuid") (../sources/dataBase/projectdatabase.cpp:136, void projectDataBase::addElement(Element*))
+19:36:44.746 Debug: projectDataBase::addElement insert element info error :  QSqlError("19", "Kon rij niet ophalen", "UNIQUE constraint failed: element_info.element_uuid") (../sources/dataBase/projectdatabase.cpp:136, void projectDataBase::addElement(Element*))
+19:36:46.341 Debug: projectDataBase::addElement insert element info error :  QSqlError("19", "Kon rij niet ophalen", "UNIQUE constraint failed: element_info.element_uuid") (../sources/dataBase/projectdatabase.cpp:136, void projectDataBase::addElement(Element*))
+19:38:38.762 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+19:38:38.762 Debug: "exporting diagram \"\"" [ Diagram(0x2127b1db010) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+19:40:38.772 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+19:40:38.772 Debug: "exporting diagram \"\"" [ Diagram(0x2127b1db010) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+19:42:38.767 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+19:42:38.767 Debug: "exporting diagram \"\"" [ Diagram(0x2127b1db010) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+19:44:38.765 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+19:44:38.765 Debug: "exporting diagram \"\"" [ Diagram(0x2127b1db010) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+19:45:21.320 Debug: projectDataBase::addElement insert element info error :  QSqlError("19", "Kon rij niet ophalen", "UNIQUE constraint failed: element_info.element_uuid") (../sources/dataBase/projectdatabase.cpp:136, void projectDataBase::addElement(Element*))
+19:46:23.153 Debug: projectDataBase::addElement insert element info error :  QSqlError("19", "Kon rij niet ophalen", "UNIQUE constraint failed: element_info.element_uuid") (../sources/dataBase/projectdatabase.cpp:136, void projectDataBase::addElement(Element*))
+19:46:26.451 Debug: projectDataBase::addElement insert element info error :  QSqlError("19", "Kon rij niet ophalen", "UNIQUE constraint failed: element_info.element_uuid") (../sources/dataBase/projectdatabase.cpp:136, void projectDataBase::addElement(Element*))
+19:46:38.759 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+19:46:38.759 Debug: "exporting diagram \"\"" [ Diagram(0x2127b1db010) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+19:48:38.784 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+19:48:38.784 Debug: "exporting diagram \"\"" [ Diagram(0x2127b1db010) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+19:50:38.792 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+19:50:38.792 Debug: "exporting diagram \"\"" [ Diagram(0x2127b1db010) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+19:52:38.813 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+19:52:38.813 Debug: "exporting diagram \"\"" [ Diagram(0x2127b1db010) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+19:54:38.835 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+19:54:38.835 Debug: "exporting diagram \"\"" [ Diagram(0x2127b1db010) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+19:56:38.829 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+19:56:38.829 Debug: "exporting diagram \"\"" [ Diagram(0x2127b1db010) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+19:58:38.841 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+19:58:38.841 Debug: "exporting diagram \"\"" [ Diagram(0x2127b1db010) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+20:00:38.861 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+20:00:38.861 Debug: "exporting diagram \"\"" [ Diagram(0x2127b1db010) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+20:02:01.631 Debug: projectDataBase::addElement insert element info error :  QSqlError("19", "Kon rij niet ophalen", "UNIQUE constraint failed: element_info.element_uuid") (../sources/dataBase/projectdatabase.cpp:136, void projectDataBase::addElement(Element*))
+20:02:03.272 Debug: projectDataBase::addElement insert element info error :  QSqlError("19", "Kon rij niet ophalen", "UNIQUE constraint failed: element_info.element_uuid") (../sources/dataBase/projectdatabase.cpp:136, void projectDataBase::addElement(Element*))
+20:02:07.174 Debug: projectDataBase::addElement insert element info error :  QSqlError("19", "Kon rij niet ophalen", "UNIQUE constraint failed: element_info.element_uuid") (../sources/dataBase/projectdatabase.cpp:136, void projectDataBase::addElement(Element*))
+20:02:11.857 Debug: projectDataBase::addElement insert element info error :  QSqlError("19", "Kon rij niet ophalen", "UNIQUE constraint failed: element_info.element_uuid") (../sources/dataBase/projectdatabase.cpp:136, void projectDataBase::addElement(Element*))
+20:02:14.567 Debug: projectDataBase::addElement insert element info error :  QSqlError("19", "Kon rij niet ophalen", "UNIQUE constraint failed: element_info.element_uuid") (../sources/dataBase/projectdatabase.cpp:136, void projectDataBase::addElement(Element*))
+20:02:38.864 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+20:02:38.864 Debug: "exporting diagram \"\"" [ Diagram(0x2127b1db010) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+20:04:38.873 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+20:04:38.873 Debug: "exporting diagram \"\"" [ Diagram(0x2127b1db010) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+20:05:52.960 Warning: setGeometry: Unable to set geometry 1365x736+296+161 (frame: 1383x783+287+123) on QWidgetWindow/"DiagramPropertiesDialogClassWindow" on "\\.\DISPLAY1". Resulting geometry: 1365x772+296+161 (frame: 1383x819+287+123) margins: 9, 38, 9, 9 minimum size: 1092x578 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=1383,770 maxtrack=0,0) (:0, )
+20:06:02.720 Warning: setGeometry: Unable to set geometry 1365x736+296+161 (frame: 1383x783+287+123) on QWidgetWindow/"DiagramPropertiesDialogClassWindow" on "\\.\DISPLAY1". Resulting geometry: 1365x772+296+161 (frame: 1383x819+287+123) margins: 9, 38, 9, 9 minimum size: 1092x578 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=1383,770 maxtrack=0,0) (:0, )
+20:06:37.704 Debug: Help code for QT 6 or later (../sources/print/projectprintwindow.cpp:604, void ProjectPrintWindow::savePageSetupForCurrentPrinter())
+20:06:37.720 Warning: QObject::disconnect: No such slot BorderTitleBlock::slot_setAutoPageNum(QString) (:0, )
+20:06:37.720 Warning: QObject::disconnect:  (sender name:   'AutoNumberingDockWidget') (:0, )
+20:06:37.720 Warning: QObject::connect: No such slot BorderTitleBlock::slot_setAutoPageNum(QString) (:0, )
+20:06:37.720 Warning: QObject::connect:  (sender name:   'AutoNumberingDockWidget') (:0, )
+20:06:38.876 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+20:06:38.876 Debug: "exporting diagram \"\"" [ Diagram(0x2127b1db010) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+20:08:38.893 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+20:08:38.893 Debug: "exporting diagram \"\"" [ Diagram(0x2127b1db010) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())

@@ -1,0 +1,18 @@
+<definition link_type="simple" version="0.100.0" width="40" hotspot_y="13" type="element" height="30" hotspot_x="20">
+    <uuid uuid="{d370c212-2237-431f-b06e-c4e181868281}"/>
+    <names>
+        <name lang="en">transformator b1 b2 24v</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <text rotation="0" x="-15" font="Sans Serif,7,-1,5,50,0,0,0,0,0" text="C1" y="-1" color="#000000"/>
+        <text rotation="0" x="5" font="Sans Serif,7,-1,5,50,0,0,0,0,0" text="C2" y="-1" color="#000000"/>
+        <circle x="-16" diameter="12" antialias="false" y="-10" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle x="4" diameter="12" antialias="false" y="-10" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="3" length1="1.5" y2="10" x2="-10" antialias="false" x1="-10" length2="1.5" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y1="2" length1="1.5" y2="10" x2="10" antialias="false" x1="10" length2="1.5" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal x="10" name="" type="Generic" orientation="s" y="10" uuid="{3bf0bdde-c899-4381-95a3-2d359b5fc29f}"/>
+        <terminal x="-10" name="" type="Generic" orientation="s" y="10" uuid="{c015b532-6bd9-4aba-b07c-bfafb5eb64cf}"/>
+    </description>
+</definition>

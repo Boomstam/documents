@@ -1,0 +1,31 @@
+<definition type="element" height="50" width="50" hotspot_y="23" link_type="simple" hotspot_x="24" version="0.100.0">
+    <uuid uuid="{5340e6bf-c6b6-41d0-a8b3-1e471cd7d0f5}"/>
+    <names>
+        <name lang="nl">Verlichtingstoestel leiding</name>
+        <name lang="en">Lighting leiding</name>
+        <name lang="fr"> Point lumineux direction</name>
+    </names>
+    <elementInformations/>
+    <informations>[NL]
+Dit gratis element werd ontworpen door ShadowHunter en werd gedownload van www.shadowhunter.co.uk , www.shadowhunter.be of www.arei-rgie.be. Dit element wordt aangeboden zoals het is en zonder enige garantie. ShadowHunter kan niet aansprakelijk worden gesteld voor rechtstreekse of onrechtstreekse schade die ontstaat uit het gebruik van dit element. Het gebruik, wijzigingen en de integratie van dit element in schema’s is toegestaan zonder enige voorwaarden, ongeacht het uiteindelijke doel of vergunningstype van het schema. Bij herdistributie van dit element mag deze licentie-informatie niet worden verwijderd. Contact: info@shadowhunter.co.uk 
+
+[FR]
+Cet élément gratuit a été conçu par ShadowHunter et téléchargé depuis www.shadowhunter.co.uk , www.shadowhunter.be of www.arei-rgie.be. Cet élément est fournie telle quelle et sans la moindre garantie. Shadowhunter ne peut pas être tenue responsable de dommages directs ou indirects résultant de l'utilisation de cet élément. L'utilisation, la modification et l'intégration de cet élément dans des schémas électriques est autorisée sans condition, quelle que soit la licence finale des schémas. Lors de la redistribution de cet élément, ces informations de licence ne peuvent jamais être supprimées.
+Contact: info@shadowhunter.co.uk
+
+[EN]
+This free element was designed by ShadowHunter and downloaded from www.shadowhunter.co.uk,  www.shadowhunter.be or www.arei-rgie.be. This element is provided as is and comes without any warranty. Shadowhunter be cannot be held liable for direct or indirect damages resulting from the use of this element. The usage, the modification and the integration of this element into diagrams is allowed without any condition, whatever the final license or purpose of the diagrams is. This license information may not be removed upon redistribution. Contact: info@shadowhunter.co.uk</informations>
+    <description>
+        <line x1="-13" y2="14" antialias="false" y1="-13" length1="1.5" end2="none" x2="15" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <line x1="-14" y2="-13" antialias="false" y1="15" length1="1.5" end2="none" x2="14" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none"/>
+        <dynamic_text text_from="ElementInfo" z="3" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Valignment="AlignTop" y="12.5" Halignment="AlignLeft" frame="false" keep_visual_rotation="false" x="-10" uuid="{9d808ac6-95c7-48ea-b50b-7470298fb6d6}" text_width="-1" rotation="0">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <circle antialias="false" y="-19" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-20" diameter="40"/>
+        <terminal type="Generic" y="0" name="" x="20" uuid="{0a540e7e-4e91-47cc-bdef-e33347b8dd71}" orientation="e"/>
+        <terminal type="Generic" y="0" name="" x="-20" uuid="{a82c4a6f-2121-47ce-8bf8-a56e31883ad2}" orientation="w"/>
+        <terminal type="Generic" y="21" name="" x="0" uuid="{6cbbf0bb-abc6-4ac8-8809-16ca81800496}" orientation="s"/>
+        <terminal type="Generic" y="-19" name="" x="0" uuid="{fe57d57b-18a6-49a1-b2d4-20d087f7e5e5}" orientation="n"/>
+    </description>
+</definition>

@@ -1,0 +1,32 @@
+<definition link_type="simple" height="160" type="element" width="30" version="0.100.0" hotspot_y="89" hotspot_x="15">
+    <uuid uuid="{e80e8349-a694-4776-a869-e8268496a7a1}"/>
+    <names>
+        <name lang="fr">Aansluiting Neutre</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect height="140" rx="0" style="line-style:normal;line-weight:thin;filling:HTMLYellowLightYellow;color:black" width="20" y="-80" x="-10" ry="0" antialias="false"/>
+        <rect height="40" rx="0" style="line-style:normal;line-weight:normal;filling:blue;color:black" width="20" y="20" x="-10" ry="0" antialias="false"/>
+        <line length1="1.5" y2="37" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" x2="7" end1="none" x1="-7" y1="37" end2="none" antialias="false" length2="1.5"/>
+        <line length1="1.5" y2="34" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" x2="7" end1="none" x1="-7" y1="34" end2="none" antialias="false" length2="1.5"/>
+        <line length1="1.5" y2="31" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" x2="7" end1="none" x1="-7" y1="31" end2="none" antialias="false" length2="1.5"/>
+        <line length1="1.5" y2="28" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" x2="7" end1="none" x1="-7" y1="28" end2="none" antialias="false" length2="1.5"/>
+        <line length1="1.5" y2="25" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" x2="7" end1="none" x1="-7" y1="25" end2="none" antialias="false" length2="1.5"/>
+        <rect height="40" rx="0" style="line-style:normal;line-weight:normal;filling:blue;color:black" width="20" y="-80" x="-10" ry="0" antialias="false"/>
+        <line length1="1.5" y2="-40" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="10" end1="none" x1="-10" y1="-40" end2="none" antialias="false" length2="1.5"/>
+        <line length1="1.5" y2="-45" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" x2="7" end1="none" x1="-7" y1="-45" end2="none" antialias="false" length2="1.5"/>
+        <line length1="1.5" y2="-48" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" x2="7" end1="none" x1="-7" y1="-48" end2="none" antialias="false" length2="1.5"/>
+        <line length1="1.5" y2="-51" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" x2="7" end1="none" x1="-7" y1="-51" end2="none" antialias="false" length2="1.5"/>
+        <line length1="1.5" y2="-54" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" x2="7" end1="none" x1="-7" y1="-54" end2="none" antialias="false" length2="1.5"/>
+        <line length1="1.5" y2="-57" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" x2="7" end1="none" x1="-7" y1="-57" end2="none" antialias="false" length2="1.5"/>
+        <circle style="line-style:normal;line-weight:normal;filling:black;color:black" diameter="10" y="-25" x="-5" antialias="false"/>
+        <circle style="line-style:normal;line-weight:normal;filling:black;color:black" diameter="10" y="-5" x="-5" antialias="false"/>
+        <line length1="1.5" y2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="10" end1="none" x1="-10" y1="0" end2="none" antialias="false" length2="1.5"/>
+        <line length1="1.5" y2="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="10" end1="none" x1="-10" y1="-20" end2="none" antialias="false" length2="1.5"/>
+        <rect height="2" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="12" y="-82" x="-6" ry="0" antialias="false"/>
+        <rect height="2" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="12" y="60" x="-6" ry="0" antialias="false"/>
+        <terminal name="" type="Generic" y="62" orientation="s" uuid="{8962a5ad-c8fc-4885-b1e5-fbd807af01f5}" x="0"/>
+        <terminal name="" type="Generic" y="-82" orientation="n" uuid="{76a7e11d-3221-4c9e-90c6-5f5b072b9eb2}" x="0"/>
+    </description>
+</definition>

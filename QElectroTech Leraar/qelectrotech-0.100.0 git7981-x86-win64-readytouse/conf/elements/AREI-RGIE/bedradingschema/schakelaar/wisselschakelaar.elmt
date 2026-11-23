@@ -1,0 +1,33 @@
+<definition version="0.100.0" height="80" width="70" hotspot_x="43" link_type="simple" hotspot_y="44" type="element">
+    <uuid uuid="{0f1c6304-3022-4a19-b495-6f44a5b19b3d}"/>
+    <names>
+        <name lang="en">Wissel schakelaar</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line length1="1.5" antialias="false" x1="-20" length2="1.5" y1="-39" x2="-20" y2="-20.5" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" x1="-0.07813" length2="1.5" y1="19.55" x2="-0.07813" y2="29.55" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" x1="-14" length2="1.5" y1="-21" x2="-0.07813" y2="19.55" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" x1="-10" length2="1.5" y1="3" x2="4" y2="3" end2="none" end1="none" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" x1="-15.0781" length2="1.5" y1="3.05" x2="-20.0781" y2="3.05" end2="none" end1="none" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" x1="-25.0781" length2="1.5" y1="8.05" x2="-20.0781" y2="3.05" end2="none" end1="none" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" x1="0" length2="1.5" y1="-20" x2="-20" y2="-20" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" x1="-30.0781" length2="1.5" y1="3.05" x2="-25.0781" y2="8.05" end2="none" end1="none" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" x1="-40" length2="1.5" y1="3" x2="-30" y2="3" end2="none" end1="none" style="line-style:normal;line-weight:thin;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" x1="-40.0781" length2="1.5" y1="-6.95" x2="-40.0781" y2="13.05" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" x1="20" length2="1.5" y1="-20" x2="20" y2="-40" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" x="-35" frame="false" Halignment="AlignLeft" keep_visual_rotation="false" text_from="UserText" y="-41" uuid="{470311f5-94dd-46bc-a44e-217fe2748058}" Valignment="AlignTop" text_width="-1" rotation="0" z="16">
+            <text>4</text>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" x="5" frame="false" Halignment="AlignLeft" keep_visual_rotation="false" text_from="UserText" y="-42" uuid="{3932793d-f039-4fff-b7d1-a754788de2fb}" Valignment="AlignTop" text_width="-1" rotation="0" z="17">
+            <text>2</text>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" x="-16" frame="false" Halignment="AlignLeft" keep_visual_rotation="false" text_from="UserText" y="8" uuid="{3fade503-cb15-4590-a1ec-539d28f330d7}" Valignment="AlignTop" text_width="-1" rotation="0" z="18">
+            <text>1</text>
+        </dynamic_text>
+        <terminal name="" x="-20" y="-40" uuid="{34d989bc-6c7b-4d0b-848d-23db50a04ab0}" orientation="n" type="Generic"/>
+        <terminal name="" x="0" y="30" uuid="{fd1ce747-d3da-4748-87a4-2d6d1e789d71}" orientation="s" type="Generic"/>
+        <terminal name="" x="20" y="-40" uuid="{e539d979-dd1e-4463-9ae2-56536dbbb12b}" orientation="n" type="Generic"/>
+    </description>
+</definition>

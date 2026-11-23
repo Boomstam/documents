@@ -1,0 +1,35 @@
+<definition width="30" hotspot_y="25" type="element" hotspot_x="15" link_type="master" height="40" version="0.100.0">
+    <uuid uuid="{847fab03-0f4a-46c4-9fb8-2f87fa7a5657}"/>
+    <names>
+        <name lang="fr">Gasketel</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text x="-10" uuid="{515e9684-0611-46cf-9b6f-5f7aa33ac361}" Valignment="AlignTop" text_from="ElementInfo" y="-48" frame="false" Halignment="AlignLeft" rotation="0" text_width="-1" keep_visual_rotation="false" font="Sans Serif,9,-1,5,50,0,0,0,0,0" z="1">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect x="-10" width="20" y="-20" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" ry="0" height="20" rx="0"/>
+        <dynamic_text x="12" uuid="{a72e7062-d170-4efc-8ead-1a9d7a2a5c8b}" Valignment="AlignTop" text_from="UserText" y="-18" frame="false" Halignment="AlignLeft" rotation="0" text_width="-1" keep_visual_rotation="false" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" z="8">
+            <text>A</text>
+        </dynamic_text>
+        <polygon x4="8" x2="8" x3="2" antialias="false" style="line-style:normal;line-weight:normal;filling:black;color:black" y1="-14" x1="8" y4="-14" y2="-6" y3="-10"/>
+        <line end2="none" x2="0" end1="none" length1="1.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="0" x1="0" length2="1.5" y2="10"/>
+    </description>
+</definition>

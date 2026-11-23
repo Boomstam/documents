@@ -1,0 +1,40 @@
+<definition height="110" hotspot_y="54" link_type="simple" version="0.100.0" hotspot_x="93" type="element" width="190">
+    <uuid uuid="{d5cb952d-5b44-42d6-8ae2-0d443021c2d3}"/>
+    <names>
+        <name lang="en">Niko Home commutateur 6</name>
+        <name lang="fr">Niko Home commutateur 6</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect height="99" x="-89" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false" y="-50" ry="0" rx="0" width="180"/>
+        <rect height="6" x="-82" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" antialias="false" y="28" ry="0" rx="0" width="6"/>
+        <line y1="-50" style="line-style:normal;line-weight:hight;filling:none;color:black" antialias="false" length2="1.5" x1="-89" end2="none" x2="-89" length1="1.5" end1="none" y2="49"/>
+        <line y1="37" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" antialias="false" length2="1.5" x1="-88" end2="none" x2="-70" length1="1.5" end1="none" y2="37"/>
+        <line y1="-50" style="line-style:normal;line-weight:hight;filling:none;color:black" antialias="false" length2="1.5" x1="91" end2="none" x2="91" length1="1.5" end1="none" y2="49"/>
+        <rect height="6" x="-87" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" antialias="false" y="40" ry="0" rx="0" width="6"/>
+        <rect height="71" x="-74" style="line-style:normal;line-weight:normal;filling:white;color:black" antialias="false" y="-36" ry="0" rx="0" width="150"/>
+        <rect height="6" x="-77" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" antialias="false" y="40" ry="0" rx="0" width="6"/>
+        <circle x="-9" style="line-style:normal;line-weight:normal;filling:lightgray;color:black" antialias="false" y="-11" diameter="20"/>
+        <line y1="34" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" antialias="false" length2="1.5" x1="-79" end2="none" x2="-79" length1="1.5" end1="none" y2="36"/>
+        <circle x="42" style="line-style:normal;line-weight:normal;filling:lightgray;color:black" antialias="false" y="-34" diameter="20"/>
+        <line y1="37" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" antialias="false" length2="1.5" x1="-84" end2="none" x2="-84" length1="1.5" end1="none" y2="39"/>
+        <circle x="16" style="line-style:normal;line-weight:normal;filling:magenta;color:black" antialias="false" y="-34" diameter="20"/>
+        <line y1="37" style="line-style:normal;line-weight:normal;filling:none;color:lightgray" antialias="false" length2="1.5" x1="-74" end2="none" x2="-74" length1="1.5" end1="none" y2="39"/>
+        <circle x="-35" style="line-style:normal;line-weight:normal;filling:yellow;color:black" antialias="false" y="13" diameter="20"/>
+        <circle x="-10" style="line-style:normal;line-weight:normal;filling:yellow;color:black" antialias="false" y="-34" diameter="20"/>
+        <circle x="-36" style="line-style:normal;line-weight:normal;filling:green;color:black" antialias="false" y="-34" diameter="20"/>
+        <circle x="-61" style="line-style:normal;line-weight:normal;filling:magenta;color:black" antialias="false" y="-11" diameter="20"/>
+        <circle x="-61" style="line-style:normal;line-weight:normal;filling:green;color:black" antialias="false" y="13" diameter="20"/>
+        <circle x="-35" style="line-style:normal;line-weight:normal;filling:yellow;color:black" antialias="false" y="-11" diameter="20"/>
+        <circle x="43" style="line-style:normal;line-weight:normal;filling:green;color:black" antialias="false" y="-11" diameter="20"/>
+        <circle x="17" style="line-style:normal;line-weight:normal;filling:cyan;color:black" antialias="false" y="-11" diameter="20"/>
+        <circle x="-61" style="line-style:normal;line-weight:normal;filling:cyan;color:black" antialias="false" y="-34" diameter="20"/>
+        <text x="56" rotation="0" y="50" color="#bfbfbf" text="550-20102" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text x="-60" rotation="0" y="-40" color="#bfbfbf" text="+" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <text x="-80" rotation="0" y="-40" color="#bfbfbf" text="-" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <terminal x="-60" y="-50" name="" type="Generic" uuid="{458f7e3d-5c48-4bb4-9662-fd7367bb4e36}" orientation="n"/>
+        <terminal x="-80" y="-50" name="" type="Generic" uuid="{b7ffcd4f-f605-4818-bcdb-e1258b954835}" orientation="n"/>
+        <terminal x="-80" y="50" name="" type="Generic" uuid="{eec3841c-a3d1-4e6e-9b02-3841036eb499}" orientation="s"/>
+    </description>
+</definition>

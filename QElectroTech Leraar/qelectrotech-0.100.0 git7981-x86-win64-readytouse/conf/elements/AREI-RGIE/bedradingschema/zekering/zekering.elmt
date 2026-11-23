@@ -1,0 +1,44 @@
+<definition version="0.100.0" height="90" width="40" hotspot_x="31" link_type="simple" hotspot_y="44" type="element">
+    <uuid uuid="{4186d174-4869-42cb-befa-ca27b497a68e}"/>
+    <names>
+        <name lang="nl">Automaat</name>
+        <name lang="en">Circuit breaker </name>
+        <name lang="fr">Interrupteur automatique ou disjoncteur</name>
+    </names>
+    <elementInformations/>
+    <informations>[NL]
+Dit gratis element werd ontworpen door ShadowHunter en werd gedownload van www.shadowhunter.co.uk , www.shadowhunter.be of www.arei-rgie.be. Dit element wordt aangeboden zoals het is en zonder enige garantie. ShadowHunter kan niet aansprakelijk worden gesteld voor rechtstreekse of onrechtstreekse schade die ontstaat uit het gebruik van dit element. Het gebruik, wijzigingen en de integratie van dit element in schema’s is toegestaan zonder enige voorwaarden, ongeacht het uiteindelijke doel of vergunningstype van het schema. Bij herdistributie van dit element mag deze licentie-informatie niet worden verwijderd. Contact: info@shadowhunter.co.uk 
+
+[FR]
+Cet élément gratuit a été conçu par ShadowHunter et téléchargé depuis www.shadowhunter.co.uk , www.shadowhunter.be of www.arei-rgie.be. Cet élément est fournie telle quelle et sans la moindre garantie. Shadowhunter ne peut pas être tenue responsable de dommages directs ou indirects résultant de l'utilisation de cet élément. L'utilisation, la modification et l'intégration de cet élément dans des schémas électriques est autorisée sans condition, quelle que soit la licence finale des schémas. Lors de la redistribution de cet élément, ces informations de licence ne peuvent jamais être supprimées.
+Contact: info@shadowhunter.co.uk
+
+[EN]
+This free element was designed by ShadowHunter and downloaded from www.shadowhunter.co.uk,  www.shadowhunter.be or www.arei-rgie.be. This element is provided as is and comes without any warranty. Shadowhunter be cannot be held liable for direct or indirect damages resulting from the use of this element. The usage, the modification and the integration of this element into diagrams is allowed without any condition, whatever the final license or purpose of the diagrams is. This license information may not be removed upon redistribution. Contact: info@shadowhunter.co.uk</informations>
+    <description>
+        <line length1="1.5" antialias="false" x1="0" length2="1.5" y1="-40" x2="0" y2="-20" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" x1="0" length2="1.5" y1="20" x2="0" y2="40" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" x1="-20" length2="1.5" y1="-20" x2="0" y2="20" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon y5="-12" antialias="false" x4="-20" x1="-16" x3="-24" y3="-18" y6="-12" y1="-12" x2="-20" x6="-16" y4="-20" x5="-16" y2="-10" style="line-style:normal;line-weight:normal;filling:black;color:black"/>
+        <dynamic_text font="Sans Serif,9,-1,5,50,0,0,0,0,0" x="-39" frame="false" Halignment="AlignLeft" keep_visual_rotation="false" text_from="ElementInfo" y="-12.5" uuid="{0f671a67-242e-43f3-bc6e-50879eded30f}" Valignment="AlignTop" text_width="-1" rotation="0" z="6">
+            <text></text>
+            <info_name>tension-protocol</info_name>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,9,-1,5,50,0,0,0,0,0" x="5" frame="false" Halignment="AlignLeft" keep_visual_rotation="false" text_from="ElementInfo" y="-13.5" uuid="{a164f881-7618-486a-b4f6-2ce5a470c14a}" Valignment="AlignTop" text_width="-1" rotation="0" z="7">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,9,-1,5,50,0,0,0,0,0" x="-19" frame="false" Halignment="AlignLeft" keep_visual_rotation="false" text_from="ElementInfo" y="12.5" uuid="{65ce5b66-22b5-463d-9bb3-2b7d378686a7}" Valignment="AlignTop" text_width="-1" rotation="0" z="8">
+            <text></text>
+            <info_name>tension-protocol</info_name>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" x="-15" frame="false" Halignment="AlignLeft" keep_visual_rotation="false" text_from="UserText" y="-40" uuid="{d7592460-54c4-4537-91ae-a063fd0ff2fa}" Valignment="AlignTop" text_width="-1" rotation="0" z="9">
+            <text>2</text>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" x="-15" frame="false" Halignment="AlignLeft" keep_visual_rotation="false" text_from="UserText" y="15" uuid="{24782df6-5647-447f-a7ac-55993dbee982}" Valignment="AlignTop" text_width="-1" rotation="0" z="10">
+            <text>1</text>
+        </dynamic_text>
+        <terminal name="" x="0" y="-40" uuid="{222375ba-a4bd-4538-af0b-9ea89974d1ac}" orientation="n" type="Generic"/>
+        <terminal name="" x="0" y="40" uuid="{1b475aff-d468-4984-a89a-ba03bd903ccf}" orientation="s" type="Generic"/>
+    </description>
+</definition>

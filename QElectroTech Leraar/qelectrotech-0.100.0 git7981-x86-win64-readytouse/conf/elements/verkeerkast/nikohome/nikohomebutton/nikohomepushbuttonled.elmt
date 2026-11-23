@@ -1,0 +1,31 @@
+<definition link_type="simple" height="130" type="element" width="130" version="0.100.0" hotspot_y="64" hotspot_x="65">
+    <uuid uuid="{0111c1f3-c2c8-4e40-9859-3e33d09ebff9}"/>
+    <names>
+        <name lang="en">Niko Home push button led</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">Niko</elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <rect height="120" rx="0" style="line-style:normal;line-weight:eleve;filling:HTMLGrayDimGray;color:HTMLGrayDimGray" width="120" y="-60" x="-60" ry="0" antialias="false"/>
+        <rect height="84" rx="0" style="line-style:normal;line-weight:eleve;filling:none;color:black" width="86" y="-42" x="-43" ry="0" antialias="false"/>
+        <rect height="0" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="2" y="40" x="42" ry="0" antialias="false"/>
+        <rect height="78" rx="0" style="line-style:normal;line-weight:normal;filling:HTMLGrayDimGray;color:HTMLGrayGray" width="80" y="-39" x="-40" ry="0" antialias="false"/>
+        <circle style="line-style:normal;line-weight:normal;filling:HTMLYellowLightGoldenrodYellow;color:white" diameter="4" y="30" x="-2" antialias="false"/>
+        <terminal name="" type="Generic" y="60" orientation="s" uuid="{d81513bc-ac4a-4edb-8a72-b5df1d488cf3}" x="-35"/>
+        <terminal name="" type="Generic" y="-60" orientation="n" uuid="{6cd5f1d9-ab0d-4e04-b7b6-20924efa6a6a}" x="-35"/>
+        <terminal name="" type="Generic" y="-60" orientation="n" uuid="{f95b0fdf-e2c2-47c9-b1bc-6eed7e0d3387}" x="35"/>
+        <terminal name="" type="Generic" y="60" orientation="s" uuid="{4cb2a772-04ab-4ff4-8ec3-c93f99420748}" x="35"/>
+    </description>
+</definition>

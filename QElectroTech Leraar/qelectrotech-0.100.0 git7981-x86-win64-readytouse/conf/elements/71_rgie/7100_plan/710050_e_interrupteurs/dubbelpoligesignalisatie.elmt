@@ -1,0 +1,25 @@
+<definition type="element" hotspot_y="20" height="30" link_type="slave" hotspot_x="31" width="50" version="0.100.0">
+    <uuid uuid="{86e10344-bc8a-45d4-9b11-42f858e82a1a}"/>
+    <names>
+        <name lang="fr">Interrupteur bipolaire à lampe de signalisation</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations>EN 60617: 11-14-06</informations>
+    <description>
+        <dynamic_text text_width="-1" Valignment="AlignTop" keep_visual_rotation="false" x="5" z="1" rotation="0" font="Sans Serif,7,-1,5,50,0,0,0,0,0" text_from="ElementInfo" Halignment="AlignLeft" y="-2.5" uuid="{180d6856-20dd-4699-8c02-2dc010c8ac79}" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon x1="2" y2="-16" y3="-14" y1="-5" x3="12" x2="9" closed="false" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <circle x="-5" y="-5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true" diameter="10"/>
+        <circle x="-25" y="-5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="10"/>
+        <line x1="-15" y2="0" end1="none" length2="1.5" y1="0" length1="1.5" x2="-5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-17" y2="3" end1="none" length2="1.5" y1="-3" length1="1.5" x2="-23" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-23" y2="4" end1="none" length2="1.5" y1="-4" length1="1.5" x2="-17" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="7" y2="-10" end1="none" length2="1.5" y1="-12" length1="1.5" x2="10" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+    </description>
+</definition>

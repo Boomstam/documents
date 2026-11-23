@@ -1,0 +1,42 @@
+17:48:09.235 Info: Start-up 
+17:48:09.251 Debug: "File C:/Users/hugue/OneDrive/Bureaublad/PI BEVEREN 2025-2026/GROEIPUNT 2024-2025/CVO GROEIPUNT/qelectrotech-0.100.0 git7981-x86-win64-readytouse/conf/20240617.log is deleted!" (../sources/main.cpp:150, void delete_old_log_files(int))
+17:48:09.257 Debug: "File C:/Users/hugue/OneDrive/Bureaublad/PI BEVEREN 2025-2026/GROEIPUNT 2024-2025/CVO GROEIPUNT/qelectrotech-0.100.0 git7981-x86-win64-readytouse/conf/20250908.log is deleted!" (../sources/main.cpp:150, void delete_old_log_files(int))
+17:48:09.264 Debug: "File C:/Users/hugue/OneDrive/Bureaublad/PI BEVEREN 2025-2026/GROEIPUNT 2024-2025/CVO GROEIPUNT/qelectrotech-0.100.0 git7981-x86-win64-readytouse/conf/20250909.log is deleted!" (../sources/main.cpp:150, void delete_old_log_files(int))
+17:48:09.276 Info: debugging enabled: false 
+17:48:09.277 Info: Qt library version: 5.15.11 
+17:48:09.278 Info: Qt library location default prefix: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5" 
+17:48:09.279 Info: Qt library location documentation: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/doc" 
+17:48:09.279 Info: Qt library location headers: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/include" 
+17:48:09.281 Info: Qt library location libraries: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/lib" 
+17:48:09.281 Info: Qt library location executables: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/bin" 
+17:48:09.282 Info: Qt library location Qt binaries: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/bin" 
+17:48:09.282 Info: Qt library location Qt plugins: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/plugins" 
+17:48:09.283 Info: Qt library location installed QML extensions: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/imports" 
+17:48:09.284 Info: Qt library location installed QML extensions: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/qml" 
+17:48:09.284 Info: Qt library location dependent Qt data: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5" 
+17:48:09.284 Info: Qt library location independent Qt data: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5" 
+17:48:09.285 Info: Qt library location translation: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/translations" 
+17:48:09.285 Info: Qt library location examples: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/examples" 
+17:48:09.286 Info: Qt library location Qt testcases: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/tests" 
+17:48:09.286 Info: "QElectroTech V 0.100.0-dev" 
+17:48:09.288 Info: "Compilatie: GCC 11.4.0" 
+17:48:09.288 Info: "Built with Qt 5.15.11 - x86_64 - Date : Nov  7 2023 : 08:14:43" 
+17:48:09.289 Info: "Run with Qt 5.15.11 using 8 thread(s)" 
+17:48:09.289 Info: "CPU : " 
+17:48:09.289 Info: "RAM Total : 15 GB" 
+17:48:09.290 Info: "RAM Available : 7 GB" 
+17:48:09.291 Info: "GPU : " 
+17:48:09.291 Info: "GPU RAM : RAM Total :  B" 
+17:48:09.292 Info: "OS : winnt  - x86_64 - Version : Windows 11 Version 2009 - Kernel : 10.0.26200" 
+17:48:09.292 Info: *** Qt screens *** 
+17:48:09.293 Info: "( 1 : 2736 x 1824 )" 
+17:48:09.294 Info: DISK : C:/   
+17:48:09.295 Info: FileSystemType: "NTFS" 
+17:48:09.296 Info: SizeTotal: 254 GB 
+17:48:09.298 Info: AvailableSize: 34 GB 
+17:48:09.304 Info: DISK USED: C:/   
+17:48:09.304 Info: FileSystemType: "NTFS" 
+17:48:09.306 Info: SizeTotal: 254 GB 
+17:48:09.306 Info: AvailableSize: 34 GB 
+17:48:09.492 Info: Elements collection reload 
+17:48:28.377 Info: Elements collection finished to be loaded in 18.883 seconds 

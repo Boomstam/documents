@@ -1,0 +1,13 @@
+<definition type="element" height="30" hotspot_y="5" hotspot_x="5" version="0.100.0" width="90" link_type="simple">
+    <uuid uuid="{87d2e354-702f-4f67-87fd-80e31222df0d}"/>
+    <names>
+        <name lang="nl">2 polige kamgeleider</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect ry="0" height="20" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" width="80" y="0" x="0" rx="0"/>
+        <text text="L1" font="Sans Serif,8,-1,5,50,0,0,0,0,0" color="#aa5500" y="15" x="15" rotation="0"/>
+        <text text="N" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#0000ff" y="15" x="55" rotation="0"/>
+    </description>
+</definition>

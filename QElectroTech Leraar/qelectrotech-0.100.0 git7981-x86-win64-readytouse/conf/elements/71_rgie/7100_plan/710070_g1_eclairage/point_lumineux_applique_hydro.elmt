@@ -1,0 +1,24 @@
+<definition hotspot_x="12" version="0.100.0" width="30" type="element" hotspot_y="10" height="20" link_type="slave">
+    <uuid uuid="{fe3d3c76-7e3c-417b-a43b-b77aa36da2dc}"/>
+    <names>
+        <name lang="fr">Point lumineux en applique</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text z="1" rotation="0" Valignment="AlignTop" keep_visual_rotation="false" text_width="-1" Halignment="AlignLeft" y="-36.5" uuid="{f4879352-f7b1-4e60-9347-02621f5e2d9c}" x="-15" frame="false" font="Sans Serif,7,-1,5,50,0,0,0,0,0" text_from="ElementInfo">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line y2="6" end2="none" end1="none" x2="6" length2="1.5" antialias="false" x1="-6" length1="1.5" y1="-6" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y2="6" end2="none" end1="none" x2="-6" length2="1.5" antialias="false" x1="6" length1="1.5" y1="-6" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line y2="7" end2="none" end1="none" x2="11" length2="1.5" antialias="false" x1="11" length1="1.5" y1="-7" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text z="5" rotation="0" Valignment="AlignTop" keep_visual_rotation="false" text_width="-1" Halignment="AlignLeft" y="-27" uuid="{7c2bb06e-1dd7-4f6b-b60f-98efc5d5ea66}" x="-2" frame="false" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="UserText">
+            <text>h</text>
+        </dynamic_text>
+    </description>
+</definition>

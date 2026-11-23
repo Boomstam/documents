@@ -1,0 +1,28 @@
+<definition type="element" hotspot_y="20" height="40" link_type="slave" hotspot_x="21" width="50" version="0.100.0">
+    <uuid uuid="{922b6120-9889-40d5-83f3-ae53f7a5cde0}"/>
+    <names>
+        <name lang="fr">Commutateur intermédiaire avec signalisation</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text text_width="-1" Valignment="AlignTop" keep_visual_rotation="false" x="20" z="1" rotation="0" font="Sans Serif,7,-1,5,50,0,0,0,0,0" text_from="ElementInfo" Halignment="AlignLeft" y="-2.5" uuid="{f56e5add-9670-44be-aa80-22d0bfd18cea}" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon x1="12" y2="-16" y3="-14" y1="-5" x3="22" x2="19" closed="false" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <circle x="5" y="-5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true" diameter="10"/>
+        <polygon x1="8" y2="-16" y3="-14" y1="-5" x3="-2" x2="1" closed="false" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <polygon x1="12" y2="16" y3="14" y1="5" x3="22" x2="19" closed="false" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <polygon x1="8" y2="16" y3="14" y1="5" x3="-2" x2="1" closed="false" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <circle x="-15" y="-5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" diameter="10"/>
+        <line x1="-5" y2="0" end1="none" length2="1.5" y1="0" length1="1.5" x2="5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-7" y2="3" end1="none" length2="1.5" y1="-3" length1="1.5" x2="-13" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line x1="-13" y2="3" end1="none" length2="1.5" y1="-3" length1="1.5" x2="-7" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+    </description>
+</definition>

@@ -1,0 +1,16 @@
+<definition hotspot_x="30" hotspot_y="30" height="90" type="element" link_type="simple" width="60" version="0.100.0">
+    <uuid uuid="{360bef2c-85ca-44ce-80e9-d29b4b71012f}"/>
+    <names>
+        <name lang="fr">Lamp</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle x="-25" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-25" diameter="50"/>
+        <polygon y8="45" x9="-10" x7="-10" y7="40" y2="50" x5="-10" closed="false" y1="25" style="line-style:normal;line-weight:normal;filling:none;color:black" y6="35" x3="10" x2="-10" x8="10" antialias="false" x10="-10" x1="-10" y10="50" y4="25" x6="10" y3="50" y9="50" y5="30" x4="10"/>
+        <arc angle="90" x="-6" height="4" antialias="true" start="180" width="12" style="line-style:normal;line-weight:normal;filling:none;color:black" y="48"/>
+        <arc angle="90" x="-4" height="4" antialias="true" start="270" width="10" style="line-style:normal;line-weight:normal;filling:none;color:black" y="48"/>
+        <terminal uuid="{17e3731d-7d22-4266-b062-dd4e24eb5fd7}" x="0" type="Generic" name="" y="52" orientation="s"/>
+        <terminal uuid="{53a809cc-9d98-43cf-92d9-84b2940f66c8}" x="-10" type="Generic" name="" y="40" orientation="w"/>
+    </description>
+</definition>

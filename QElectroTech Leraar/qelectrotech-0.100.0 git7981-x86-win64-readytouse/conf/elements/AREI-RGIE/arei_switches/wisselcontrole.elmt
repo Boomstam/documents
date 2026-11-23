@@ -1,0 +1,40 @@
+<definition hotspot_y="40" link_type="simple" height="80" version="0.100.0" type="element" width="70" hotspot_x="45">
+    <uuid uuid="{fe67ae1e-ed6a-4dbd-9457-7dc179c914fa}"/>
+    <names>
+        <name lang="nl">Enkelpolige wisselschakelaar</name>
+        <name lang="en">Single pole change over switch</name>
+        <name lang="fr">Interrupteur unipolaire va-et-vient </name>
+    </names>
+    <elementInformations/>
+    <informations>[NL]
+Dit gratis element werd ontworpen door ShadowHunter en werd gedownload van www.shadowhunter.co.uk , www.shadowhunter.be of www.arei-rgie.be. Dit element wordt aangeboden zoals het is en zonder enige garantie. ShadowHunter kan niet aansprakelijk worden gesteld voor rechtstreekse of onrechtstreekse schade die ontstaat uit het gebruik van dit element. Het gebruik, wijzigingen en de integratie van dit element in schema’s is toegestaan zonder enige voorwaarden, ongeacht het uiteindelijke doel of vergunningstype van het schema. Bij herdistributie van dit element mag deze licentie-informatie niet worden verwijderd. Contact: info@shadowhunter.co.uk 
+
+[FR]
+Cet élément gratuit a été conçu par ShadowHunter et téléchargé depuis www.shadowhunter.co.uk , www.shadowhunter.be of www.arei-rgie.be. Cet élément est fournie telle quelle et sans la moindre garantie. Shadowhunter ne peut pas être tenue responsable de dommages directs ou indirects résultant de l'utilisation de cet élément. L'utilisation, la modification et l'intégration de cet élément dans des schémas électriques est autorisée sans condition, quelle que soit la licence finale des schémas. Lors de la redistribution de cet élément, ces informations de licence ne peuvent jamais être supprimées.
+Contact: info@shadowhunter.co.uk
+
+[EN]
+This free element was designed by ShadowHunter and downloaded from www.shadowhunter.co.uk,  www.shadowhunter.be or www.arei-rgie.be. This element is provided as is and comes without any warranty. Shadowhunter be cannot be held liable for direct or indirect damages resulting from the use of this element. The usage, the modification and the integration of this element into diagrams is allowed without any condition, whatever the final license or purpose of the diagrams is. This license information may not be removed upon redistribution. Contact: info@shadowhunter.co.uk</informations>
+    <description>
+        <line y2="36" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" end2="none" x2="-13" y1="33.31" length1="1.5" x1="-20"/>
+        <circle diameter="20" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="-10" y="-10"/>
+        <line y2="-10" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" end2="none" x2="3" y1="-36" length1="1.5" x1="13"/>
+        <dynamic_text rotation="0" uuid="{7e407a16-6a81-4d9d-a8fe-2c81225fe2df}" keep_visual_rotation="false" Valignment="AlignTop" z="4" frame="false" Halignment="AlignLeft" x="4" text_from="ElementInfo" text_width="-1" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="7.5">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line y2="-33.31" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" end2="none" x2="20" y1="-36" length1="1.5" x1="13"/>
+        <line y2="36" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" end2="none" x2="-13" y1="10" length1="1.5" x1="-3"/>
+        <line y2="0" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" end2="none" x2="-20" y1="0" length1="1.5" x1="-10"/>
+        <circle diameter="18" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="-39" y="-9"/>
+        <line y2="6" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" end2="none" x2="-25" y1="-6" length1="1.5" x1="-36"/>
+        <line y2="6" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" end2="none" x2="-36" y1="-6" length1="1.5" x1="-24"/>
+        <terminal orientation="w" uuid="{28209973-5342-4fdc-b855-bb4246d08c2b}" type="Generic" x="-39" name="" y="0"/>
+        <terminal orientation="s" uuid="{3a6a9f88-2117-4426-b0bb-6130658c7958}" type="Generic" x="-30" name="" y="9"/>
+        <terminal orientation="n" uuid="{9600f79b-5bc6-4a03-952b-190f6d5bfbcb}" type="Generic" x="0" name="" y="-10"/>
+        <terminal orientation="s" uuid="{edf1c85a-74c7-4e99-bbc5-3eb22ab0f898}" type="Generic" x="0" name="" y="10"/>
+        <terminal orientation="e" uuid="{a170b01c-602e-4325-90e7-d2bee0f98164}" type="Generic" x="10" name="" y="0"/>
+        <terminal orientation="w" uuid="{75bfccaf-8c76-452f-b91a-47b03bbec52f}" type="Generic" x="-10" name="" y="0"/>
+        <terminal orientation="n" uuid="{887d394b-b784-4e56-a4e4-84236d739e14}" type="Generic" x="-30" name="" y="-8"/>
+    </description>
+</definition>

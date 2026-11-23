@@ -1,0 +1,25 @@
+<definition hotspot_x="11" height="30" width="30" type="element" hotspot_y="20" version="0.100.0" link_type="slave">
+    <uuid uuid="{d5290f27-f826-4901-83e2-cb5f123c852d}"/>
+    <names>
+        <name lang="fr">Interrupteur bipolaire</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text z="1" y="-2.5" font="Sans Serif,7,-1,5,50,0,0,0,0,0" uuid="{9f4a2e91-c883-4e74-a0c4-6a498859c410}" text_from="ElementInfo" text_width="-1" x="5" frame="false" rotation="0" Valignment="AlignTop" keep_visual_rotation="false" Halignment="AlignLeft">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon y2="-16" closed="false" y1="-5" x2="9" antialias="true" x3="12" style="line-style:normal;line-weight:normal;filling:none;color:black" y3="-14" x1="2"/>
+        <circle antialias="true" y="-5" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" x="-5"/>
+        <line y2="-11" end1="none" length1="1.5" y1="-13" x2="10" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x1="7" end2="none"/>
+        <dynamic_text z="5" y="-8" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" uuid="{8cec7dfe-a5e0-427e-aea2-6f95e5fe5524}" text_from="UserText" text_width="-1" x="15" frame="false" rotation="0" Valignment="AlignTop" keep_visual_rotation="false" Halignment="AlignLeft">
+            <text>_</text>
+        </dynamic_text>
+    </description>
+</definition>

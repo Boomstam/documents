@@ -1,0 +1,34 @@
+<definition hotspot_x="16" version="0.100.0" hotspot_y="14" type="element" height="30" link_type="master" width="30">
+    <uuid uuid="{45fc538e-6110-400e-ad51-1e9e2093f8cf}"/>
+    <names>
+        <name lang="fr">Sonnerie</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">commutator</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation show="1" name="label"></elementInformation>
+        <elementInformation show="1" name="unity"></elementInformation>
+        <elementInformation show="1" name="description"></elementInformation>
+        <elementInformation show="1" name="plant"></elementInformation>
+        <elementInformation show="1" name="supplier"></elementInformation>
+        <elementInformation show="1" name="designation"></elementInformation>
+        <elementInformation show="1" name="manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="machine_manufacturer_reference"></elementInformation>
+        <elementInformation show="1" name="manufacturer"></elementInformation>
+        <elementInformation show="1" name="quantity"></elementInformation>
+        <elementInformation show="1" name="comment"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <dynamic_text Valignment="AlignTop" x="-6" frame="false" keep_visual_rotation="false" y="-36.5" uuid="{71141e62-f707-461f-942b-e56b757938c4}" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text_width="-1" text_from="ElementInfo" z="1" Halignment="AlignLeft" rotation="0">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line y1="0" x2="0" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="0" length1="1.5" length2="1.5" end2="none" antialias="false" x1="-10"/>
+        <arc x="-10" y="-10" start="270" angle="180" height="20" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true" width="20"/>
+        <line y1="-9" x2="0" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="9" length1="1.5" length2="1.5" end2="none" antialias="false" x1="0"/>
+        <terminal x="-10" y="0" uuid="{1dc5f402-c449-4df8-8b6a-1d899ba1b34e}" name="" type="Generic" orientation="w"/>
+        <terminal x="0" y="10" uuid="{5d850691-02f6-4c3b-a999-717ee0d11d4d}" name="" type="Generic" orientation="s"/>
+    </description>
+</definition>

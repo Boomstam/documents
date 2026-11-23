@@ -1,0 +1,24 @@
+<definition hotspot_y="16" hotspot_x="11" link_type="simple" height="40" width="40" version="0.100.0" type="element">
+    <uuid uuid="{f342a094-e926-4fe9-bb48-89f999eaeed1}"/>
+    <names>
+        <name lang="fr">volet schema niko</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <polygon x4="12" x5="12" y5="0" x2="0" y2="10" style="line-style:normal;line-weight:normal;filling:none;color:black" x3="8" x1="0" y1="0" y3="10" antialias="false" y4="6"/>
+        <polygon x4="12" closed="false" x2="22" y2="-8" style="line-style:normal;line-weight:normal;filling:none;color:black" x3="22" x1="12" y1="0" y3="-2" antialias="false" y4="6"/>
+        <polygon closed="false" x2="10" y2="-8" style="line-style:normal;line-weight:normal;filling:none;color:black" x3="22" x1="0" y1="0" y3="-8" antialias="false"/>
+        <polygon x4="2" x2="0" y2="20" style="line-style:normal;line-weight:normal;filling:none;color:black" x3="2" x1="0" y1="10" y3="20" antialias="false" y4="10"/>
+        <polygon x4="16" closed="false" x2="16" y2="8" style="line-style:normal;line-weight:normal;filling:none;color:black" x3="16" x1="2" y1="20" y3="4" antialias="false" y4="4"/>
+        <line length1="1.5" end1="none" x2="16" y2="6" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="2" y1="18" antialias="false" length2="1.5"/>
+        <line length1="1.5" end1="none" x2="16" y2="4" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="2" y1="16" antialias="false" length2="1.5"/>
+        <line length1="1.5" end1="none" x2="6" y2="10" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="2" y1="14" antialias="false" length2="1.5"/>
+        <text y="-2" font="Sans Serif,2,-1,5,50,0,0,0,0,0" rotation="0" x="14" text="N" color="#000000"/>
+        <text y="-12" font="Sans Serif,2,-1,5,50,0,0,0,0,0" rotation="180" x="10" text="V" color="#000000"/>
+        <text y="10" font="Sans Serif,2,-1,5,50,0,0,0,0,0" rotation="0" x="2" text="V" color="#000000"/>
+        <terminal name="" y="0" orientation="w" x="-2" type="Generic" uuid="{763147d0-8c0e-42af-84f7-390090f1471b}"/>
+        <terminal name="" y="-8" orientation="w" x="8" type="Generic" uuid="{544be413-3395-4bc4-af76-6cbb4bf1b037}"/>
+        <terminal name="" y="-4" orientation="w" x="4" type="Generic" uuid="{2d2fbe65-600a-46ad-aeea-d29ff4ccd92b}"/>
+    </description>
+</definition>

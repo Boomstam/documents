@@ -1,0 +1,14 @@
+<definition hotspot_y="12" hotspot_x="16" link_type="simple" height="20" width="30" version="0.100.0" type="element">
+    <uuid uuid="{b3f22065-209f-4cd0-add7-22c5873c3de1}"/>
+    <names>
+        <name lang="fr">Point lumineux led</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <polygon y8="-3" x6="0" x10="7" y2="0" y1="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y3="0" x8="7" y4="0" x7="7" y10="3" y5="-5" x1="-10" x9="7" x2="10" x3="5" x4="7" y7="0" x5="0" y9="3" closed="false" y6="5"/>
+        <polygon x4="7.5" x5="7.5" closed="false" y5="-8.61998" x2="7.5" y2="-8.61998" x6="7.5" y6="-8.61998" style="line-style:normal;line-weight:normal;filling:none;color:black" x3="6.6" x1="5.7" y1="-5" y3="-7.89598" antialias="false" y4="-7.53399"/>
+        <polygon x4="4.8" x5="4.8" closed="false" y5="-8.61998" x2="4.8" y2="-8.61998" x6="4.8" y6="-8.61998" style="line-style:normal;line-weight:normal;filling:none;color:black" x3="3.9" x1="3" y1="-5" y3="-7.89598" antialias="false" y4="-7.53399"/>
+        <terminal name="" y="0" orientation="w" x="-10" type="Generic" uuid="{7e26cdf1-7ae3-40a7-86dc-5aaa03bd7931}"/>
+    </description>
+</definition>

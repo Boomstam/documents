@@ -1,0 +1,21 @@
+<definition version="0.100.0" width="110" hotspot_y="25" hotspot_x="53" type="element" height="80" link_type="simple">
+    <uuid uuid="{0c87979a-0148-4b5c-91f7-fa71951aeef1}"/>
+    <names>
+        <name lang="en">benaming</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect width="100" x="-50" rx="0" y="-20" ry="0" style="line-style:dashed;line-weight:normal;filling:none;color:lightgray" height="40" antialias="false"/>
+        <dynamic_text x="-30" frame="false" text_width="-1" Halignment="AlignLeft" text_from="UserText" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" y="-15" keep_visual_rotation="false" rotation="0" Valignment="AlignTop" z="2" uuid="{34fa99c6-0649-45d9-846a-86a7709ddd85}">
+            <text>Benaming</text>
+        </dynamic_text>
+        <line y2="50" end2="none" end1="none" y1="20" x1="-35" style="line-style:normal;line-weight:hight;filling:none;color:HTMLBlueDeepSkyBlue" length1="1.5" length2="1.5" x2="-35" antialias="false"/>
+        <line y2="50" end2="none" end1="none" y1="20" x1="35" style="line-style:normal;line-weight:hight;filling:none;color:red" length1="1.5" length2="1.5" x2="35" antialias="false"/>
+        <dynamic_text x="-25" frame="false" text_width="-1" Halignment="AlignLeft" text_from="UserText" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" y="25" keep_visual_rotation="false" rotation="0" Valignment="AlignTop" z="5" uuid="{2ffef24d-002a-4025-b043-ee48370a48a8}">
+            <text>3G 1.5</text>
+        </dynamic_text>
+        <line y2="36" end2="none" end1="none" y1="20" x1="45" style="line-style:dotted;line-weight:hight;filling:none;color:green" length1="1.5" length2="1.5" x2="45" antialias="false"/>
+        <line y2="36" end2="none" end1="none" y1="36" x1="45" style="line-style:dotted;line-weight:hight;filling:none;color:green" length1="1.5" length2="1.5" x2="54" antialias="false"/>
+    </description>
+</definition>

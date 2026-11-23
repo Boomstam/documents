@@ -1,0 +1,18 @@
+<definition width="50" hotspot_y="15" type="element" hotspot_x="25" link_type="simple" height="30" version="0.100.0">
+    <uuid uuid="{aee7aabd-21ee-4ab1-b4f3-d5328c9d18cb}"/>
+    <names>
+        <name lang="en">Deurslot</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <polygon x6="-20" x4="20" x2="10" x3="20" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-10" x1="-20" x5="-20" y5="10" y4="10" y6="-10" y2="-10" y3="10"/>
+        <arc x="-14" width="10" y="-3" angle="90" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" start="90" height="10"/>
+        <arc x="-14" width="10" y="-3" angle="90" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" start="0" height="10"/>
+        <arc x="-4" width="10" y="-3" angle="90" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" start="90" height="10"/>
+        <arc x="-4" width="10" y="-3" angle="90" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" start="0" height="10"/>
+        <dynamic_text x="25" uuid="{9b04732f-4352-4662-abc9-ebe31de9f6d0}" Valignment="AlignTop" text_from="UserText" y="-10" frame="false" Halignment="AlignLeft" rotation="0" text_width="-1" keep_visual_rotation="false" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" z="6">
+            <text>A</text>
+        </dynamic_text>
+    </description>
+</definition>

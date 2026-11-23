@@ -1,0 +1,27 @@
+<definition hotspot_x="44" width="50" height="90" hotspot_y="54" link_type="simple" version="0.100.0" type="element">
+    <uuid uuid="{368e412a-f96c-4751-8b95-53c4d2c3c04f}"/>
+    <names>
+        <name lang="en">Enkelpolige</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line end2="none" antialias="false" x1="0" length2="1.5" y2="-30" y1="-50" length1="1.5" end1="none" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end2="none" antialias="false" x1="0" length2="1.5" y2="30" y1="10.5" length1="1.5" end1="none" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end2="none" antialias="false" x1="-15" length2="1.5" y2="10.5" y1="-30" length1="1.5" end1="none" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end2="none" antialias="false" x1="-15" length2="1.5" y2="-7" y1="-7" length1="1.5" end1="none" x2="-7" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end2="none" antialias="false" x1="-20" length2="1.5" y2="-7" y1="-7" length1="1.5" end1="none" x2="-25" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end2="none" antialias="false" x1="-30" length2="1.5" y2="-7" y1="-2" length1="1.5" end1="none" x2="-25" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end2="none" antialias="false" x1="-35" length2="1.5" y2="-2" y1="-7" length1="1.5" end1="none" x2="-30" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end2="none" antialias="false" x1="-40" length2="1.5" y2="-7" y1="-7" length1="1.5" end1="none" x2="-35" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line end2="none" antialias="false" x1="-40" length2="1.5" y2="3" y1="-17" length1="1.5" end1="none" x2="-40" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text x="-15" keep_visual_rotation="false" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" y="-50" z="10" Halignment="AlignLeft" text_width="-1" frame="false" Valignment="AlignTop" rotation="0" text_from="UserText" uuid="{036a5205-2829-4269-a550-79e51a8ab57d}">
+            <text>1</text>
+        </dynamic_text>
+        <dynamic_text x="-15" keep_visual_rotation="false" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" y="6" z="11" Halignment="AlignLeft" text_width="-1" frame="false" Valignment="AlignTop" rotation="0" text_from="UserText" uuid="{3fe2812a-272f-4602-898d-09537a82aa3c}">
+            <text>2</text>
+        </dynamic_text>
+        <terminal orientation="n" x="0" y="-50" name="" type="Generic" uuid="{556276e8-30bc-4812-ae49-0cda2b337413}"/>
+        <terminal orientation="s" x="0" y="30" name="" type="Generic" uuid="{80f5368f-5382-4f87-a4de-9bb734ec1cc7}"/>
+    </description>
+</definition>

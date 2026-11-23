@@ -1,0 +1,36 @@
+<definition version="0.100.0" height="100" width="100" hotspot_x="54" link_type="simple" hotspot_y="51" type="element">
+    <uuid uuid="{103507eb-a6ca-4a34-b9c8-e245026fe045}"/>
+    <names>
+        <name lang="en">Dubbel enkelepolig</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line length1="1.5" antialias="false" x1="0" length2="1.5" y1="-40" x2="0" y2="-20.5" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" x1="0" length2="1.5" y1="19.5" x2="0" y2="40" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" x1="40" length2="1.5" y1="19.5" x2="40" y2="40" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" x1="-20" length2="1.5" y1="-20.5" x2="0" y2="19.5" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" x1="20" length2="1.5" y1="-20.5" x2="40" y2="19.5" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" x1="-18" length2="1.5" y1="2" x2="-9" y2="2" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" x1="-23" length2="1.5" y1="2" x2="-28" y2="2" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" x1="-33" length2="1.5" y1="7" x2="-28" y2="2" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" x="27" y="30" text="4" rotation="0"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" x="-8" y="-30" text="1" rotation="0"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" x="-13" y="30" text="2" rotation="0"/>
+        <line length1="1.5" antialias="false" x1="10" length2="1.5" y1="-40" x2="0" y2="-20" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" x1="10" length2="1.5" y1="-40" x2="40" y2="-40" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" x1="40" length2="1.5" y1="-20" x2="40" y2="-39" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" x1="-38" length2="1.5" y1="2" x2="-33" y2="7" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" x1="-50" length2="1.5" y1="2" x2="-38" y2="2" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" x1="-50" length2="1.5" y1="-8" x2="-50" y2="12" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" x1="31" length2="1.5" y1="2" x2="24" y2="2" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" x1="21" length2="1.5" y1="2" x2="17" y2="2" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" x1="17" length2="1.5" y1="2" x2="13" y2="6" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" x1="13" length2="1.5" y1="6" x2="10" y2="2" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" x1="10" length2="1.5" y1="2" x2="6" y2="2" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" x1="6" length2="1.5" y1="-8" x2="6" y2="12" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal name="" x="40" y="40" uuid="{9147fb1b-8797-4ca9-9a74-d278c8010e8d}" orientation="s" type="Generic"/>
+        <terminal name="" x="0" y="40" uuid="{30a3c16d-6186-417e-a41a-df83c6bc04f0}" orientation="s" type="Generic"/>
+        <terminal name="" x="0" y="-40" uuid="{9b5b1a74-2260-4cef-a3e4-be0641cdc435}" orientation="n" type="Generic"/>
+    </description>
+</definition>

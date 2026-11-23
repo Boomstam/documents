@@ -1,0 +1,45 @@
+<definition link_type="simple" height="130" type="element" width="130" version="0.100.0" hotspot_y="64" hotspot_x="65">
+    <uuid uuid="{5b795554-14aa-4aac-9195-744aad031e9d}"/>
+    <names>
+        <name lang="en">Niko Home HVAC button</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">Niko</elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <rect height="120" rx="0" style="line-style:normal;line-weight:eleve;filling:HTMLGrayDimGray;color:HTMLGrayDimGray" width="120" y="-60" x="-60" ry="0" antialias="false"/>
+        <rect height="84" rx="0" style="line-style:normal;line-weight:eleve;filling:none;color:black" width="86" y="-42" x="-43" ry="0" antialias="false"/>
+        <rect height="0" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="2" y="40" x="42" ry="0" antialias="false"/>
+        <rect height="78" rx="0" style="line-style:normal;line-weight:normal;filling:HTMLGrayDimGray;color:HTMLGrayGray" width="80" y="-39" x="-40" ry="0" antialias="false"/>
+        <line length1="1.5" y2="-14" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="40" end1="none" x1="12" y1="-14" end2="none" antialias="false" length2="1.5"/>
+        <line length1="1.5" y2="14" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="40" end1="none" x1="12" y1="14" end2="none" antialias="false" length2="1.5"/>
+        <polygon x3="31" y4="-24" y2="-27" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayDarkGray" x4="31" x2="26" y3="-24" closed="false" x1="21" y1="-24" antialias="false"/>
+        <polygon x3="31" y2="28" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayDarkGray" x2="26" y3="25" closed="false" x1="21" y1="25" antialias="false"/>
+        <polygon x3="26" y4="0" y2="0" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayDarkGray" x4="32" x2="20" y3="6" x1="26" y1="-6" antialias="false"/>
+        <line length1="1.5" y2="40" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="12" end1="none" x1="12" y1="-40" end2="none" antialias="false" length2="1.5"/>
+        <rect height="76" rx="0" style="line-style:normal;line-weight:normal;filling:HTMLGrayBlack;color:black" width="51" y="-38" x="-39" ry="0" antialias="false"/>
+        <text color="#d6d6d6" rotation="0" text="25" font="Sans Serif,20,-1,5,50,0,0,0,0,0" y="-12" x="-25"/>
+        <text color="#d6d6d6" rotation="0" text=",3" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-3" x="-4"/>
+        <text color="#d6d6d6" rotation="0" text="°C" font="Sans Serif,6,-1,5,50,0,0,0,0,0" y="-9" x="-4"/>
+        <ellipse height="7.2" style="line-style:dotted;line-weight:normal;filling:HTMLYellowYellow;color:HTMLYellowYellow" width="7.8" y="24" x="-25" antialias="false"/>
+        <ellipse height="2.4" style="line-style:normal;line-weight:normal;filling:HTMLOrangeOrangeRed;color:orange" width="2.6" y="26.4" x="-22.4" antialias="false"/>
+        <ellipse height="7.2" style="line-style:dotted;line-weight:normal;filling:white;color:gray" width="7.8" y="24" x="-14" antialias="false"/>
+        <ellipse height="7.2" style="line-style:dotted;line-weight:hight;filling:white;color:black" width="7.8" y="24" x="-2" antialias="false"/>
+        <text color="#d6d6d6" rotation="0" text="24" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="9" x="-6"/>
+        <terminal name="" type="Generic" y="60" orientation="s" uuid="{d81513bc-ac4a-4edb-8a72-b5df1d488cf3}" x="-35"/>
+        <terminal name="" type="Generic" y="-60" orientation="n" uuid="{6cd5f1d9-ab0d-4e04-b7b6-20924efa6a6a}" x="-35"/>
+        <terminal name="" type="Generic" y="60" orientation="s" uuid="{4cb2a772-04ab-4ff4-8ec3-c93f99420748}" x="35"/>
+        <terminal name="" type="Generic" y="-60" orientation="n" uuid="{f95b0fdf-e2c2-47c9-b1bc-6eed7e0d3387}" x="35"/>
+    </description>
+</definition>

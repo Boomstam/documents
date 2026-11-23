@@ -1,0 +1,16 @@
+<definition link_type="simple" type="element" hotspot_x="15" width="30" height="40" version="0.100.0" hotspot_y="20">
+    <uuid uuid="{8670e5b6-c23d-4c41-abd4-23ecd68a11d4}"/>
+    <names>
+        <name lang="fr">Haut parleur</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect style="line-style:normal;line-weight:normal;filling:none;color:black" width="20" height="30" antialias="false" ry="0" x="-10" y="-15" rx="0"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="-7" diameter="14" y="-1"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="-1" diameter="2" y="5"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="-5" diameter="3" y="-12"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="2" diameter="6" y="-9"/>
+        <circle style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="4" diameter="2" y="-7"/>
+    </description>
+</definition>

@@ -1,0 +1,46 @@
+<definition hotspot_y="25" hotspot_x="124" version="0.100.0" link_type="simple" type="element" width="250" height="60">
+    <uuid uuid="{e282a70b-311b-43d0-bb98-959e08623cc8}"/>
+    <names>
+        <name lang="nl">Drie fasen Camgeleider</name>
+        <name lang="en">Drie fasen camgeleider</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <arc antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" start="180" angle="90" y="-30" x="-40" width="20" height="20"/>
+        <arc antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" start="270" angle="90" y="-30" x="-40" width="20" height="20"/>
+        <arc antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" start="270" angle="90" y="-40" x="-50" width="40" height="40"/>
+        <arc antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" start="180" angle="90" y="-40" x="-50" width="40" height="40"/>
+        <arc antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" start="180" angle="90" y="-30" x="-100" width="20" height="20"/>
+        <arc antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" start="270" angle="90" y="-30" x="-100" width="20" height="20"/>
+        <arc antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" start="270" angle="90" y="-40" x="-110" width="40" height="40"/>
+        <arc antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" start="180" angle="90" y="-40" x="-110" width="40" height="40"/>
+        <line antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-100" end1="none" length2="1.5" y1="-2" y2="10" length1="1.5" end2="none" x1="-100"/>
+        <line antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-80" end1="none" length2="1.5" y1="-2" y2="10" length1="1.5" end2="none" x1="-80"/>
+        <line antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-40" end1="none" length2="1.5" y1="-2" y2="10" length1="1.5" end2="none" x1="-40"/>
+        <line antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-20" end1="none" length2="1.5" y1="-2" y2="10" length1="1.5" end2="none" x1="-20"/>
+        <line antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" end1="none" length2="1.5" y1="10" y2="10" length1="1.5" end2="none" x1="-20"/>
+        <line antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="121" end1="none" length2="1.5" y1="10" y2="30" length1="1.5" end2="none" x1="121"/>
+        <line antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" end1="none" length2="1.5" y1="10" y2="30" length1="1.5" end2="none" x1="0"/>
+        <line antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-120" end1="none" length2="1.5" y1="30" y2="30" length1="1.5" end2="none" x1="0"/>
+        <line antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-120" end1="none" length2="1.5" y1="30" y2="10" length1="1.5" end2="none" x1="-120"/>
+        <line antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="1" end1="none" length2="1.5" y1="30" y2="10" length1="1.5" end2="none" x1="1"/>
+        <line antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-100" end1="none" length2="1.5" y1="10" y2="10" length1="1.5" end2="none" x1="-120"/>
+        <line antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-40" end1="none" length2="1.5" y1="10" y2="10" length1="1.5" end2="none" x1="-80"/>
+        <line antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-100" end1="none" length2="1.5" y1="-20" y2="-20" length1="1.5" end2="none" x1="-110"/>
+        <line antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-70" end1="none" length2="1.5" y1="-20" y2="-20" length1="1.5" end2="none" x1="-80"/>
+        <line antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-40" end1="none" length2="1.5" y1="-20" y2="-20" length1="1.5" end2="none" x1="-50"/>
+        <line antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="-10" end1="none" length2="1.5" y1="-20" y2="-20" length1="1.5" end2="none" x1="-20"/>
+        <rect ry="0" antialias="false" rx="0" style="line-style:normal;line-weight:normal;filling:black;color:black" y="10" x="-120" width="120" height="20"/>
+        <rect ry="0" antialias="false" rx="0" style="line-style:normal;line-weight:normal;filling:black;color:black" y="0" x="-100" width="20" height="10"/>
+        <rect ry="0" antialias="false" rx="0" style="line-style:normal;line-weight:normal;filling:black;color:black" y="0" x="-40" width="20" height="10"/>
+        <dynamic_text z="203" rotation="0" keep_visual_rotation="false" uuid="{82a5c53d-b80a-4454-bceb-8ee5da9e6712}" text_from="UserText" y="5" frame="false" x="-40" font="Sans Serif,14,-1,5,50,0,0,0,0,0" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop">
+            <text>N</text>
+            <color>#55aaff</color>
+        </dynamic_text>
+        <dynamic_text z="204" rotation="0" keep_visual_rotation="false" uuid="{cdbe54c9-344e-40e7-8edd-db87e4065e7b}" text_from="UserText" y="5" frame="false" x="-105" font="Sans Serif,14,-1,5,50,0,0,0,0,0" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop">
+            <text>L1</text>
+            <color>#ff5500</color>
+        </dynamic_text>
+    </description>
+</definition>

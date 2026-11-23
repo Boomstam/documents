@@ -1,0 +1,25 @@
+<definition hotspot_x="15" height="40" width="30" type="element" hotspot_y="20" version="0.100.0" link_type="slave">
+    <uuid uuid="{6d6f2a80-f181-4376-9a0a-d259e34285fa}"/>
+    <names>
+        <name lang="fr">Interrupteur unipolaire va-et-vient
+</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">simple</kindInformation>
+        <kindInformation name="state">Other</kindInformation>
+        <kindInformation name="number">1</kindInformation>
+    </kindInformations>
+    <informations>EN 60617: 11-14-06</informations>
+    <description>
+        <dynamic_text z="1" y="-2.5" font="Sans Serif,7,-1,5,50,0,0,0,0,0" uuid="{88aba317-b8ff-4130-b58f-5f881a39aee8}" text_from="ElementInfo" text_width="-1" x="5" frame="false" rotation="0" Valignment="AlignTop" keep_visual_rotation="false" Halignment="AlignLeft">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon y2="15" closed="false" y1="5" x2="-9" antialias="true" x3="-12" style="line-style:normal;line-weight:normal;filling:none;color:black" y3="13" x1="-2"/>
+        <polygon y2="-16" closed="false" y1="-5" x2="9" antialias="true" x3="12" style="line-style:normal;line-weight:normal;filling:none;color:black" y3="-14" x1="2"/>
+        <circle antialias="true" y="-5" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10" x="-5"/>
+        <dynamic_text z="5" y="1" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" uuid="{061ba45b-17d8-425e-8ddf-b674adef89d1}" text_from="UserText" text_width="-1" x="15" frame="false" rotation="0" Valignment="AlignTop" keep_visual_rotation="false" Halignment="AlignLeft">
+            <text>_</text>
+        </dynamic_text>
+    </description>
+</definition>

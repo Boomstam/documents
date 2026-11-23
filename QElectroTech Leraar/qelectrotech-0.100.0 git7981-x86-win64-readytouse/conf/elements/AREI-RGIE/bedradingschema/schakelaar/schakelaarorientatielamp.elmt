@@ -1,0 +1,42 @@
+<definition hotspot_y="54" link_type="simple" height="90" version="0.100.0" type="element" width="100" hotspot_x="47">
+    <uuid uuid="{7268095c-3a42-43ab-ac84-3912da82cc28}"/>
+    <names>
+        <name lang="en">Dubbelpolige control</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line y2="-30" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" end2="none" x2="0" y1="-50" length1="1.5" x1="0"/>
+        <line y2="30" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" end2="none" x2="0" y1="10" length1="1.5" x1="0"/>
+        <line y2="-25" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" end2="none" x2="-15" y1="10" length1="1.5" x1="0"/>
+        <line y2="30" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" end2="none" x2="20" y1="10" length1="1.5" x1="0"/>
+        <line y2="30" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" end2="none" x2="40" y1="30" length1="1.5" x1="20"/>
+        <line y2="0" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" end2="none" x2="40" y1="30" length1="1.5" x1="40"/>
+        <line y2="-50" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" end2="none" x2="40" y1="-20" length1="1.5" x1="40"/>
+        <line y2="-10" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" end2="none" x2="-20" y1="-10" length1="1.5" x1="-10"/>
+        <line y2="-10" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" end2="none" x2="-30" y1="-10" length1="1.5" x1="-25"/>
+        <line y2="-10" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" end2="none" x2="-30" y1="-5" length1="1.5" x1="-35"/>
+        <line y2="-5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" end2="none" x2="-35" y1="-10" length1="1.5" x1="-40"/>
+        <line y2="-10" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" end2="none" x2="-45" y1="-10" length1="1.5" x1="-40"/>
+        <line y2="5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" end2="none" x2="-45" y1="-25" length1="1.5" x1="-45"/>
+        <circle diameter="20" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="30" y="-20"/>
+        <line y2="-5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" end2="none" x2="45" y1="-15" length1="1.5" x1="35"/>
+        <line y2="-5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" end2="none" x2="35" y1="-15" length1="1.5" x1="45"/>
+        <dynamic_text rotation="0" uuid="{a4ef71f3-d48a-4545-b8aa-b5a1f9df30c5}" keep_visual_rotation="false" Valignment="AlignTop" z="17" frame="false" Halignment="AlignLeft" x="-15" text_from="UserText" text_width="-1" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" y="-50">
+            <text>1</text>
+        </dynamic_text>
+        <dynamic_text rotation="0" uuid="{bd18bc79-38ca-421c-83a8-8210c0cc0be5}" keep_visual_rotation="false" Valignment="AlignTop" z="18" frame="false" Halignment="AlignLeft" x="-15" text_from="UserText" text_width="-1" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" y="0">
+            <text>2</text>
+        </dynamic_text>
+        <dynamic_text rotation="0" uuid="{47e31adf-74c8-4ff0-832c-4f8fe200d931}" keep_visual_rotation="false" Valignment="AlignTop" z="19" frame="false" Halignment="AlignLeft" x="20" text_from="UserText" text_width="-1" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" y="-50">
+            <text>x1</text>
+        </dynamic_text>
+        <dynamic_text rotation="0" uuid="{6f97f480-c552-4fed-a80d-bb6bc138ebd0}" keep_visual_rotation="false" Valignment="AlignTop" z="20" frame="false" Halignment="AlignLeft" x="20" text_from="UserText" text_width="-1" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" y="0">
+            <text>x2</text>
+        </dynamic_text>
+        <line y2="-50" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" end2="none" x2="20" y1="-30" length1="1.5" x1="0"/>
+        <line y2="-50" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" end2="none" x2="40" y1="-50" length1="1.5" x1="20"/>
+        <terminal orientation="s" uuid="{7ebe455a-e9ab-4c04-a804-0cbc0adce4ff}" type="Generic" x="0" name="" y="30"/>
+        <terminal orientation="n" uuid="{9fb202d4-e8cb-4e54-8296-703b576cb50c}" type="Generic" x="0" name="" y="-50"/>
+    </description>
+</definition>

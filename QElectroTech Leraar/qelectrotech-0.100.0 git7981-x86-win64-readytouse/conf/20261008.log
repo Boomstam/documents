@@ -1,0 +1,225 @@
+18:04:53.717 Info: Start-up 
+18:04:54.046 Info: Elements collection reload 
+18:04:54.351 Info: debugging enabled: false 
+18:04:54.352 Info: Qt library version: 5.15.11 
+18:04:54.352 Info: Qt library location default prefix: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5" 
+18:04:54.352 Info: Qt library location documentation: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/doc" 
+18:04:54.353 Info: Qt library location headers: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/include" 
+18:04:54.353 Info: Qt library location libraries: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/lib" 
+18:04:54.354 Info: Qt library location executables: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/bin" 
+18:04:54.354 Info: Qt library location Qt binaries: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/bin" 
+18:04:54.355 Info: Qt library location Qt plugins: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/plugins" 
+18:04:54.355 Info: Qt library location installed QML extensions: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/imports" 
+18:04:54.355 Info: Qt library location installed QML extensions: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/qml" 
+18:04:54.355 Info: Qt library location dependent Qt data: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5" 
+18:04:54.355 Info: Qt library location independent Qt data: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5" 
+18:04:54.356 Info: Qt library location translation: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/translations" 
+18:04:54.356 Info: Qt library location examples: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/examples" 
+18:04:54.356 Info: Qt library location Qt testcases: "/home/laurent/digikam/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/tests" 
+18:04:54.356 Info: "QElectroTech V 0.100.0-dev" 
+18:04:54.356 Info: "Compilatie: GCC 11.4.0" 
+18:04:54.357 Info: "Built with Qt 5.15.11 - x86_64 - Date : Nov  7 2023 : 08:14:43" 
+18:04:54.357 Info: "Run with Qt 5.15.11 using 8 thread(s)" 
+18:04:54.357 Info: "CPU : NAME                                      \r\r\nINTEL(R) CORE(TM) I5-8250U CPU @ 1.60GHZ  \r\r\n\r\r\n" 
+18:04:54.357 Info: "RAM Total : 8 GB" 
+18:04:54.357 Info: "RAM Available : 2 GB" 
+18:04:54.357 Info: "GPU : VideoProcessor                \r\r\nIntel(R) UHD Graphics Family  \r\r\n\r\r\n" 
+18:04:54.358 Info: "GPU RAM : RAM Total : AdapterRAM  \r\r\n1073741824  \r\r\n\r\r\n B" 
+18:04:54.358 Info: "OS : winnt  - x86_64 - Version : Windows 10 Version 2009 - Kernel : 10.0.19045" 
+18:04:54.358 Info: *** Qt screens *** 
+18:04:54.358 Info: "( 1 : 1920 x 1080 )" 
+18:04:54.359 Info: DISK : C:/   
+18:04:54.359 Info: FileSystemType: "NTFS" 
+18:04:54.359 Info: SizeTotal: 167 GB 
+18:04:54.359 Info: AvailableSize: 64 GB 
+18:04:54.360 Info: DISK : D:/   
+18:04:54.360 Info: FileSystemType: "NTFS" 
+18:04:54.360 Info: SizeTotal: 88 GB 
+18:04:54.360 Info: AvailableSize: 82 GB 
+18:04:54.362 Info: DISK USED: C:/   
+18:04:54.362 Info: FileSystemType: "NTFS" 
+18:04:54.362 Info: SizeTotal: 167 GB 
+18:04:54.362 Info: AvailableSize: 64 GB 
+18:04:55.872 Info: Elements collection finished to be loaded in 1.826 seconds 
+18:04:56.631 Debug: ElementData::masterTypeFromString : string  "simple"  don't exist, return failsafe value 'coil' (../sources/properties/elementdata.cpp:377, static ElementData::MasterType ElementData::masterTypeFromString(const QString&))
+18:05:02.724 Debug: Export XML de 0 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+18:05:02.724 Debug: is QRegularExpression ok? (../sources/titleblocktemplate.cpp:437, void TitleBlockTemplate::parseColumns(const QString&))
+18:05:02.833 Warning: QObject::connect: No such signal BorderTitleBlock::diagramTitleChanged(const QString &) (:0, )
+18:05:02.911 Warning: QObject::connect: No such slot BorderTitleBlock::slot_setAutoPageNum(QString) (:0, )
+18:05:02.911 Warning: QObject::connect:  (sender name:   'AutoNumberingDockWidget') (:0, )
+18:05:03.098 Info: Elements collection finished to be loaded 
+18:05:03.130 Warning: QObject::disconnect: No such slot BorderTitleBlock::slot_setAutoPageNum(QString) (:0, )
+18:05:03.130 Warning: QObject::disconnect:  (sender name:   'AutoNumberingDockWidget') (:0, )
+18:05:03.145 Warning: QObject::connect: No such slot BorderTitleBlock::slot_setAutoPageNum(QString) (:0, )
+18:05:03.145 Warning: QObject::connect:  (sender name:   'AutoNumberingDockWidget') (:0, )
+18:05:07.010 Warning: setGeometry: Unable to set geometry 1365x736+296+161 (frame: 1383x783+287+123) on QWidgetWindow/"DiagramPropertiesDialogClassWindow" on "\\.\DISPLAY1". Resulting geometry: 1365x772+296+161 (frame: 1383x819+287+123) margins: 9, 38, 9, 9 minimum size: 1092x578 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=1383,770 maxtrack=0,0) (:0, )
+18:06:41.249 Debug: projectDataBase::addElement insert element info error :  QSqlError("19", "Kon rij niet ophalen", "UNIQUE constraint failed: element_info.element_uuid") (../sources/dataBase/projectdatabase.cpp:136, void projectDataBase::addElement(Element*))
+18:06:50.526 Debug: projectDataBase::addElement insert element info error :  QSqlError("19", "Kon rij niet ophalen", "UNIQUE constraint failed: element_info.element_uuid") (../sources/dataBase/projectdatabase.cpp:136, void projectDataBase::addElement(Element*))
+18:06:53.308 Debug: projectDataBase::addElement insert element info error :  QSqlError("19", "Kon rij niet ophalen", "UNIQUE constraint failed: element_info.element_uuid") (../sources/dataBase/projectdatabase.cpp:136, void projectDataBase::addElement(Element*))
+18:07:02.731 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+18:07:02.731 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+18:07:20.777 Warning: QGraphicsView::dragLeaveEvent: drag leave received before drag enter (:0, )
+18:07:25.325 Debug: projectDataBase::addElement insert element info error :  QSqlError("19", "Kon rij niet ophalen", "UNIQUE constraint failed: element_info.element_uuid") (../sources/dataBase/projectdatabase.cpp:136, void projectDataBase::addElement(Element*))
+18:07:26.903 Debug: projectDataBase::addElement insert element info error :  QSqlError("19", "Kon rij niet ophalen", "UNIQUE constraint failed: element_info.element_uuid") (../sources/dataBase/projectdatabase.cpp:136, void projectDataBase::addElement(Element*))
+18:08:57.976 Debug: projectDataBase::addElement insert element info error :  QSqlError("19", "Kon rij niet ophalen", "UNIQUE constraint failed: element_info.element_uuid") (../sources/dataBase/projectdatabase.cpp:136, void projectDataBase::addElement(Element*))
+18:08:59.117 Debug: projectDataBase::addElement insert element info error :  QSqlError("19", "Kon rij niet ophalen", "UNIQUE constraint failed: element_info.element_uuid") (../sources/dataBase/projectdatabase.cpp:136, void projectDataBase::addElement(Element*))
+18:09:00.696 Debug: projectDataBase::addElement insert element info error :  QSqlError("19", "Kon rij niet ophalen", "UNIQUE constraint failed: element_info.element_uuid") (../sources/dataBase/projectdatabase.cpp:136, void projectDataBase::addElement(Element*))
+18:09:02.150 Debug: projectDataBase::addElement insert element info error :  QSqlError("19", "Kon rij niet ophalen", "UNIQUE constraint failed: element_info.element_uuid") (../sources/dataBase/projectdatabase.cpp:136, void projectDataBase::addElement(Element*))
+18:09:02.728 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+18:09:02.728 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+18:11:02.723 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+18:11:02.723 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+18:13:02.726 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+18:13:02.726 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+18:15:02.726 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+18:15:02.726 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+18:16:51.364 Debug: projectDataBase::addElement insert element info error :  QSqlError("19", "Kon rij niet ophalen", "UNIQUE constraint failed: element_info.element_uuid") (../sources/dataBase/projectdatabase.cpp:136, void projectDataBase::addElement(Element*))
+18:16:54.101 Debug: projectDataBase::addElement insert element info error :  QSqlError("19", "Kon rij niet ophalen", "UNIQUE constraint failed: element_info.element_uuid") (../sources/dataBase/projectdatabase.cpp:136, void projectDataBase::addElement(Element*))
+18:17:02.728 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+18:17:02.728 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+18:17:07.805 Warning: QWidget::setLayout: Attempting to set QLayout "" on StyleEditor "", which already has a layout (:0, )
+18:17:07.821 Warning: QWidget::setLayout: Attempting to set QLayout "" on StyleEditor "", which already has a layout (:0, )
+18:17:07.821 Warning: QWidget::setLayout: Attempting to set QLayout "" on StyleEditor "", which already has a layout (:0, )
+18:17:07.836 Warning: QWidget::setLayout: Attempting to set QLayout "" on StyleEditor "", which already has a layout (:0, )
+18:17:07.836 Warning: QWidget::setLayout: Attempting to set QLayout "" on StyleEditor "", which already has a layout (:0, )
+18:17:07.852 Warning: QWidget::setLayout: Attempting to set QLayout "" on StyleEditor "", which already has a layout (:0, )
+18:17:07.852 Warning: QMetaObject::connectSlotsByName: No matching signal for on_m_color_kpb_changed(QColor) (:0, )
+18:17:20.319 Debug: projectDataBase::addElement insert element info error :  QSqlError("19", "Kon rij niet ophalen", "UNIQUE constraint failed: element_info.element_uuid") (../sources/dataBase/projectdatabase.cpp:136, void projectDataBase::addElement(Element*))
+18:19:02.723 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+18:19:02.725 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+18:21:02.738 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+18:21:02.738 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+18:22:02.584 Warning: setGeometry: Unable to set geometry 1365x736+296+161 (frame: 1383x783+287+123) on QWidgetWindow/"DiagramPropertiesDialogClassWindow" on "\\.\DISPLAY1". Resulting geometry: 1365x772+296+161 (frame: 1383x819+287+123) margins: 9, 38, 9, 9 minimum size: 1092x578 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=1383,770 maxtrack=0,0) (:0, )
+18:22:43.280 Debug: Help code for QT 6 or later (../sources/print/projectprintwindow.cpp:604, void ProjectPrintWindow::savePageSetupForCurrentPrinter())
+18:22:43.280 Warning: QObject::disconnect: No such slot BorderTitleBlock::slot_setAutoPageNum(QString) (:0, )
+18:22:43.280 Warning: QObject::disconnect:  (sender name:   'AutoNumberingDockWidget') (:0, )
+18:22:43.280 Warning: QObject::connect: No such slot BorderTitleBlock::slot_setAutoPageNum(QString) (:0, )
+18:22:43.280 Warning: QObject::connect:  (sender name:   'AutoNumberingDockWidget') (:0, )
+18:23:02.756 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+18:23:02.756 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+18:25:02.755 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+18:25:02.756 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+18:26:20.493 Debug: Help code for QT 6 or later (../sources/print/projectprintwindow.cpp:604, void ProjectPrintWindow::savePageSetupForCurrentPrinter())
+18:26:20.503 Warning: QObject::disconnect: No such slot BorderTitleBlock::slot_setAutoPageNum(QString) (:0, )
+18:26:20.503 Warning: QObject::disconnect:  (sender name:   'AutoNumberingDockWidget') (:0, )
+18:26:20.503 Warning: QObject::connect: No such slot BorderTitleBlock::slot_setAutoPageNum(QString) (:0, )
+18:26:20.503 Warning: QObject::connect:  (sender name:   'AutoNumberingDockWidget') (:0, )
+18:27:02.779 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+18:27:02.779 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+18:29:02.775 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+18:29:02.777 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+18:31:02.773 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+18:31:02.773 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+18:33:02.782 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+18:33:02.782 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+18:35:02.785 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+18:35:02.785 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+18:37:02.801 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+18:37:02.801 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+18:39:02.821 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+18:39:02.821 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+18:41:02.840 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+18:41:02.840 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+18:43:02.847 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+18:43:02.847 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+18:45:02.867 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+18:45:02.867 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+18:47:02.872 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+18:47:02.872 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+18:49:02.861 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+18:49:02.861 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+18:51:02.884 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+18:51:02.884 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+18:53:02.906 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+18:53:02.906 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+18:55:02.923 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+18:55:02.923 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+18:57:02.946 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+18:57:02.946 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+18:59:02.952 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+18:59:02.952 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+19:01:02.947 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+19:01:02.947 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+19:03:02.937 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+19:03:02.937 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+19:37:36.593 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+19:37:36.593 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+19:39:36.605 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+19:39:36.605 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+19:41:36.601 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+19:41:36.601 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+19:43:36.595 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+19:43:36.595 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+19:45:36.611 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+19:45:36.611 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+19:47:36.616 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+19:47:36.616 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+19:49:36.632 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+19:49:36.632 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+19:51:36.645 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+19:51:36.645 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+19:53:36.646 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+19:53:36.646 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+19:55:36.648 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+19:55:36.648 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+19:57:36.650 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+19:57:36.650 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+19:59:36.650 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+19:59:36.650 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+20:00:19.749 Warning: QString::split: invalid QRegularExpression object (:0, )
+20:01:36.664 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+20:01:36.664 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+20:03:36.683 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+20:03:36.683 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+20:05:36.689 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+20:05:36.689 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+20:07:36.707 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+20:07:36.707 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+20:09:36.727 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+20:09:36.727 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+20:11:36.741 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+20:11:36.741 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+20:13:36.757 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+20:13:36.757 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+20:15:36.778 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+20:15:36.778 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+20:17:36.782 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+20:17:36.782 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+20:19:36.808 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+20:19:36.808 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+20:21:36.815 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+20:21:36.815 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+20:23:36.831 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+20:23:36.831 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+20:25:36.839 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+20:25:36.839 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+20:27:36.830 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+20:27:36.830 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+20:29:36.851 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+20:29:36.851 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+21:01:05.577 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+21:01:05.577 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+21:03:05.568 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+21:03:05.568 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+21:05:05.565 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+21:05:05.565 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+21:07:05.573 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+21:07:05.573 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+21:09:05.565 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+21:09:05.565 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+21:11:05.576 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+21:11:05.576 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+21:13:05.575 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+21:13:05.575 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+21:15:05.576 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+21:15:05.576 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+21:17:05.569 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+21:17:05.569 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+21:19:05.570 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+21:19:05.570 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+21:21:05.575 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+21:21:05.575 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+21:23:05.581 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+21:23:05.581 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())
+21:24:27.582 Debug: Export XML de 1 schemas (../sources/qetproject.cpp:951, QDomDocument QETProject::toXml())
+21:24:27.582 Debug: "exporting diagram \"DUBBELPOLGE SCHAKELING\"" [ Diagram(0x1e6adfb7d10) ] (../sources/qetproject.cpp:956, QDomDocument QETProject::toXml())

@@ -1,0 +1,37 @@
+<definition link_type="simple" height="130" type="element" width="130" version="0.100.0" hotspot_y="64" hotspot_x="65">
+    <uuid uuid="{24e93788-7ffd-4171-95d1-d26be5a9e8b6}"/>
+    <names>
+        <name lang="en">Niko Home motor button led</name>
+    </names>
+    <elementInformations>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1">Niko</elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+    </elementInformations>
+    <informations></informations>
+    <description>
+        <rect height="120" rx="0" style="line-style:normal;line-weight:eleve;filling:HTMLGrayDimGray;color:HTMLGrayDimGray" width="120" y="-60" x="-60" ry="0" antialias="false"/>
+        <rect height="84" rx="0" style="line-style:normal;line-weight:eleve;filling:none;color:black" width="86" y="-42" x="-43" ry="0" antialias="false"/>
+        <rect height="0" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="2" y="40" x="42" ry="0" antialias="false"/>
+        <rect height="78" rx="0" style="line-style:normal;line-weight:normal;filling:HTMLGrayDimGray;color:HTMLGrayGray" width="80" y="-39" x="-40" ry="0" antialias="false"/>
+        <line length1="1.5" y2="-14" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="40" end1="none" x1="-40" y1="-14" end2="none" antialias="false" length2="1.5"/>
+        <line length1="1.5" y2="14" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="40" end1="none" x1="-40" y1="14" end2="none" antialias="false" length2="1.5"/>
+        <polygon x3="5" y4="-24" y2="-27" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayDarkGray" x4="5" x2="0" y3="-24" closed="false" x1="-5" y1="-24" antialias="false"/>
+        <polygon x3="5" y2="28" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayDarkGray" x2="0" y3="25" closed="false" x1="-5" y1="25" antialias="false"/>
+        <circle style="line-style:normal;line-weight:normal;filling:HTMLYellowLightGoldenrodYellow;color:white" diameter="4" y="30" x="-2" antialias="false"/>
+        <circle style="line-style:normal;line-weight:normal;filling:HTMLYellowLightGoldenrodYellow;color:white" diameter="4" y="-33" x="-2" antialias="false"/>
+        <polygon x5="-6" x9="2" x1="-6" y2="2" y9="6" y7="-2" y10="6" x8="-6" antialias="false" x2="6" closed="false" x6="4" y6="-2" x10="2" x7="-6" y4="-6" y8="6" x3="6" x4="-6" y3="-6" y1="2" y5="-2" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayDarkGray"/>
+        <terminal name="" type="Generic" y="-60" orientation="n" uuid="{6cd5f1d9-ab0d-4e04-b7b6-20924efa6a6a}" x="-35"/>
+        <terminal name="" type="Generic" y="60" orientation="s" uuid="{d81513bc-ac4a-4edb-8a72-b5df1d488cf3}" x="-35"/>
+        <terminal name="" type="Generic" y="60" orientation="s" uuid="{4cb2a772-04ab-4ff4-8ec3-c93f99420748}" x="35"/>
+        <terminal name="" type="Generic" y="-60" orientation="n" uuid="{f95b0fdf-e2c2-47c9-b1bc-6eed7e0d3387}" x="35"/>
+    </description>
+</definition>

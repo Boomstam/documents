@@ -1,0 +1,37 @@
+<definition version="0.100.0" height="50" width="70" hotspot_x="34" link_type="simple" hotspot_y="24" type="element">
+    <uuid uuid="{89241b68-f0f2-4772-a49d-ac96e190a3ce}"/>
+    <names>
+        <name lang="nl">Verlichtingstoestel</name>
+        <name lang="fr"> Point lumineux</name>
+        <name lang="en">Lighting</name>
+    </names>
+    <elementInformations/>
+    <informations>[NL]
+Dit gratis element werd ontworpen door ShadowHunter en werd gedownload van www.shadowhunter.co.uk , www.shadowhunter.be of www.arei-rgie.be. Dit element wordt aangeboden zoals het is en zonder enige garantie. ShadowHunter kan niet aansprakelijk worden gesteld voor rechtstreekse of onrechtstreekse schade die ontstaat uit het gebruik van dit element. Het gebruik, wijzigingen en de integratie van dit element in schema’s is toegestaan zonder enige voorwaarden, ongeacht het uiteindelijke doel of vergunningstype van het schema. Bij herdistributie van dit element mag deze licentie-informatie niet worden verwijderd. Contact: info@shadowhunter.co.uk 
+
+[FR]
+Cet élément gratuit a été conçu par ShadowHunter et téléchargé depuis www.shadowhunter.co.uk , www.shadowhunter.be of www.arei-rgie.be. Cet élément est fournie telle quelle et sans la moindre garantie. Shadowhunter ne peut pas être tenue responsable de dommages directs ou indirects résultant de l'utilisation de cet élément. L'utilisation, la modification et l'intégration de cet élément dans des schémas électriques est autorisée sans condition, quelle que soit la licence finale des schémas. Lors de la redistribution de cet élément, ces informations de licence ne peuvent jamais être supprimées.
+Contact: info@shadowhunter.co.uk
+
+[EN]
+This free element was designed by ShadowHunter and downloaded from www.shadowhunter.co.uk,  www.shadowhunter.be or www.arei-rgie.be. This element is provided as is and comes without any warranty. Shadowhunter be cannot be held liable for direct or indirect damages resulting from the use of this element. The usage, the modification and the integration of this element into diagrams is allowed without any condition, whatever the final license or purpose of the diagrams is. This license information may not be removed upon redistribution. Contact: info@shadowhunter.co.uk</informations>
+    <description>
+        <line length1="1.5" antialias="false" x1="-13" length2="1.5" y1="-13" x2="15" y2="14" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" x1="-14" length2="1.5" y1="15" x2="14" y2="-13" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text font="Sans Serif,9,-1,5,50,0,0,0,0,0" x="-10" frame="false" Halignment="AlignLeft" keep_visual_rotation="false" text_from="ElementInfo" y="12.5" uuid="{9d808ac6-95c7-48ea-b50b-7470298fb6d6}" Valignment="AlignTop" text_width="-1" rotation="0" z="3">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <circle antialias="false" x="-20" diameter="40" y="-19" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" x1="-20" length2="1.5" y1="0" x2="-30" y2="0" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line length1="1.5" antialias="false" x1="20" length2="1.5" y1="0" x2="30" y2="0" end2="none" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" x="-30" frame="false" Halignment="AlignLeft" keep_visual_rotation="false" text_from="UserText" y="-20" uuid="{a433651f-bae9-4a07-b10e-8bc7f684ca49}" Valignment="AlignTop" text_width="-1" rotation="0" z="7">
+            <text>1</text>
+        </dynamic_text>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" x="16" frame="false" Halignment="AlignLeft" keep_visual_rotation="false" text_from="UserText" y="-20" uuid="{cbf7eee3-90e4-4cd7-bb72-376c68bea09e}" Valignment="AlignTop" text_width="-1" rotation="0" z="8">
+            <text>2</text>
+        </dynamic_text>
+        <terminal name="" x="30" y="0" uuid="{a7f3d688-c1d6-42de-addb-b20cf3e3f087}" orientation="e" type="Generic"/>
+        <terminal name="" x="-30" y="0" uuid="{bf8eacd2-64a6-4459-b390-d6b1ada2d65f}" orientation="w" type="Generic"/>
+    </description>
+</definition>

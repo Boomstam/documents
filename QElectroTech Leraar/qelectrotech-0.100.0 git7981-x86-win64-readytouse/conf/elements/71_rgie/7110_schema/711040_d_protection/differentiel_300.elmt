@@ -1,0 +1,47 @@
+<definition hotspot_x="12" version="0.100.0" link_type="master" type="element" height="50" width="30" hotspot_y="24">
+    <uuid uuid="{2838ba04-b89b-45e9-b5c0-836ca8b3cb8c}"/>
+    <names>
+        <name lang="fr">Différentiel 300 mA</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type">protection</kindInformation>
+    </kindInformations>
+    <elementInformations>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+    </elementInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text text_width="-1" keep_visual_rotation="false" x="5" z="1" font="Sans Serif,9,-1,5,50,0,0,0,0,0" uuid="{5f1e1a81-3954-455c-8dc4-57ba9febb10d}" Valignment="AlignTop" y="-1.5" rotation="0" frame="false" Halignment="AlignLeft" text_from="ElementInfo">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <polygon y4="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true" x3="-5" closed="false" y3="-10" x4="-5" x5="-5" y1="20" y5="-10" x2="0" y2="10" x1="0"/>
+        <line end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" antialias="false" length1="1.5" end2="none" y1="-20" x2="0" y2="-10" x1="0"/>
+        <text x="2" font="Sans Serif,4,-1,5,50,0,0,0,0,0" text="1" y="-14" rotation="0" color="#000000"/>
+        <text x="3" font="Sans Serif,4,-1,5,50,0,0,0,0,0" text="2" y="18" rotation="0" color="#000000"/>
+        <polygon y4="-7" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false" x3="-7" y3="-6" x4="-4" x5="-5" y1="-10" y5="-10" x2="-8" y2="-9" x1="-5"/>
+        <polygon y4="-16" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x3="13" y3="-11" x4="10" y1="-16" x2="7" y2="-11" x1="10"/>
+        <dynamic_text text_width="-1" keep_visual_rotation="false" x="3" z="9" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" uuid="{8df644e6-f61f-4c28-9399-1c8a8b3c56b9}" Valignment="AlignTop" y="-11" rotation="0" frame="false" Halignment="AlignLeft" text_from="UserText">
+            <text>4p</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" keep_visual_rotation="false" x="3" z="10" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" uuid="{f7a6aa44-43a1-4f5e-975e-ccdcc1b1c1dc}" Valignment="AlignTop" y="-2" rotation="0" frame="false" Halignment="AlignLeft" text_from="UserText">
+            <text>Type A</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" keep_visual_rotation="false" x="11" z="11" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" uuid="{6b3cd383-eb62-4fe6-8dfb-f9d7a267c0e5}" Valignment="AlignTop" y="-20" rotation="0" frame="false" Halignment="AlignLeft" text_from="UserText">
+            <text>300mA</text>
+        </dynamic_text>
+        <terminal x="0" uuid="{bd133122-7744-40da-8d31-fc4c79ad0d19}" name="" type="Generic" y="-20" orientation="n"/>
+        <terminal x="0" uuid="{97f84bbd-1427-4877-829d-2ab93991bd8d}" name="" type="Generic" y="20" orientation="s"/>
+    </description>
+</definition>

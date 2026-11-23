@@ -1,0 +1,147 @@
+<definition hotspot_y="124" type="element" width="190" height="230" link_type="simple" hotspot_x="125" version="0.100.0">
+    <uuid uuid="{f1347b84-fe10-4258-ad98-a67deb5447d1}"/>
+    <names>
+        <name lang="en">Transformateur</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect ry="0" style="line-style:normal;line-weight:normal;filling:white;color:black" width="180" rx="0" height="110" antialias="false" x="-120" y="-60"/>
+        <circle diameter="20" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="-40" y="70"/>
+        <line x1="-60" x2="60" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-120" length1="1.5" antialias="false" end2="none" end1="none" y2="-120"/>
+        <line x1="-120" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-120" length1="1.5" antialias="false" end2="none" end1="none" y2="-120"/>
+        <circle diameter="20" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="-20" y="-110"/>
+        <circle diameter="20" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="19" y="-110"/>
+        <line x1="20" x2="27" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-102" length1="1.5" antialias="false" end2="none" end1="none" y2="-102"/>
+        <circle diameter="20" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="-100" y="-110"/>
+        <line x1="-120" x2="-120" style="line-style:normal;line-weight:hight;filling:none;color:black" length2="1.5" y1="-120" length1="1.5" antialias="false" end2="none" end1="none" y2="100"/>
+        <line x1="-19" x2="-12" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-102" length1="1.5" antialias="false" end2="none" end1="none" y2="-102"/>
+        <line x1="31" x2="38" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-102" length1="1.5" antialias="false" end2="none" end1="none" y2="-102"/>
+        <line x1="-60" x2="60" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="100" length1="1.5" antialias="false" end2="none" end1="none" y2="100"/>
+        <line x1="-39" x2="-32" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="78" length1="1.5" antialias="false" end2="none" end1="none" y2="78"/>
+        <line x1="-99" x2="-92" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-102" length1="1.5" antialias="false" end2="none" end1="none" y2="-102"/>
+        <line x1="-8" x2="-1" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-102" length1="1.5" antialias="false" end2="none" end1="none" y2="-102"/>
+        <line x1="60" x2="60" style="line-style:normal;line-weight:hight;filling:none;color:black" length2="1.5" y1="-120" length1="1.5" antialias="false" end2="none" end1="none" y2="100"/>
+        <line x1="38" x2="31" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-97" length1="1.5" antialias="false" end2="none" end1="none" y2="-97"/>
+        <line x1="-120" x2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="100" length1="1.5" antialias="false" end2="none" end1="none" y2="100"/>
+        <line x1="-88" x2="-81" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-102" length1="1.5" antialias="false" end2="none" end1="none" y2="-102"/>
+        <line x1="27" x2="20" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-97" length1="1.5" antialias="false" end2="none" end1="none" y2="-97"/>
+        <line x1="-28" x2="-21" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="78" length1="1.5" antialias="false" end2="none" end1="none" y2="78"/>
+        <line x1="-1" x2="-8" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-97" length1="1.5" antialias="false" end2="none" end1="none" y2="-97"/>
+        <line x1="-21" x2="-28" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="83" length1="1.5" antialias="false" end2="none" end1="none" y2="83"/>
+        <line x1="27" x2="27" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-102" length1="1.5" antialias="false" end2="none" end1="none" y2="-106"/>
+        <line x1="-81" x2="-88" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-97" length1="1.5" antialias="false" end2="none" end1="none" y2="-97"/>
+        <line x1="27" x2="30" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-106" length1="1.5" antialias="false" end2="none" end1="none" y2="-106"/>
+        <line x1="-92" x2="-99" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-97" length1="1.5" antialias="false" end2="none" end1="none" y2="-97"/>
+        <line x1="-12" x2="-19" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-97" length1="1.5" antialias="false" end2="none" end1="none" y2="-97"/>
+        <line x1="31" x2="31" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-106" length1="1.5" antialias="false" end2="none" end1="none" y2="-102"/>
+        <circle diameter="20" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="-100" y="70"/>
+        <line x1="-32" x2="-39" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="83" length1="1.5" antialias="false" end2="none" end1="none" y2="83"/>
+        <line x1="-32" x2="-32" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="78" length1="1.5" antialias="false" end2="none" end1="none" y2="74"/>
+        <line x1="27" x2="27" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-97" length1="1.5" antialias="false" end2="none" end1="none" y2="-94"/>
+        <line x1="-92" x2="-92" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-102" length1="1.5" antialias="false" end2="none" end1="none" y2="-106"/>
+        <line x1="-99" x2="-92" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="78" length1="1.5" antialias="false" end2="none" end1="none" y2="78"/>
+        <line x1="27" x2="31" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-93" length1="1.5" antialias="false" end2="none" end1="none" y2="-93"/>
+        <line x1="-12" x2="-12" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-102" length1="1.5" antialias="false" end2="none" end1="none" y2="-106"/>
+        <line x1="31" x2="31" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-97" length1="1.5" antialias="false" end2="none" end1="none" y2="-93"/>
+        <line x1="-92" x2="-89" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-106" length1="1.5" antialias="false" end2="none" end1="none" y2="-106"/>
+        <line x1="31" x2="33" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-102" length1="1.5" antialias="false" end2="none" end1="none" y2="-104"/>
+        <line x1="-12" x2="-9" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-106" length1="1.5" antialias="false" end2="none" end1="none" y2="-106"/>
+        <line x1="-88" x2="-81" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="78" length1="1.5" antialias="false" end2="none" end1="none" y2="78"/>
+        <line x1="27" x2="25" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-102" length1="1.5" antialias="false" end2="none" end1="none" y2="-104"/>
+        <line x1="-32" x2="-29" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="74" length1="1.5" antialias="false" end2="none" end1="none" y2="74"/>
+        <line x1="-88" x2="-88" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-106" length1="1.5" antialias="false" end2="none" end1="none" y2="-102"/>
+        <line x1="27" x2="25" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-97" length1="1.5" antialias="false" end2="none" end1="none" y2="-95"/>
+        <line x1="-8" x2="-8" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-106" length1="1.5" antialias="false" end2="none" end1="none" y2="-102"/>
+        <line x1="-81" x2="-88" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="83" length1="1.5" antialias="false" end2="none" end1="none" y2="83"/>
+        <line x1="-28" x2="-28" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="74" length1="1.5" antialias="false" end2="none" end1="none" y2="78"/>
+        <line x1="-32" x2="-32" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="83" length1="1.5" antialias="false" end2="none" end1="none" y2="86"/>
+        <line x1="31" x2="33" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-97" length1="1.5" antialias="false" end2="none" end1="none" y2="-95"/>
+        <line x1="-12" x2="-12" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-97" length1="1.5" antialias="false" end2="none" end1="none" y2="-94"/>
+        <line x1="50" x2="50" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-100" length1="1.5" antialias="false" end2="none" end1="none" y2="-110"/>
+        <line x1="-92" x2="-99" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="83" length1="1.5" antialias="false" end2="none" end1="none" y2="83"/>
+        <line x1="50" x2="60" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-110" length1="1.5" antialias="false" end2="none" end1="none" y2="-110"/>
+        <line x1="-92" x2="-92" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-97" length1="1.5" antialias="false" end2="none" end1="none" y2="-94"/>
+        <line x1="-92" x2="-92" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="78" length1="1.5" antialias="false" end2="none" end1="none" y2="74"/>
+        <line x1="50" x2="50" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="80" length1="1.5" antialias="false" end2="none" end1="none" y2="90"/>
+        <line x1="-32" x2="-28" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="87" length1="1.5" antialias="false" end2="none" end1="none" y2="87"/>
+        <line x1="60" x2="50" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="90" length1="1.5" antialias="false" end2="none" end1="none" y2="90"/>
+        <line x1="-92" x2="-88" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-93" length1="1.5" antialias="false" end2="none" end1="none" y2="-93"/>
+        <line x1="-12" x2="-8" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-93" length1="1.5" antialias="false" end2="none" end1="none" y2="-93"/>
+        <line x1="-92" x2="-89" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="74" length1="1.5" antialias="false" end2="none" end1="none" y2="74"/>
+        <line x1="-88" x2="-88" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-97" length1="1.5" antialias="false" end2="none" end1="none" y2="-93"/>
+        <line x1="-28" x2="-28" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="83" length1="1.5" antialias="false" end2="none" end1="none" y2="87"/>
+        <line x1="-8" x2="-8" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-97" length1="1.5" antialias="false" end2="none" end1="none" y2="-93"/>
+        <line x1="-88" x2="-88" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="74" length1="1.5" antialias="false" end2="none" end1="none" y2="78"/>
+        <line x1="-8" x2="-6" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-102" length1="1.5" antialias="false" end2="none" end1="none" y2="-104"/>
+        <line x1="-88" x2="-86" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-102" length1="1.5" antialias="false" end2="none" end1="none" y2="-104"/>
+        <line x1="-28" x2="-26" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="78" length1="1.5" antialias="false" end2="none" end1="none" y2="76"/>
+        <line x1="-92" x2="-92" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="83" length1="1.5" antialias="false" end2="none" end1="none" y2="86"/>
+        <line x1="-12" x2="-14" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-102" length1="1.5" antialias="false" end2="none" end1="none" y2="-104"/>
+        <line x1="-92" x2="-94" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-102" length1="1.5" antialias="false" end2="none" end1="none" y2="-104"/>
+        <line x1="-32" x2="-34" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="78" length1="1.5" antialias="false" end2="none" end1="none" y2="76"/>
+        <line x1="-12" x2="-14" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-97" length1="1.5" antialias="false" end2="none" end1="none" y2="-95"/>
+        <line x1="-92" x2="-94" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-97" length1="1.5" antialias="false" end2="none" end1="none" y2="-95"/>
+        <line x1="-32" x2="-34" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="83" length1="1.5" antialias="false" end2="none" end1="none" y2="85"/>
+        <line x1="-92" x2="-88" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="87" length1="1.5" antialias="false" end2="none" end1="none" y2="87"/>
+        <line x1="-88" x2="-88" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="83" length1="1.5" antialias="false" end2="none" end1="none" y2="87"/>
+        <line x1="-28" x2="-26" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="83" length1="1.5" antialias="false" end2="none" end1="none" y2="85"/>
+        <line x1="-8" x2="-6" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-97" length1="1.5" antialias="false" end2="none" end1="none" y2="-95"/>
+        <line x1="-88" x2="-86" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-97" length1="1.5" antialias="false" end2="none" end1="none" y2="-95"/>
+        <line x1="-88" x2="-86" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="78" length1="1.5" antialias="false" end2="none" end1="none" y2="76"/>
+        <line x1="-92" x2="-94" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="78" length1="1.5" antialias="false" end2="none" end1="none" y2="76"/>
+        <line x1="-92" x2="-94" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="83" length1="1.5" antialias="false" end2="none" end1="none" y2="85"/>
+        <line x1="-88" x2="-86" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="83" length1="1.5" antialias="false" end2="none" end1="none" y2="85"/>
+        <line x1="-110" x2="-110" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-100" length1="1.5" antialias="false" end2="none" end1="none" y2="-110"/>
+        <line x1="-110" x2="-120" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-110" length1="1.5" antialias="false" end2="none" end1="none" y2="-110"/>
+        <line x1="-110" x2="-110" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="80" length1="1.5" antialias="false" end2="none" end1="none" y2="90"/>
+        <line x1="-110" x2="-120" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="90" length1="1.5" antialias="false" end2="none" end1="none" y2="90"/>
+        <line x1="-120" x2="60" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="50" length1="1.5" antialias="false" end2="none" end1="none" y2="50"/>
+        <line x1="-120" x2="60" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-60" length1="1.5" antialias="false" end2="none" end1="none" y2="-60"/>
+        <line x1="-110" x2="-110" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-50" length1="1.5" antialias="false" end2="none" end1="none" y2="40"/>
+        <line x1="-110" x2="50" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="40" length1="1.5" antialias="false" end2="none" end1="none" y2="40"/>
+        <arc angle="90" style="line-style:normal;line-weight:normal;filling:none;color:black" width="20" height="20" antialias="true" start="90" x="20" y="-40"/>
+        <arc angle="90" style="line-style:normal;line-weight:normal;filling:none;color:black" width="20" height="20" antialias="true" start="0" x="20" y="-40"/>
+        <arc angle="90" style="line-style:normal;line-weight:normal;filling:none;color:black" width="10" height="40" antialias="true" start="270" x="10" y="-50"/>
+        <arc angle="90" style="line-style:normal;line-weight:normal;filling:none;color:black" width="10" height="40" antialias="true" start="180" x="40" y="-50"/>
+        <line x1="15" x2="45" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-10" length1="1.5" antialias="false" end2="none" end1="none" y2="-10"/>
+        <line x1="30" x2="30" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-10" length1="1.5" antialias="false" end2="none" end1="none" y2="-5"/>
+        <line x1="30" x2="30" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-40" length1="1.5" antialias="false" end2="none" end1="none" y2="-45"/>
+        <polygon x1="-110" x2="-110" x5="50" y3="-85" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-100" antialias="false" y5="-100" y4="-100" x3="50" x4="50" y2="-85" closed="false"/>
+        <polygon x1="-110" x2="-110" x5="50" y3="65" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="80" antialias="false" y5="80" y4="80" x3="50" x4="50" y2="65" closed="false"/>
+        <dynamic_text text_from="UserText" frame="false" text_width="-1" keep_visual_rotation="false" Valignment="AlignTop" z="104" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" uuid="{3ad1696f-b37b-4e34-a729-5b569f1c6b60}" x="-97" Halignment="AlignLeft" y="-15" rotation="0">
+            <text>SEC 8v 1A</text>
+        </dynamic_text>
+        <dynamic_text text_from="UserText" frame="false" text_width="-1" keep_visual_rotation="false" Valignment="AlignTop" z="105" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" uuid="{b7393cda-d90d-44d0-91c1-695f320a283b}" x="-72" Halignment="AlignLeft" y="0" rotation="0">
+            <text>12v 0.66A</text>
+        </dynamic_text>
+        <dynamic_text text_from="UserText" frame="false" text_width="-1" keep_visual_rotation="false" Valignment="AlignTop" z="106" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" uuid="{261dc685-96eb-4b3c-a65e-abbaceaf9a8a}" x="-102" Halignment="AlignLeft" y="15" rotation="0">
+            <text>PRI 230v 50/60hz</text>
+        </dynamic_text>
+        <dynamic_text text_from="UserText" frame="false" text_width="-1" keep_visual_rotation="false" Valignment="AlignTop" z="107" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" uuid="{b8e10e5f-5726-464c-9ac6-bb53ab12f17b}" x="-100" Halignment="AlignLeft" y="-80" rotation="0">
+            <text>0</text>
+        </dynamic_text>
+        <dynamic_text text_from="UserText" frame="false" text_width="-1" keep_visual_rotation="false" Valignment="AlignTop" z="108" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" uuid="{c4441a52-6fce-44cb-9029-d924b24bcf56}" x="-15" Halignment="AlignLeft" y="-80" rotation="0">
+            <text>8</text>
+        </dynamic_text>
+        <dynamic_text text_from="UserText" frame="false" text_width="-1" keep_visual_rotation="false" Valignment="AlignTop" z="109" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" uuid="{b56e5347-535b-4247-a598-86a03c9fe84b}" x="20" Halignment="AlignLeft" y="-80" rotation="0">
+            <text>12</text>
+        </dynamic_text>
+        <dynamic_text text_from="UserText" frame="false" text_width="-1" keep_visual_rotation="false" Valignment="AlignTop" z="110" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" uuid="{7edb24ae-6317-4e9b-a2fd-b8a10e113e89}" x="-80" Halignment="AlignLeft" y="70" rotation="0">
+            <text>0</text>
+        </dynamic_text>
+        <dynamic_text text_from="UserText" frame="false" text_width="-1" keep_visual_rotation="false" Valignment="AlignTop" z="111" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" uuid="{3ad3803c-d162-49c2-912e-e97e1450ae1c}" x="-15" Halignment="AlignLeft" y="70" rotation="0">
+            <text>230</text>
+        </dynamic_text>
+        <terminal orientation="n" type="Generic" name="Phase" uuid="{86c8139a-aa9a-43e5-9def-a1e67dd607e9}" x="-15" y="-120"/>
+        <terminal orientation="n" type="Generic" name="Phase" uuid="{d4926328-c48e-4d77-a61f-a19dfb913e6e}" x="25" y="-120"/>
+        <terminal orientation="n" type="Generic" name="Neutre" uuid="{4a6d992f-88a8-461a-a51f-f52b11acb841}" x="-95" y="-120"/>
+        <terminal orientation="s" type="Generic" name="Phase" uuid="{4cdf9085-39a0-4487-b607-8ccf73a842b7}" x="-25" y="100"/>
+        <terminal orientation="n" type="Generic" name="Neutre" uuid="{c4aa83ed-9608-49d2-bb0d-62f1a5d02b50}" x="-85" y="-120"/>
+        <terminal orientation="n" type="Generic" name="Phase" uuid="{b6e96062-bf94-4341-9c09-e5bd824e3151}" x="35" y="-120"/>
+        <terminal orientation="s" type="Generic" name="Neutre" uuid="{1e439c57-1f9a-412c-8acb-b5884f404e39}" x="-95" y="100"/>
+        <terminal orientation="n" type="Generic" name="Phase" uuid="{e50e1056-f22e-4591-b629-44ed623a3159}" x="-5" y="-120"/>
+        <terminal orientation="s" type="Generic" name="Neutre" uuid="{1740a37c-abc8-4a23-a60b-5709873303d3}" x="-85" y="100"/>
+        <terminal orientation="s" type="Generic" name="Phase" uuid="{36a4a207-fa9b-4cdd-9990-1b6bffca65e8}" x="-35" y="100"/>
+    </description>
+</definition>
